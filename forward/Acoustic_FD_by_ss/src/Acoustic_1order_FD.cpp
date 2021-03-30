@@ -1,9 +1,10 @@
 /**
   filename :  Acoustic Forward Program
-  name     :  SS TJU
+  name     :  ShengShen TJU
   date     :
   describe :  FD with regular grid and sponge boundary & 2nd in time & 16th in space
   **/
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
@@ -15,15 +16,15 @@ int main()
     //*************************************************************************//
     //                          define parameters                              //
     //*************************************************************************//
-    float **P1,**P2,**Vp,**DEN,**Vx1,**Vx2,**Vz1,**Vz2,**record,**R;
+    float **P1,**P2,**Vp,**DEN,**Vx1,**Vx2,**Vz1,**Vz2,**record,**R;/*{{{*/
     float dt, dx, dz;
     int   i, ii, j, jj, k, Lw, NX, NZ, PML, Nx,Nz,Nt,Snapshot;
     float C1,C2,C3,C4,C5,C6,C7,C8;
-    float LS1,LS2;
+    float LS1,LS2;/*}}}*/
     //*************************************************************************//
     //                          the assignment parameter                       //
     //*************************************************************************//
-    NX  = 100; 
+    NX  = 100; /*{{{*/
     NZ  = 100; 
     PML = 20;  
     Nx  = NX+2*PML;//the boundary with pml in x
@@ -42,11 +43,11 @@ int main()
     C7 = 1.7021711e-5;
     C8 = -8.5234642e-7;
 
-    float absorb[NX+2*PML][NZ+2*PML];
+    float absorb[NX+2*PML][NZ+2*PML];/*}}}*/
     //*************************************************************************//
-    //                           open up the arraies                           //
+    //                          open up the arraies                           //
     //*************************************************************************//
-    P1     = new float* [Nx];
+    P1     = new float* [Nx];/*{{{*/
     P2     = new float* [Nx];
     Vp     = new float* [Nx];
     Vx1    = new float* [Nx];
@@ -66,14 +67,13 @@ int main()
     for(i = 0;i<Nx;i++){DEN[i]    = new float [Nz];}
     for(i = 0;i<NX;i++){record[i] = new float [Nt];}
     for(i = 0;i<Nx;i++){R[i]      = new float [Nz];}
-
+/*}}}*/
     //*************************************************************************//
     //                          initializing parameters                        //
     //*************************************************************************//
-    for(i = 0; i < Nx; i++)
+    for(i = 0; i < Nx; i++)/*{{{*/
     {
         for(j = 0; j < Nz;j++)
-
         {
             P1[i][j]  = 0.0;
             P2[i][j]  = 0.0;
@@ -99,11 +99,11 @@ int main()
             absorb[i][j]=1.0;//coefficients of absorb 
         }
     }
-
+/*}}}*/
     //*************************************************************************//
     //                          design_vel_model                               //
     //*************************************************************************//
-    for(i=0; i<Nx; i++)
+    for(i=0; i<Nx; i++)/*{{{*/
         for(j=0; j<Nz;j++)
         {
             Vp[i][j]=2000.0;
@@ -125,11 +125,11 @@ int main()
         }
         fclose (fp_model);
     }
-
+/*}}}*/
     //*************************************************************************//
     //                          design_sponge_boundary                         //
     //*************************************************************************//
-    //left_boundary//
+    //left_boundary//{{{
     for(i=PML;i<Nx-PML;i++)
     {
         for(j=0;j<PML;j++)
@@ -161,11 +161,11 @@ int main()
             absorb[i][j]=-0.38*(i-Nx+PML)*(i-Nx+PML)/(1.0*PML*PML)+1;
         }
     }
-
+/*}}}*/
     //*************************************************************************//
     //                          design_source                                  //
     //*************************************************************************//
-    float signal[Nt];
+    float signal[Nt];/*{{{*/
     float freq=28;
     //ricker as signal
     float t, t1;
@@ -176,34 +176,34 @@ int main()
         signal[i]=50*(1-2*PI*PI*freq*freq*(t-t1)*(t-t1))
                     *exp(-PI*PI*freq*freq*(t-t1)*(t-t1));
     }
-
+/*}}}*/
     //*************************************************************************//
     //                          location of source                             //
     //*************************************************************************//
-    int nx_location,nz_location;
+    int nx_location,nz_location;/*{{{*/
     nx_location=Nx/2;
     nz_location=Nz/2;
-
+/*}}}*/
     //*************************************************************************//
     //                          remove files                                   //
     //*************************************************************************//
-    remove("../file/Vxall.dat");
+    remove("../file/Vxall.dat");/*{{{*/
     remove("../file/Vzall.dat");
     remove("../file/record.dat");
     remove("../file/Pall.dat");
-
+/*}}}*/
     //*************************************************************************//
     //                          progress bar                                   //
     //*************************************************************************//
-    int i_timebar = 0;
+    int i_timebar = 0;/*{{{*/
     char timebar[25];
     const char *timebar_lable = "|/-\\";
     timebar[0] = 0;
-
+/*}}}*/
     //*************************************************************************//
     //                          cal_wave_recursion                             //
     //*************************************************************************//
-    for(k=0; k<Nt; k++) //begain cal time of wave_recursion
+    for(k=0; k<Nt; k++) //begain cal time of wave_recursion{{{
     {
         //show progress bar
         i_timebar=k*25/Nt;
@@ -316,7 +316,6 @@ int main()
             fp_snap=fopen("../file/Snap.dat","wb");
             for(ii=PML;ii<Nx-PML;ii++)
                 for(jj=PML;jj<Nz-PML;jj++)
-                {
                     LS1=float(Vx1[ii][jj]);
                     fwrite(&LS1,sizeof(float),1,fp_snap);
                 }
@@ -362,11 +361,11 @@ int main()
     fclose(fp_record);
 
     printf("\nEnd of Calculation!!\n");
-
+/*}}}*/
     //*************************************************************************//
     //                          free memory                                    //
     //*************************************************************************//
-    for(i=0;i<Nx;i++)
+    for(i=0;i<Nx;i++)/*{{{*/
         delete []	P1[i];
     delete []P1;
     for(i=0;i<Nx;i++)
@@ -398,5 +397,5 @@ int main()
     delete []R;
 
 
-    return 0;
+    return 0;/*}}}*/
 }

@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 #define pi 3.1415926
-main()
+int main()
 {
     int i,j;
     int Xnumber=512;
@@ -34,7 +34,8 @@ main()
     fwrite(trace,sizeof(float),512*1024,fp);
     fclose(fp);
     free(trace);
-
+	
+	return 0;
 }
 
 
