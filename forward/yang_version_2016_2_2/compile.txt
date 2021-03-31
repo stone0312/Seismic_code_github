@@ -1,0 +1,1 @@
+mpiifort Iso_multishot_fd_main_fsbc_zy_m2.f90 -o f.exe -qopenmp -O3

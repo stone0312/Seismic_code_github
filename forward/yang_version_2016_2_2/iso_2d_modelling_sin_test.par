@@ -1,0 +1,48 @@
+!*Modeling mode:fsbc(free surface bc).or.abc(absorbing bc)*!
+fsbc
+!*P-wave velocity filename*!
+//data4/sy/multiples_wave/model/vel_model_p_without_water_4_layer_nx=501_nz=401_dx=dz=5.dat
+!*S-wave velocity filename*!
+//data4/sy/multiples_wave/model/vel_model_s_without_water_4_layer_nx=501_nz=401_dx=dz=5.dat
+!*Density velocity filename*!
+//data4/sy/multiples_wave/model/density_model_nx=501_nz=401_dx=dz=5.dat
+!*Topography velocity filename*!
+//data4/sy/multiples_wave/model/topography_model_nx=501_nz=401_dx=dz=5.dat
+!*Vx snapshot  filename*!
+//data4/sy/multiples_wave/forword_result/snap/snap_without_water_nx=501_nz=401/vx_
+!*Vz snapshot filename*!
+//data4/sy/multiples_wave/forword_result/snap/snap_without_water_nx=501_nz=401/vz_
+!*NO.1 shot record filename(tmp)*!
+//data4/sy/multiples_wave/forword_result/shot/vx_tmp
+!*NO.2 shot record filename(all)*!
+//data4/sy/multiples_wave/forword_result/shot/shot_without_water_nx=501_nz=401/shot_vx
+!*NO.3 shot record filename(tmp)*!
+//data4/sy/multiples_wave/forword_result/shot/vz_tmp
+!*NO.4 shot record filename(all)*!
+//data4/sy/multiples_wave/forword_result/shot/shot_without_water_nx=501_nz=401/shot_vz
+!*nshot(samples)*!
+1
+!*offset_min,offset_max*!
+-1250.0  1250.0
+!*sx0,sz0,rz0(m)*!
+1250.0  0.0  0.0
+!*dsx(m)*!
+100.0
+!*nx_v,nz_v(samples)*!
+501 401
+!*dx_v,dz_v(m)*!
+5.0 5.0
+!*nt(samples)*!
+3001
+!*dt(s),desnap(s)*!
+0.001 0.01
+!*f0(Hz)*!
+25.0
+!*decay(s) recommending decay=(1.2/f0)s*!
+0.048
+!*pml_thick x left and right direction(m)*!
+1000.0 1000.0
+!*pml_thick z up and down direction(m)*!
+0000.0 1000.0
+!*rad of gauss smooth*!
+50
