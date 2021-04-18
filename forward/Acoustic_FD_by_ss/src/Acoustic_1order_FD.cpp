@@ -1,10 +1,11 @@
 /**
-  filename :  Acoustic Forward Program
-  name     :  ShengShen TJU
-  date     :
-  describe :  FD with regular grid and sponge boundary & 2nd in time & 16th in space
+  * filename   :  Acoustic Forward Program
+  * CopyRight  (c) 2019-
+  *
+  * name       :  ShengShen TJU
+  * date       :  2019-11-29
+  * describe   :  FD with regular grid and sponge boundary & 2nd in time & 16th in space
   **/
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
@@ -14,7 +15,7 @@
 int main()
 {
     //*************************************************************************//
-    //                          define parameters                              //
+    //                          define par                                     //
     //*************************************************************************//
     float **P1,**P2,**Vp,**DEN,**Vx1,**Vx2,**Vz1,**Vz2,**record,**R;/*{{{*/
     float dt, dx, dz;
@@ -22,18 +23,18 @@ int main()
     float C1,C2,C3,C4,C5,C6,C7,C8;
     float LS1,LS2;/*}}}*/
     //*************************************************************************//
-    //                          the assignment parameter                       //
+    //                          assignment par                                 //
     //*************************************************************************//
-    NX  = 100; /*{{{*/
-    NZ  = 100; 
-    PML = 20;  
-    Nx  = NX+2*PML;//the boundary with pml in x
-    Nz  = NZ+2*PML;//the boundary with pml in z
-    Nt  = 2000;    //time of forward
-    dx  = 10.0;    //sampling in x
-    dz  = 10.0;    //sampling in z
-    dt  = 0.0005;  //sampling in time
-    //the coefficient of FD
+    NX  = 100; //{{{
+    NZ  = 100; //
+    PML = 20;  //
+    Nx  = NX+2*PML;//X方向加上吸收边界后的大小
+    Nz  = NZ+2*PML;//Z方向加上吸收边界后的大小
+    Nt  = 2000;    //正演时间
+    dx  = 10.0;    //x方向采样
+    dz  = 10.0;    //z方向采样
+    dt  = 0.0005;  //时间采样
+    //有限差分系数
     C1 = 1.2340911;
     C2 = -1.0664985e-1;
     C3 = 2.3036367e-2;
@@ -45,7 +46,7 @@ int main()
 
     float absorb[NX+2*PML][NZ+2*PML];/*}}}*/
     //*************************************************************************//
-    //                          open up the arraies                           //
+    //                          open up the arraies                            //
     //*************************************************************************//
     P1     = new float* [Nx];/*{{{*/
     P2     = new float* [Nx];
@@ -57,19 +58,49 @@ int main()
     DEN    = new float* [Nx];
     record = new float* [Nx];
     R      = new float* [Nx];
-    for(i = 0;i<Nx;i++){P1[i]     = new float [Nz];}
-    for(i = 0;i<Nx;i++){P2[i]     = new float [Nz];}
-    for(i = 0;i<Nx;i++){Vp[i]     = new float [Nz];}
-    for(i = 0;i<Nx;i++){Vx1[i]    = new float [Nz];}
-    for(i = 0;i<Nx;i++){Vz1[i]    = new float [Nz];}
-    for(i = 0;i<Nx;i++){Vx2[i]    = new float [Nz];}
-    for(i = 0;i<Nx;i++){Vz2[i]    = new float [Nz];}
-    for(i = 0;i<Nx;i++){DEN[i]    = new float [Nz];}
-    for(i = 0;i<NX;i++){record[i] = new float [Nt];}
-    for(i = 0;i<Nx;i++){R[i]      = new float [Nz];}
+    for(i = 0;i<Nx;i++)
+    {
+        P1[i]     = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        P2[i]     = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        Vp[i]     = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        Vx1[i]    = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        Vz1[i]    = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        Vx2[i]    = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        Vz2[i]    = new float [Nz];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        DEN[i]    = new float [Nz];
+    }
+    for(i = 0;i<NX;i++)
+    {
+        record[i] = new float [Nt];
+    }
+    for(i = 0;i<Nx;i++)
+    {
+        R[i]      = new float [Nz];
+    }
 /*}}}*/
     //*************************************************************************//
-    //                          initializing parameters                        //
+    //                          initializing par                               //
     //*************************************************************************//
     for(i = 0; i < Nx; i++)/*{{{*/
     {
@@ -96,21 +127,21 @@ int main()
     {
         for(j=0; j<Nz;j++)
         {
-            absorb[i][j]=1.0;//coefficients of absorb 
+            absorb[i][j]=1.0;//吸收衰减函数初始值为1.0
         }
     }
-/*}}}*/
+
     //*************************************************************************//
-    //                          design_vel_model                               //
+    //                          速度模型设计                                   //
     //*************************************************************************//
-    for(i=0; i<Nx; i++)/*{{{*/
+    for(i=0; i<Nx; i++)
         for(j=0; j<Nz;j++)
         {
             Vp[i][j]=2000.0;
             DEN[i][j]=2400.0;
         }
 
-    //save as vel_file 
+    //速度模型保存
     FILE *fp_model;
     if((fp_model = fopen ("../file/Model.dat", "wb"))!=NULL)
     {
@@ -127,17 +158,17 @@ int main()
     }
 /*}}}*/
     //*************************************************************************//
-    //                          design_sponge_boundary                         //
+    //                          design_vel_model                               //
     //*************************************************************************//
-    //left_boundary//{{{
-    for(i=PML;i<Nx-PML;i++)
+    //                          design_sponge_boundary                         //
+    for(i=PML;i<Nx-PML;i++)/*{{{*/
     {
         for(j=0;j<PML;j++)
         {
            absorb[i][j]=-0.38*(PML-j-1)*(PML-j-1)/(1.0*PML*PML)+1;
         }
     }
-    //right_boundary//
+    //右边界//
     for(i=PML;i<Nx-PML;i++)
     {
         for(j=Nz-PML;j<Nz;j++)
@@ -145,7 +176,7 @@ int main()
             absorb[i][j]=-0.38*(j-Nz+PML)*(j-Nz+PML)/(1.0*PML*PML)+1;
         }
     }
-    //up_boundary//
+    //上边界//
     for(i=0;i<PML;i++)
     {
         for(j=0;j<Nz;j++)
@@ -153,7 +184,7 @@ int main()
             absorb[i][j]=-0.38*(PML-i-1)*(PML-i-1)/(1.0*PML*PML)+1;
         }
     }
-    //down_boundary//
+    //下边界//
     for(i=Nx-PML;i<Nx;i++)
     {
         for(j=0;j<Nx;j++)
@@ -163,22 +194,22 @@ int main()
     }
 /*}}}*/
     //*************************************************************************//
-    //                          design_source                                  //
+    //                          design_sourc                                   //
     //*************************************************************************//
     float signal[Nt];/*{{{*/
     float freq=28;
-    //ricker as signal
+    //雷克子波，freq为频率,signal为雷克子波
     float t, t1;
     for(i=0;i<Nt;i++)
     {
         t=dt*i;
-        t1=1.0/freq;//ricker 
+        t1=1.0/freq;//双边雷克子波
         signal[i]=50*(1-2*PI*PI*freq*freq*(t-t1)*(t-t1))
                     *exp(-PI*PI*freq*freq*(t-t1)*(t-t1));
     }
 /*}}}*/
     //*************************************************************************//
-    //                          location of source                             //
+    //                          location of sourc                              //
     //*************************************************************************//
     int nx_location,nz_location;/*{{{*/
     nx_location=Nx/2;
@@ -205,22 +236,22 @@ int main()
     //*************************************************************************//
     for(k=0; k<Nt; k++) //begain cal time of wave_recursion{{{
     {
-        //show progress bar
+        //进度条显示
         i_timebar=k*25/Nt;
         printf("[%-25s][%d%%][%c]\r", timebar, (i_timebar+1)*4, timebar_lable[k%4]);
         fflush(stdout);
         timebar[i_timebar] = '#';
         timebar[i_timebar+1] = 0;
 
-        //add source
+        //加入震源
         if(k<Nt)
         {
             P2[nx_location][nz_location]=P2[nx_location][nz_location]
                 -dt*DEN[nx_location][nz_location]*Vp[nx_location][nz_location]*signal[k];
         }
-        //cal_wave_recursion
+        //时间递推计算
 
-        //cal_Vx
+        //计算Vx
         for(i=8; i<Nx-8; i++)
         {
             for(j=8; j<Nz-8; j++)
@@ -237,7 +268,7 @@ int main()
             }
         }
 
-        //cal_Vz
+        //计算Vz
         for(i=8; i<Nx-8; i++)
         {
             for(j=8; j<Nz-8; j++)
@@ -254,7 +285,7 @@ int main()
             }
         }
 
-        //cal_wave_vule_p
+        //计算波场值P
         for(i=8; i<Nx-8; i++)
         {
             for(j=8;j<Nz-8;j++)
@@ -282,7 +313,7 @@ int main()
             }
         }
 
-        //switch_snap_value
+        //时间片波场值替换
         for(i = 0; i < Nx; i++)
         {
             for(j = 0; j < Nz; j++)
@@ -293,8 +324,8 @@ int main()
             }
         }
 
-        //apply_boundary
-        //left_boundary//
+        //应用吸收边界条件
+        //左边界//
         for(i = 0; i < Nx; i++)
         {
             for(j = 0; j < Nz; j++)
@@ -308,21 +339,22 @@ int main()
             }
         }
 
-        //output vx of snapshot 
+        //输出Snapshot时刻的时间切片Vx
         FILE *fp_snap;
-        Snapshot=500;  //choose output snapshot
+        Snapshot=500;  //选择输出的时间切片
         if(k==Snapshot)
         {
             fp_snap=fopen("../file/Snap.dat","wb");
             for(ii=PML;ii<Nx-PML;ii++)
                 for(jj=PML;jj<Nz-PML;jj++)
+                {
                     LS1=float(Vx1[ii][jj]);
                     fwrite(&LS1,sizeof(float),1,fp_snap);
                 }
             fclose(fp_snap);
         }
 
-        //output fulltime of p
+        //输出所有时间的P
         if(k%10==0)
         {
             FILE *fpp;
@@ -340,16 +372,16 @@ int main()
             fclose (fpp);
         }
 
-        //record
+        //地表地震记录剖面record
         for(i=PML; i<Nx-PML; i++)
             record[i-PML][k]=P1[nx_location][i];
 
 
     }
-    //end of cal_wave_recursion
+    //波场时间递推计算结束
 
 
-    //ouput_record
+    //out_record
     FILE *fp_record;
     fp_record=fopen("../file/record.dat", "wb");
     for(i=0; i<NX; i++)
