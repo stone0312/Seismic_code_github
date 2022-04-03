@@ -1,0 +1,49 @@
+/data1/swq/wlrim_prediction/green_function_real.dat
+/data1/swq/wlrim_prediction/green_function_imag.dat
+/data1/swq/wlrim_prediction/green_function.dat
+/data1/swq/wlrim_prediction/csg_200shots_pre.dat
+/data1/swq/wlrim_prediction/crg_200shots_pre.dat
+/data1/swq/wlrim_prediction/csg_200shots_pre_real.dat
+/data1/swq/wlrim_prediction/csg_200shots_pre_imag.dat
+/data1/swq/wlrim_prediction/crg_200shots_pre_real.dat
+/data1/swq/wlrim_prediction/crg_200shots_pre_imag.dat
+/data1/swq/wlrim_prediction/200shots_wlrim_prediction_pre.dat
+/data1/swq/wlrim_prediction/200shots_srm_prediction_pre.dat
+200
+200
+4000
+0.5
+5.0
+5.0
+0.0
+0.0
+1500.0
+89.0
+1000
+1000
+200.0
+0.0
+100.0
+0.4
+0.6
+
+
+
+Fna of input shot gather
+Fna of wlrm and ghost prediction
+No. of shots
+No. of traces per shot
+lt
+dt/ms
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+water bottom

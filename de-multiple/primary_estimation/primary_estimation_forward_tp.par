@@ -1,0 +1,27 @@
+/data4/swq/primary_estimation/csg_100shots_pri_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/csg_100shots_pri_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward_tp.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward.dat
+100
+100
+2000
+15
+0.5
+5.0
+60.0
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold

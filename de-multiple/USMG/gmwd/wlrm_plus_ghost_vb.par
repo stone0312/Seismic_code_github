@@ -1,0 +1,49 @@
+/ccstg48/QK13-14/cfd_segy/data/vb/vb_10shots.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/sdg_upwave.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/sdg_downwave.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/sdg_upwave_wlrm.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/sdg_upwave_wlrm_ghost.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/ghost.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/wlrm.dat
+/ccstg48/QK13-14/cfd_segy/data/vb/wlrm_ghost.dat
+1
+480
+3625
+2
+12.5
+12.5
+5.0
+15.0
+1500.0
+89.0
+2000
+2000
+150.0
+0.0
+1.0
+1700
+
+Fna of input shot gather
+Fna of upward wavefields after source-side deghosting
+Fna of downward wavefields after source-side deghosting
+Fna of source-side wlrm
+Fna of source-side wlrm and ghost
+Fna of ghost
+Fna of wlrm
+Fna of wlrm and ghost
+No. of shots
+No. of traces per shot
+lt
+dt
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+

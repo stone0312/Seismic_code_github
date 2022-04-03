@@ -1,0 +1,16 @@
+/data4/swq/complex/sr0m/csg_401shot_pre_sr0.dat
+/data4/swq/complex/sr0m/crg_401shot_pre_sr0.dat
+/data4/swq/complex/sr0m/srme_csg_401shot_pre_sr0.dat
+401
+401
+4000
+0.4
+0.0
+120.0
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

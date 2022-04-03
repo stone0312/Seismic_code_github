@@ -1,0 +1,31 @@
+/data1/swq/beam_forming/har1_cut_order2_co_lt4001_dt2ms_desurface.dat
+/data1/swq/beam_forming/har1_cut_order2_co_lt4001_dt2ms_ftp_np61_nx21_desur.dat
+/data1/swq/beam_forming/har1_cut_order2_co_lt4001_dt2ms_np61_nx21_desur.dat
+/data1/swq/beam_forming/har1_cut_order2_co_lt4001_dt2ms_sem_thre005_np61_nx21_desur.dat
+350
+4001
+61
+20
+89.0
+-89.0
+2
+25.0
+1500
+0.05
+0
+0
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

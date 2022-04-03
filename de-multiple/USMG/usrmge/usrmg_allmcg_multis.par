@@ -1,0 +1,41 @@
+/home/swq/usrmge/200shot_up_csg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_up_csg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_down_csg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_down_csg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_up_crg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_up_crg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_down_crg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_down_crg_dual_sensor_imag.dat
+/home/swq/usrmge/srm_dual_sensor_deghosting1.dat
+/home/swq/usrmge/srm_real_nomcg_tmp.dat
+/home/swq/usrmge/srm_imag_nomcg_tmp.dat
+200
+200
+6000
+0.5
+100.0
+0.0
+
+
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin

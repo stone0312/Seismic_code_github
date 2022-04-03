@@ -1,0 +1,10 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/hjtmodel/sig2_cslsrtm_temp5
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/hjtmodel/sig2_cslsrtm_temp5.sn20.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/hjtmodel/inv.dat
+vresfile	/home/fb/rtm2d_modelingonly/sparse_inversion/hjtmodel/res.dat
+nx	1000
+nz	321
+nitermax	100
+lambda	0.02
+niu	100
+epsmin	9E-10

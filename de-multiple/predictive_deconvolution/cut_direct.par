@@ -1,0 +1,14 @@
+aapure_and_pegleg_5layer_400th_shot_pml100.dat
+pure_and_pegleg_5layer_400th_shot_pml100.dat
+direct_5layer_400th_shot_pml100.dat
+800
+3000
+3000
+
+filename of data without direct wave 
+filename of input data
+filename of data with direct wave modeling only
+ntrace
+nt1: recording time of the normal modeling
+nt2: recording time of the direct wave modeling
+

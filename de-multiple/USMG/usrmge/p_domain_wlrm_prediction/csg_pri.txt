@@ -1,0 +1,1004 @@
+1  shot, 50   th trace tau-p finished!
+2  shot, 50   th trace tau-p finished!
+4  shot, 50   th trace tau-p finished!
+3  shot, 50   th trace tau-p finished!
+2  shot, 100   th trace tau-p finished!
+1  shot, 100   th trace tau-p finished!
+3  shot, 100   th trace tau-p finished!
+4  shot, 100   th trace tau-p finished!
+1  shot, 150   th trace tau-p finished!
+2  shot, 150   th trace tau-p finished!
+3  shot, 150   th trace tau-p finished!
+4  shot, 150   th trace tau-p finished!
+1  shot, 200   th trace tau-p finished!
+0   th shot tau-p finished!
+2  shot, 200   th trace tau-p finished!
+1   th shot tau-p finished!
+3  shot, 200   th trace tau-p finished!
+2   th shot tau-p finished!
+4  shot, 200   th trace tau-p finished!
+3   th shot tau-p finished!
+5  shot, 50   th trace tau-p finished!
+6  shot, 50   th trace tau-p finished!
+7  shot, 50   th trace tau-p finished!
+8  shot, 50   th trace tau-p finished!
+5  shot, 100   th trace tau-p finished!
+6  shot, 100   th trace tau-p finished!
+7  shot, 100   th trace tau-p finished!
+8  shot, 100   th trace tau-p finished!
+5  shot, 150   th trace tau-p finished!
+6  shot, 150   th trace tau-p finished!
+7  shot, 150   th trace tau-p finished!
+8  shot, 150   th trace tau-p finished!
+5  shot, 200   th trace tau-p finished!
+4   th shot tau-p finished!
+6  shot, 200   th trace tau-p finished!
+5   th shot tau-p finished!
+7  shot, 200   th trace tau-p finished!
+6   th shot tau-p finished!
+8  shot, 200   th trace tau-p finished!
+7   th shot tau-p finished!
+9  shot, 50   th trace tau-p finished!
+10  shot, 50   th trace tau-p finished!
+11  shot, 50   th trace tau-p finished!
+12  shot, 50   th trace tau-p finished!
+9  shot, 100   th trace tau-p finished!
+10  shot, 100   th trace tau-p finished!
+11  shot, 100   th trace tau-p finished!
+12  shot, 100   th trace tau-p finished!
+10  shot, 150   th trace tau-p finished!
+9  shot, 150   th trace tau-p finished!
+11  shot, 150   th trace tau-p finished!
+12  shot, 150   th trace tau-p finished!
+10  shot, 200   th trace tau-p finished!
+9   th shot tau-p finished!
+9  shot, 200   th trace tau-p finished!
+8   th shot tau-p finished!
+11  shot, 200   th trace tau-p finished!
+10   th shot tau-p finished!
+12  shot, 200   th trace tau-p finished!
+11   th shot tau-p finished!
+14  shot, 50   th trace tau-p finished!
+13  shot, 50   th trace tau-p finished!
+15  shot, 50   th trace tau-p finished!
+16  shot, 50   th trace tau-p finished!
+14  shot, 100   th trace tau-p finished!
+13  shot, 100   th trace tau-p finished!
+15  shot, 100   th trace tau-p finished!
+16  shot, 100   th trace tau-p finished!
+14  shot, 150   th trace tau-p finished!
+15  shot, 150   th trace tau-p finished!
+13  shot, 150   th trace tau-p finished!
+16  shot, 150   th trace tau-p finished!
+14  shot, 200   th trace tau-p finished!
+13   th shot tau-p finished!
+13  shot, 200   th trace tau-p finished!
+12   th shot tau-p finished!
+15  shot, 200   th trace tau-p finished!
+14   th shot tau-p finished!
+16  shot, 200   th trace tau-p finished!
+15   th shot tau-p finished!
+18  shot, 50   th trace tau-p finished!
+17  shot, 50   th trace tau-p finished!
+19  shot, 50   th trace tau-p finished!
+20  shot, 50   th trace tau-p finished!
+18  shot, 100   th trace tau-p finished!
+17  shot, 100   th trace tau-p finished!
+19  shot, 100   th trace tau-p finished!
+20  shot, 100   th trace tau-p finished!
+18  shot, 150   th trace tau-p finished!
+17  shot, 150   th trace tau-p finished!
+19  shot, 150   th trace tau-p finished!
+20  shot, 150   th trace tau-p finished!
+18  shot, 200   th trace tau-p finished!
+17   th shot tau-p finished!
+17  shot, 200   th trace tau-p finished!
+16   th shot tau-p finished!
+20  shot, 200   th trace tau-p finished!
+19   th shot tau-p finished!
+19  shot, 200   th trace tau-p finished!
+18   th shot tau-p finished!
+22  shot, 50   th trace tau-p finished!
+21  shot, 50   th trace tau-p finished!
+24  shot, 50   th trace tau-p finished!
+22  shot, 100   th trace tau-p finished!
+23  shot, 50   th trace tau-p finished!
+21  shot, 100   th trace tau-p finished!
+24  shot, 100   th trace tau-p finished!
+22  shot, 150   th trace tau-p finished!
+23  shot, 100   th trace tau-p finished!
+21  shot, 150   th trace tau-p finished!
+24  shot, 150   th trace tau-p finished!
+22  shot, 200   th trace tau-p finished!
+21   th shot tau-p finished!
+23  shot, 150   th trace tau-p finished!
+21  shot, 200   th trace tau-p finished!
+20   th shot tau-p finished!
+24  shot, 200   th trace tau-p finished!
+23   th shot tau-p finished!
+26  shot, 50   th trace tau-p finished!
+25  shot, 50   th trace tau-p finished!
+23  shot, 200   th trace tau-p finished!
+22   th shot tau-p finished!
+28  shot, 50   th trace tau-p finished!
+26  shot, 100   th trace tau-p finished!
+25  shot, 100   th trace tau-p finished!
+27  shot, 50   th trace tau-p finished!
+28  shot, 100   th trace tau-p finished!
+26  shot, 150   th trace tau-p finished!
+25  shot, 150   th trace tau-p finished!
+27  shot, 100   th trace tau-p finished!
+28  shot, 150   th trace tau-p finished!
+26  shot, 200   th trace tau-p finished!
+25   th shot tau-p finished!
+27  shot, 150   th trace tau-p finished!
+25  shot, 200   th trace tau-p finished!
+24   th shot tau-p finished!
+28  shot, 200   th trace tau-p finished!
+27   th shot tau-p finished!
+27  shot, 200   th trace tau-p finished!
+26   th shot tau-p finished!
+30  shot, 50   th trace tau-p finished!
+29  shot, 50   th trace tau-p finished!
+32  shot, 50   th trace tau-p finished!
+31  shot, 50   th trace tau-p finished!
+30  shot, 100   th trace tau-p finished!
+29  shot, 100   th trace tau-p finished!
+32  shot, 100   th trace tau-p finished!
+31  shot, 100   th trace tau-p finished!
+30  shot, 150   th trace tau-p finished!
+29  shot, 150   th trace tau-p finished!
+32  shot, 150   th trace tau-p finished!
+31  shot, 150   th trace tau-p finished!
+29  shot, 200   th trace tau-p finished!
+28   th shot tau-p finished!
+30  shot, 200   th trace tau-p finished!
+29   th shot tau-p finished!
+32  shot, 200   th trace tau-p finished!
+31   th shot tau-p finished!
+31  shot, 200   th trace tau-p finished!
+30   th shot tau-p finished!
+34  shot, 50   th trace tau-p finished!
+33  shot, 50   th trace tau-p finished!
+36  shot, 50   th trace tau-p finished!
+35  shot, 50   th trace tau-p finished!
+33  shot, 100   th trace tau-p finished!
+34  shot, 100   th trace tau-p finished!
+36  shot, 100   th trace tau-p finished!
+35  shot, 100   th trace tau-p finished!
+33  shot, 150   th trace tau-p finished!
+34  shot, 150   th trace tau-p finished!
+36  shot, 150   th trace tau-p finished!
+35  shot, 150   th trace tau-p finished!
+33  shot, 200   th trace tau-p finished!
+32   th shot tau-p finished!
+34  shot, 200   th trace tau-p finished!
+33   th shot tau-p finished!
+36  shot, 200   th trace tau-p finished!
+35   th shot tau-p finished!
+35  shot, 200   th trace tau-p finished!
+34   th shot tau-p finished!
+38  shot, 50   th trace tau-p finished!
+37  shot, 50   th trace tau-p finished!
+40  shot, 50   th trace tau-p finished!
+39  shot, 50   th trace tau-p finished!
+37  shot, 100   th trace tau-p finished!
+38  shot, 100   th trace tau-p finished!
+40  shot, 100   th trace tau-p finished!
+39  shot, 100   th trace tau-p finished!
+37  shot, 150   th trace tau-p finished!
+38  shot, 150   th trace tau-p finished!
+40  shot, 150   th trace tau-p finished!
+39  shot, 150   th trace tau-p finished!
+37  shot, 200   th trace tau-p finished!
+36   th shot tau-p finished!
+38  shot, 200   th trace tau-p finished!
+37   th shot tau-p finished!
+40  shot, 200   th trace tau-p finished!
+39   th shot tau-p finished!
+39  shot, 200   th trace tau-p finished!
+38   th shot tau-p finished!
+42  shot, 50   th trace tau-p finished!
+44  shot, 50   th trace tau-p finished!
+41  shot, 50   th trace tau-p finished!
+43  shot, 50   th trace tau-p finished!
+44  shot, 100   th trace tau-p finished!
+42  shot, 100   th trace tau-p finished!
+43  shot, 100   th trace tau-p finished!
+41  shot, 100   th trace tau-p finished!
+41  shot, 150   th trace tau-p finished!
+44  shot, 150   th trace tau-p finished!
+42  shot, 150   th trace tau-p finished!
+43  shot, 150   th trace tau-p finished!
+41  shot, 200   th trace tau-p finished!
+40   th shot tau-p finished!
+42  shot, 200   th trace tau-p finished!
+41   th shot tau-p finished!
+44  shot, 200   th trace tau-p finished!
+43   th shot tau-p finished!
+43  shot, 200   th trace tau-p finished!
+42   th shot tau-p finished!
+45  shot, 50   th trace tau-p finished!
+46  shot, 50   th trace tau-p finished!
+48  shot, 50   th trace tau-p finished!
+47  shot, 50   th trace tau-p finished!
+45  shot, 100   th trace tau-p finished!
+46  shot, 100   th trace tau-p finished!
+48  shot, 100   th trace tau-p finished!
+45  shot, 150   th trace tau-p finished!
+47  shot, 100   th trace tau-p finished!
+46  shot, 150   th trace tau-p finished!
+45  shot, 200   th trace tau-p finished!
+44   th shot tau-p finished!
+48  shot, 150   th trace tau-p finished!
+47  shot, 150   th trace tau-p finished!
+46  shot, 200   th trace tau-p finished!
+45   th shot tau-p finished!
+48  shot, 200   th trace tau-p finished!
+47   th shot tau-p finished!
+49  shot, 50   th trace tau-p finished!
+47  shot, 200   th trace tau-p finished!
+46   th shot tau-p finished!
+50  shot, 50   th trace tau-p finished!
+52  shot, 50   th trace tau-p finished!
+49  shot, 100   th trace tau-p finished!
+51  shot, 50   th trace tau-p finished!
+50  shot, 100   th trace tau-p finished!
+52  shot, 100   th trace tau-p finished!
+49  shot, 150   th trace tau-p finished!
+51  shot, 100   th trace tau-p finished!
+50  shot, 150   th trace tau-p finished!
+52  shot, 150   th trace tau-p finished!
+49  shot, 200   th trace tau-p finished!
+48   th shot tau-p finished!
+51  shot, 150   th trace tau-p finished!
+50  shot, 200   th trace tau-p finished!
+49   th shot tau-p finished!
+53  shot, 50   th trace tau-p finished!
+52  shot, 200   th trace tau-p finished!
+51   th shot tau-p finished!
+51  shot, 200   th trace tau-p finished!
+50   th shot tau-p finished!
+53  shot, 100   th trace tau-p finished!
+56  shot, 50   th trace tau-p finished!
+54  shot, 50   th trace tau-p finished!
+55  shot, 50   th trace tau-p finished!
+53  shot, 150   th trace tau-p finished!
+56  shot, 100   th trace tau-p finished!
+54  shot, 100   th trace tau-p finished!
+55  shot, 100   th trace tau-p finished!
+53  shot, 200   th trace tau-p finished!
+52   th shot tau-p finished!
+56  shot, 150   th trace tau-p finished!
+54  shot, 150   th trace tau-p finished!
+55  shot, 150   th trace tau-p finished!
+56  shot, 200   th trace tau-p finished!
+55   th shot tau-p finished!
+57  shot, 50   th trace tau-p finished!
+54  shot, 200   th trace tau-p finished!
+53   th shot tau-p finished!
+60  shot, 50   th trace tau-p finished!
+57  shot, 100   th trace tau-p finished!
+55  shot, 200   th trace tau-p finished!
+54   th shot tau-p finished!
+58  shot, 50   th trace tau-p finished!
+60  shot, 100   th trace tau-p finished!
+57  shot, 150   th trace tau-p finished!
+59  shot, 50   th trace tau-p finished!
+58  shot, 100   th trace tau-p finished!
+60  shot, 150   th trace tau-p finished!
+57  shot, 200   th trace tau-p finished!
+56   th shot tau-p finished!
+59  shot, 100   th trace tau-p finished!
+58  shot, 150   th trace tau-p finished!
+60  shot, 200   th trace tau-p finished!
+59   th shot tau-p finished!
+59  shot, 150   th trace tau-p finished!
+61  shot, 50   th trace tau-p finished!
+58  shot, 200   th trace tau-p finished!
+57   th shot tau-p finished!
+64  shot, 50   th trace tau-p finished!
+59  shot, 200   th trace tau-p finished!
+58   th shot tau-p finished!
+61  shot, 100   th trace tau-p finished!
+62  shot, 50   th trace tau-p finished!
+64  shot, 100   th trace tau-p finished!
+63  shot, 50   th trace tau-p finished!
+61  shot, 150   th trace tau-p finished!
+62  shot, 100   th trace tau-p finished!
+64  shot, 150   th trace tau-p finished!
+63  shot, 100   th trace tau-p finished!
+61  shot, 200   th trace tau-p finished!
+60   th shot tau-p finished!
+64  shot, 200   th trace tau-p finished!
+63   th shot tau-p finished!
+62  shot, 150   th trace tau-p finished!
+63  shot, 150   th trace tau-p finished!
+65  shot, 50   th trace tau-p finished!
+68  shot, 50   th trace tau-p finished!
+63  shot, 200   th trace tau-p finished!
+62   th shot tau-p finished!
+62  shot, 200   th trace tau-p finished!
+61   th shot tau-p finished!
+65  shot, 100   th trace tau-p finished!
+68  shot, 100   th trace tau-p finished!
+67  shot, 50   th trace tau-p finished!
+66  shot, 50   th trace tau-p finished!
+65  shot, 150   th trace tau-p finished!
+67  shot, 100   th trace tau-p finished!
+68  shot, 150   th trace tau-p finished!
+66  shot, 100   th trace tau-p finished!
+65  shot, 200   th trace tau-p finished!
+64   th shot tau-p finished!
+67  shot, 150   th trace tau-p finished!
+68  shot, 200   th trace tau-p finished!
+67   th shot tau-p finished!
+66  shot, 150   th trace tau-p finished!
+69  shot, 50   th trace tau-p finished!
+67  shot, 200   th trace tau-p finished!
+66   th shot tau-p finished!
+72  shot, 50   th trace tau-p finished!
+69  shot, 100   th trace tau-p finished!
+66  shot, 200   th trace tau-p finished!
+65   th shot tau-p finished!
+71  shot, 50   th trace tau-p finished!
+72  shot, 100   th trace tau-p finished!
+69  shot, 150   th trace tau-p finished!
+71  shot, 100   th trace tau-p finished!
+72  shot, 150   th trace tau-p finished!
+70  shot, 50   th trace tau-p finished!
+69  shot, 200   th trace tau-p finished!
+68   th shot tau-p finished!
+71  shot, 150   th trace tau-p finished!
+72  shot, 200   th trace tau-p finished!
+71   th shot tau-p finished!
+70  shot, 100   th trace tau-p finished!
+73  shot, 50   th trace tau-p finished!
+71  shot, 200   th trace tau-p finished!
+70   th shot tau-p finished!
+76  shot, 50   th trace tau-p finished!
+73  shot, 100   th trace tau-p finished!
+70  shot, 150   th trace tau-p finished!
+75  shot, 50   th trace tau-p finished!
+76  shot, 100   th trace tau-p finished!
+73  shot, 150   th trace tau-p finished!
+70  shot, 200   th trace tau-p finished!
+69   th shot tau-p finished!
+76  shot, 150   th trace tau-p finished!
+75  shot, 100   th trace tau-p finished!
+74  shot, 50   th trace tau-p finished!
+73  shot, 200   th trace tau-p finished!
+72   th shot tau-p finished!
+76  shot, 200   th trace tau-p finished!
+75   th shot tau-p finished!
+74  shot, 100   th trace tau-p finished!
+75  shot, 150   th trace tau-p finished!
+77  shot, 50   th trace tau-p finished!
+80  shot, 50   th trace tau-p finished!
+74  shot, 150   th trace tau-p finished!
+77  shot, 100   th trace tau-p finished!
+80  shot, 100   th trace tau-p finished!
+75  shot, 200   th trace tau-p finished!
+74   th shot tau-p finished!
+74  shot, 200   th trace tau-p finished!
+73   th shot tau-p finished!
+80  shot, 150   th trace tau-p finished!
+77  shot, 150   th trace tau-p finished!
+79  shot, 50   th trace tau-p finished!
+78  shot, 50   th trace tau-p finished!
+80  shot, 200   th trace tau-p finished!
+79   th shot tau-p finished!
+77  shot, 200   th trace tau-p finished!
+76   th shot tau-p finished!
+79  shot, 100   th trace tau-p finished!
+78  shot, 100   th trace tau-p finished!
+84  shot, 50   th trace tau-p finished!
+81  shot, 50   th trace tau-p finished!
+79  shot, 150   th trace tau-p finished!
+78  shot, 150   th trace tau-p finished!
+84  shot, 100   th trace tau-p finished!
+81  shot, 100   th trace tau-p finished!
+79  shot, 200   th trace tau-p finished!
+78   th shot tau-p finished!
+78  shot, 200   th trace tau-p finished!
+77   th shot tau-p finished!
+84  shot, 150   th trace tau-p finished!
+81  shot, 150   th trace tau-p finished!
+83  shot, 50   th trace tau-p finished!
+82  shot, 50   th trace tau-p finished!
+84  shot, 200   th trace tau-p finished!
+83   th shot tau-p finished!
+81  shot, 200   th trace tau-p finished!
+80   th shot tau-p finished!
+83  shot, 100   th trace tau-p finished!
+82  shot, 100   th trace tau-p finished!
+88  shot, 50   th trace tau-p finished!
+85  shot, 50   th trace tau-p finished!
+83  shot, 150   th trace tau-p finished!
+82  shot, 150   th trace tau-p finished!
+88  shot, 100   th trace tau-p finished!
+85  shot, 100   th trace tau-p finished!
+83  shot, 200   th trace tau-p finished!
+82   th shot tau-p finished!
+82  shot, 200   th trace tau-p finished!
+81   th shot tau-p finished!
+88  shot, 150   th trace tau-p finished!
+85  shot, 150   th trace tau-p finished!
+87  shot, 50   th trace tau-p finished!
+86  shot, 50   th trace tau-p finished!
+88  shot, 200   th trace tau-p finished!
+87   th shot tau-p finished!
+85  shot, 200   th trace tau-p finished!
+84   th shot tau-p finished!
+86  shot, 100   th trace tau-p finished!
+87  shot, 100   th trace tau-p finished!
+92  shot, 50   th trace tau-p finished!
+89  shot, 50   th trace tau-p finished!
+86  shot, 150   th trace tau-p finished!
+87  shot, 150   th trace tau-p finished!
+92  shot, 100   th trace tau-p finished!
+89  shot, 100   th trace tau-p finished!
+86  shot, 200   th trace tau-p finished!
+85   th shot tau-p finished!
+87  shot, 200   th trace tau-p finished!
+86   th shot tau-p finished!
+92  shot, 150   th trace tau-p finished!
+89  shot, 150   th trace tau-p finished!
+90  shot, 50   th trace tau-p finished!
+91  shot, 50   th trace tau-p finished!
+92  shot, 200   th trace tau-p finished!
+91   th shot tau-p finished!
+90  shot, 100   th trace tau-p finished!
+89  shot, 200   th trace tau-p finished!
+88   th shot tau-p finished!
+91  shot, 100   th trace tau-p finished!
+90  shot, 150   th trace tau-p finished!
+96  shot, 50   th trace tau-p finished!
+93  shot, 50   th trace tau-p finished!
+91  shot, 150   th trace tau-p finished!
+90  shot, 200   th trace tau-p finished!
+89   th shot tau-p finished!
+96  shot, 100   th trace tau-p finished!
+93  shot, 100   th trace tau-p finished!
+91  shot, 200   th trace tau-p finished!
+90   th shot tau-p finished!
+94  shot, 50   th trace tau-p finished!
+96  shot, 150   th trace tau-p finished!
+93  shot, 150   th trace tau-p finished!
+95  shot, 50   th trace tau-p finished!
+94  shot, 100   th trace tau-p finished!
+96  shot, 200   th trace tau-p finished!
+95   th shot tau-p finished!
+93  shot, 200   th trace tau-p finished!
+92   th shot tau-p finished!
+95  shot, 100   th trace tau-p finished!
+94  shot, 150   th trace tau-p finished!
+95  shot, 150   th trace tau-p finished!
+97  shot, 50   th trace tau-p finished!
+100  shot, 50   th trace tau-p finished!
+94  shot, 200   th trace tau-p finished!
+93   th shot tau-p finished!
+95  shot, 200   th trace tau-p finished!
+94   th shot tau-p finished!
+97  shot, 100   th trace tau-p finished!
+100  shot, 100   th trace tau-p finished!
+99  shot, 50   th trace tau-p finished!
+98  shot, 50   th trace tau-p finished!
+97  shot, 150   th trace tau-p finished!
+100  shot, 150   th trace tau-p finished!
+99  shot, 100   th trace tau-p finished!
+98  shot, 100   th trace tau-p finished!
+97  shot, 200   th trace tau-p finished!
+96   th shot tau-p finished!
+100  shot, 200   th trace tau-p finished!
+99   th shot tau-p finished!
+99  shot, 150   th trace tau-p finished!
+98  shot, 150   th trace tau-p finished!
+101  shot, 50   th trace tau-p finished!
+104  shot, 50   th trace tau-p finished!
+99  shot, 200   th trace tau-p finished!
+98   th shot tau-p finished!
+98  shot, 200   th trace tau-p finished!
+97   th shot tau-p finished!
+101  shot, 100   th trace tau-p finished!
+104  shot, 100   th trace tau-p finished!
+103  shot, 50   th trace tau-p finished!
+102  shot, 50   th trace tau-p finished!
+101  shot, 150   th trace tau-p finished!
+104  shot, 150   th trace tau-p finished!
+103  shot, 100   th trace tau-p finished!
+101  shot, 200   th trace tau-p finished!
+100   th shot tau-p finished!
+102  shot, 100   th trace tau-p finished!
+104  shot, 200   th trace tau-p finished!
+103   th shot tau-p finished!
+103  shot, 150   th trace tau-p finished!
+105  shot, 50   th trace tau-p finished!
+102  shot, 150   th trace tau-p finished!
+108  shot, 50   th trace tau-p finished!
+103  shot, 200   th trace tau-p finished!
+102   th shot tau-p finished!
+105  shot, 100   th trace tau-p finished!
+102  shot, 200   th trace tau-p finished!
+101   th shot tau-p finished!
+108  shot, 100   th trace tau-p finished!
+107  shot, 50   th trace tau-p finished!
+105  shot, 150   th trace tau-p finished!
+106  shot, 50   th trace tau-p finished!
+108  shot, 150   th trace tau-p finished!
+107  shot, 100   th trace tau-p finished!
+105  shot, 200   th trace tau-p finished!
+104   th shot tau-p finished!
+106  shot, 100   th trace tau-p finished!
+108  shot, 200   th trace tau-p finished!
+107   th shot tau-p finished!
+107  shot, 150   th trace tau-p finished!
+109  shot, 50   th trace tau-p finished!
+106  shot, 150   th trace tau-p finished!
+112  shot, 50   th trace tau-p finished!
+107  shot, 200   th trace tau-p finished!
+106   th shot tau-p finished!
+109  shot, 100   th trace tau-p finished!
+106  shot, 200   th trace tau-p finished!
+105   th shot tau-p finished!
+112  shot, 100   th trace tau-p finished!
+111  shot, 50   th trace tau-p finished!
+110  shot, 50   th trace tau-p finished!
+109  shot, 150   th trace tau-p finished!
+112  shot, 150   th trace tau-p finished!
+111  shot, 100   th trace tau-p finished!
+110  shot, 100   th trace tau-p finished!
+109  shot, 200   th trace tau-p finished!
+108   th shot tau-p finished!
+112  shot, 200   th trace tau-p finished!
+111   th shot tau-p finished!
+111  shot, 150   th trace tau-p finished!
+110  shot, 150   th trace tau-p finished!
+113  shot, 50   th trace tau-p finished!
+116  shot, 50   th trace tau-p finished!
+110  shot, 200   th trace tau-p finished!
+109   th shot tau-p finished!
+111  shot, 200   th trace tau-p finished!
+110   th shot tau-p finished!
+113  shot, 100   th trace tau-p finished!
+116  shot, 100   th trace tau-p finished!
+114  shot, 50   th trace tau-p finished!
+115  shot, 50   th trace tau-p finished!
+113  shot, 150   th trace tau-p finished!
+116  shot, 150   th trace tau-p finished!
+114  shot, 100   th trace tau-p finished!
+115  shot, 100   th trace tau-p finished!
+116  shot, 200   th trace tau-p finished!
+115   th shot tau-p finished!
+113  shot, 200   th trace tau-p finished!
+112   th shot tau-p finished!
+114  shot, 150   th trace tau-p finished!
+115  shot, 150   th trace tau-p finished!
+117  shot, 50   th trace tau-p finished!
+120  shot, 50   th trace tau-p finished!
+114  shot, 200   th trace tau-p finished!
+113   th shot tau-p finished!
+115  shot, 200   th trace tau-p finished!
+114   th shot tau-p finished!
+118  shot, 50   th trace tau-p finished!
+117  shot, 100   th trace tau-p finished!
+120  shot, 100   th trace tau-p finished!
+119  shot, 50   th trace tau-p finished!
+118  shot, 100   th trace tau-p finished!
+120  shot, 150   th trace tau-p finished!
+117  shot, 150   th trace tau-p finished!
+119  shot, 100   th trace tau-p finished!
+118  shot, 150   th trace tau-p finished!
+120  shot, 200   th trace tau-p finished!
+119   th shot tau-p finished!
+117  shot, 200   th trace tau-p finished!
+116   th shot tau-p finished!
+119  shot, 150   th trace tau-p finished!
+118  shot, 200   th trace tau-p finished!
+117   th shot tau-p finished!
+121  shot, 50   th trace tau-p finished!
+124  shot, 50   th trace tau-p finished!
+122  shot, 50   th trace tau-p finished!
+119  shot, 200   th trace tau-p finished!
+118   th shot tau-p finished!
+121  shot, 100   th trace tau-p finished!
+124  shot, 100   th trace tau-p finished!
+122  shot, 100   th trace tau-p finished!
+123  shot, 50   th trace tau-p finished!
+121  shot, 150   th trace tau-p finished!
+122  shot, 150   th trace tau-p finished!
+123  shot, 100   th trace tau-p finished!
+124  shot, 150   th trace tau-p finished!
+121  shot, 200   th trace tau-p finished!
+120   th shot tau-p finished!
+122  shot, 200   th trace tau-p finished!
+121   th shot tau-p finished!
+124  shot, 200   th trace tau-p finished!
+123   th shot tau-p finished!
+123  shot, 150   th trace tau-p finished!
+125  shot, 50   th trace tau-p finished!
+126  shot, 50   th trace tau-p finished!
+128  shot, 50   th trace tau-p finished!
+123  shot, 200   th trace tau-p finished!
+122   th shot tau-p finished!
+125  shot, 100   th trace tau-p finished!
+126  shot, 100   th trace tau-p finished!
+128  shot, 100   th trace tau-p finished!
+127  shot, 50   th trace tau-p finished!
+125  shot, 150   th trace tau-p finished!
+126  shot, 150   th trace tau-p finished!
+128  shot, 150   th trace tau-p finished!
+127  shot, 100   th trace tau-p finished!
+125  shot, 200   th trace tau-p finished!
+124   th shot tau-p finished!
+126  shot, 200   th trace tau-p finished!
+125   th shot tau-p finished!
+128  shot, 200   th trace tau-p finished!
+127   th shot tau-p finished!
+127  shot, 150   th trace tau-p finished!
+130  shot, 50   th trace tau-p finished!
+129  shot, 50   th trace tau-p finished!
+132  shot, 50   th trace tau-p finished!
+127  shot, 200   th trace tau-p finished!
+126   th shot tau-p finished!
+130  shot, 100   th trace tau-p finished!
+132  shot, 100   th trace tau-p finished!
+129  shot, 100   th trace tau-p finished!
+131  shot, 50   th trace tau-p finished!
+130  shot, 150   th trace tau-p finished!
+132  shot, 150   th trace tau-p finished!
+129  shot, 150   th trace tau-p finished!
+131  shot, 100   th trace tau-p finished!
+130  shot, 200   th trace tau-p finished!
+129   th shot tau-p finished!
+129  shot, 200   th trace tau-p finished!
+128   th shot tau-p finished!
+132  shot, 200   th trace tau-p finished!
+131   th shot tau-p finished!
+131  shot, 150   th trace tau-p finished!
+134  shot, 50   th trace tau-p finished!
+136  shot, 50   th trace tau-p finished!
+133  shot, 50   th trace tau-p finished!
+131  shot, 200   th trace tau-p finished!
+130   th shot tau-p finished!
+134  shot, 100   th trace tau-p finished!
+136  shot, 100   th trace tau-p finished!
+133  shot, 100   th trace tau-p finished!
+135  shot, 50   th trace tau-p finished!
+134  shot, 150   th trace tau-p finished!
+136  shot, 150   th trace tau-p finished!
+133  shot, 150   th trace tau-p finished!
+135  shot, 100   th trace tau-p finished!
+134  shot, 200   th trace tau-p finished!
+133   th shot tau-p finished!
+136  shot, 200   th trace tau-p finished!
+135   th shot tau-p finished!
+133  shot, 200   th trace tau-p finished!
+132   th shot tau-p finished!
+135  shot, 150   th trace tau-p finished!
+138  shot, 50   th trace tau-p finished!
+140  shot, 50   th trace tau-p finished!
+137  shot, 50   th trace tau-p finished!
+135  shot, 200   th trace tau-p finished!
+134   th shot tau-p finished!
+138  shot, 100   th trace tau-p finished!
+140  shot, 100   th trace tau-p finished!
+137  shot, 100   th trace tau-p finished!
+139  shot, 50   th trace tau-p finished!
+138  shot, 150   th trace tau-p finished!
+140  shot, 150   th trace tau-p finished!
+137  shot, 150   th trace tau-p finished!
+139  shot, 100   th trace tau-p finished!
+138  shot, 200   th trace tau-p finished!
+137   th shot tau-p finished!
+140  shot, 200   th trace tau-p finished!
+139   th shot tau-p finished!
+137  shot, 200   th trace tau-p finished!
+136   th shot tau-p finished!
+139  shot, 150   th trace tau-p finished!
+142  shot, 50   th trace tau-p finished!
+141  shot, 50   th trace tau-p finished!
+144  shot, 50   th trace tau-p finished!
+142  shot, 100   th trace tau-p finished!
+139  shot, 200   th trace tau-p finished!
+138   th shot tau-p finished!
+144  shot, 100   th trace tau-p finished!
+141  shot, 100   th trace tau-p finished!
+142  shot, 150   th trace tau-p finished!
+143  shot, 50   th trace tau-p finished!
+144  shot, 150   th trace tau-p finished!
+141  shot, 150   th trace tau-p finished!
+142  shot, 200   th trace tau-p finished!
+141   th shot tau-p finished!
+143  shot, 100   th trace tau-p finished!
+141  shot, 200   th trace tau-p finished!
+140   th shot tau-p finished!
+144  shot, 200   th trace tau-p finished!
+143   th shot tau-p finished!
+146  shot, 50   th trace tau-p finished!
+143  shot, 150   th trace tau-p finished!
+145  shot, 50   th trace tau-p finished!
+148  shot, 50   th trace tau-p finished!
+146  shot, 100   th trace tau-p finished!
+143  shot, 200   th trace tau-p finished!
+142   th shot tau-p finished!
+145  shot, 100   th trace tau-p finished!
+148  shot, 100   th trace tau-p finished!
+146  shot, 150   th trace tau-p finished!
+147  shot, 50   th trace tau-p finished!
+145  shot, 150   th trace tau-p finished!
+148  shot, 150   th trace tau-p finished!
+146  shot, 200   th trace tau-p finished!
+145   th shot tau-p finished!
+147  shot, 100   th trace tau-p finished!
+145  shot, 200   th trace tau-p finished!
+144   th shot tau-p finished!
+148  shot, 200   th trace tau-p finished!
+147   th shot tau-p finished!
+147  shot, 150   th trace tau-p finished!
+150  shot, 50   th trace tau-p finished!
+149  shot, 50   th trace tau-p finished!
+152  shot, 50   th trace tau-p finished!
+147  shot, 200   th trace tau-p finished!
+146   th shot tau-p finished!
+150  shot, 100   th trace tau-p finished!
+149  shot, 100   th trace tau-p finished!
+152  shot, 100   th trace tau-p finished!
+151  shot, 50   th trace tau-p finished!
+150  shot, 150   th trace tau-p finished!
+149  shot, 150   th trace tau-p finished!
+152  shot, 150   th trace tau-p finished!
+151  shot, 100   th trace tau-p finished!
+150  shot, 200   th trace tau-p finished!
+149   th shot tau-p finished!
+149  shot, 200   th trace tau-p finished!
+148   th shot tau-p finished!
+152  shot, 200   th trace tau-p finished!
+151   th shot tau-p finished!
+151  shot, 150   th trace tau-p finished!
+154  shot, 50   th trace tau-p finished!
+153  shot, 50   th trace tau-p finished!
+156  shot, 50   th trace tau-p finished!
+151  shot, 200   th trace tau-p finished!
+150   th shot tau-p finished!
+154  shot, 100   th trace tau-p finished!
+153  shot, 100   th trace tau-p finished!
+156  shot, 100   th trace tau-p finished!
+155  shot, 50   th trace tau-p finished!
+154  shot, 150   th trace tau-p finished!
+153  shot, 150   th trace tau-p finished!
+156  shot, 150   th trace tau-p finished!
+155  shot, 100   th trace tau-p finished!
+153  shot, 200   th trace tau-p finished!
+152   th shot tau-p finished!
+154  shot, 200   th trace tau-p finished!
+153   th shot tau-p finished!
+156  shot, 200   th trace tau-p finished!
+155   th shot tau-p finished!
+155  shot, 150   th trace tau-p finished!
+157  shot, 50   th trace tau-p finished!
+160  shot, 50   th trace tau-p finished!
+158  shot, 50   th trace tau-p finished!
+155  shot, 200   th trace tau-p finished!
+154   th shot tau-p finished!
+157  shot, 100   th trace tau-p finished!
+160  shot, 100   th trace tau-p finished!
+158  shot, 100   th trace tau-p finished!
+159  shot, 50   th trace tau-p finished!
+157  shot, 150   th trace tau-p finished!
+160  shot, 150   th trace tau-p finished!
+158  shot, 150   th trace tau-p finished!
+159  shot, 100   th trace tau-p finished!
+157  shot, 200   th trace tau-p finished!
+156   th shot tau-p finished!
+160  shot, 200   th trace tau-p finished!
+159   th shot tau-p finished!
+158  shot, 200   th trace tau-p finished!
+157   th shot tau-p finished!
+159  shot, 150   th trace tau-p finished!
+161  shot, 50   th trace tau-p finished!
+164  shot, 50   th trace tau-p finished!
+162  shot, 50   th trace tau-p finished!
+161  shot, 100   th trace tau-p finished!
+159  shot, 200   th trace tau-p finished!
+158   th shot tau-p finished!
+164  shot, 100   th trace tau-p finished!
+161  shot, 150   th trace tau-p finished!
+162  shot, 100   th trace tau-p finished!
+163  shot, 50   th trace tau-p finished!
+164  shot, 150   th trace tau-p finished!
+161  shot, 200   th trace tau-p finished!
+160   th shot tau-p finished!
+162  shot, 150   th trace tau-p finished!
+164  shot, 200   th trace tau-p finished!
+163   th shot tau-p finished!
+163  shot, 100   th trace tau-p finished!
+165  shot, 50   th trace tau-p finished!
+162  shot, 200   th trace tau-p finished!
+161   th shot tau-p finished!
+168  shot, 50   th trace tau-p finished!
+163  shot, 150   th trace tau-p finished!
+165  shot, 100   th trace tau-p finished!
+166  shot, 50   th trace tau-p finished!
+168  shot, 100   th trace tau-p finished!
+163  shot, 200   th trace tau-p finished!
+162   th shot tau-p finished!
+165  shot, 150   th trace tau-p finished!
+166  shot, 100   th trace tau-p finished!
+168  shot, 150   th trace tau-p finished!
+167  shot, 50   th trace tau-p finished!
+165  shot, 200   th trace tau-p finished!
+164   th shot tau-p finished!
+166  shot, 150   th trace tau-p finished!
+168  shot, 200   th trace tau-p finished!
+167   th shot tau-p finished!
+167  shot, 100   th trace tau-p finished!
+169  shot, 50   th trace tau-p finished!
+166  shot, 200   th trace tau-p finished!
+165   th shot tau-p finished!
+172  shot, 50   th trace tau-p finished!
+167  shot, 150   th trace tau-p finished!
+169  shot, 100   th trace tau-p finished!
+170  shot, 50   th trace tau-p finished!
+172  shot, 100   th trace tau-p finished!
+169  shot, 150   th trace tau-p finished!
+167  shot, 200   th trace tau-p finished!
+166   th shot tau-p finished!
+170  shot, 100   th trace tau-p finished!
+172  shot, 150   th trace tau-p finished!
+169  shot, 200   th trace tau-p finished!
+168   th shot tau-p finished!
+170  shot, 150   th trace tau-p finished!
+171  shot, 50   th trace tau-p finished!
+172  shot, 200   th trace tau-p finished!
+171   th shot tau-p finished!
+173  shot, 50   th trace tau-p finished!
+170  shot, 200   th trace tau-p finished!
+169   th shot tau-p finished!
+171  shot, 100   th trace tau-p finished!
+176  shot, 50   th trace tau-p finished!
+173  shot, 100   th trace tau-p finished!
+174  shot, 50   th trace tau-p finished!
+171  shot, 150   th trace tau-p finished!
+176  shot, 100   th trace tau-p finished!
+173  shot, 150   th trace tau-p finished!
+174  shot, 100   th trace tau-p finished!
+171  shot, 200   th trace tau-p finished!
+170   th shot tau-p finished!
+176  shot, 150   th trace tau-p finished!
+173  shot, 200   th trace tau-p finished!
+172   th shot tau-p finished!
+174  shot, 150   th trace tau-p finished!
+175  shot, 50   th trace tau-p finished!
+176  shot, 200   th trace tau-p finished!
+175   th shot tau-p finished!
+177  shot, 50   th trace tau-p finished!
+174  shot, 200   th trace tau-p finished!
+173   th shot tau-p finished!
+175  shot, 100   th trace tau-p finished!
+180  shot, 50   th trace tau-p finished!
+177  shot, 100   th trace tau-p finished!
+178  shot, 50   th trace tau-p finished!
+175  shot, 150   th trace tau-p finished!
+180  shot, 100   th trace tau-p finished!
+177  shot, 150   th trace tau-p finished!
+178  shot, 100   th trace tau-p finished!
+175  shot, 200   th trace tau-p finished!
+174   th shot tau-p finished!
+180  shot, 150   th trace tau-p finished!
+177  shot, 200   th trace tau-p finished!
+176   th shot tau-p finished!
+178  shot, 150   th trace tau-p finished!
+180  shot, 200   th trace tau-p finished!
+179   th shot tau-p finished!
+179  shot, 50   th trace tau-p finished!
+181  shot, 50   th trace tau-p finished!
+178  shot, 200   th trace tau-p finished!
+177   th shot tau-p finished!
+184  shot, 50   th trace tau-p finished!
+179  shot, 100   th trace tau-p finished!
+181  shot, 100   th trace tau-p finished!
+182  shot, 50   th trace tau-p finished!
+184  shot, 100   th trace tau-p finished!
+179  shot, 150   th trace tau-p finished!
+181  shot, 150   th trace tau-p finished!
+182  shot, 100   th trace tau-p finished!
+184  shot, 150   th trace tau-p finished!
+179  shot, 200   th trace tau-p finished!
+178   th shot tau-p finished!
+181  shot, 200   th trace tau-p finished!
+180   th shot tau-p finished!
+182  shot, 150   th trace tau-p finished!
+184  shot, 200   th trace tau-p finished!
+183   th shot tau-p finished!
+183  shot, 50   th trace tau-p finished!
+185  shot, 50   th trace tau-p finished!
+182  shot, 200   th trace tau-p finished!
+181   th shot tau-p finished!
+188  shot, 50   th trace tau-p finished!
+185  shot, 100   th trace tau-p finished!
+183  shot, 100   th trace tau-p finished!
+186  shot, 50   th trace tau-p finished!
+188  shot, 100   th trace tau-p finished!
+185  shot, 150   th trace tau-p finished!
+183  shot, 150   th trace tau-p finished!
+186  shot, 100   th trace tau-p finished!
+188  shot, 150   th trace tau-p finished!
+185  shot, 200   th trace tau-p finished!
+184   th shot tau-p finished!
+186  shot, 150   th trace tau-p finished!
+183  shot, 200   th trace tau-p finished!
+182   th shot tau-p finished!
+188  shot, 200   th trace tau-p finished!
+187   th shot tau-p finished!
+186  shot, 200   th trace tau-p finished!
+185   th shot tau-p finished!
+187  shot, 50   th trace tau-p finished!
+189  shot, 50   th trace tau-p finished!
+192  shot, 50   th trace tau-p finished!
+190  shot, 50   th trace tau-p finished!
+189  shot, 100   th trace tau-p finished!
+187  shot, 100   th trace tau-p finished!
+192  shot, 100   th trace tau-p finished!
+190  shot, 100   th trace tau-p finished!
+189  shot, 150   th trace tau-p finished!
+187  shot, 150   th trace tau-p finished!
+192  shot, 150   th trace tau-p finished!
+190  shot, 150   th trace tau-p finished!
+189  shot, 200   th trace tau-p finished!
+188   th shot tau-p finished!
+192  shot, 200   th trace tau-p finished!
+191   th shot tau-p finished!
+187  shot, 200   th trace tau-p finished!
+186   th shot tau-p finished!
+190  shot, 200   th trace tau-p finished!
+189   th shot tau-p finished!
+196  shot, 50   th trace tau-p finished!
+193  shot, 50   th trace tau-p finished!
+191  shot, 50   th trace tau-p finished!
+194  shot, 50   th trace tau-p finished!
+196  shot, 100   th trace tau-p finished!
+193  shot, 100   th trace tau-p finished!
+191  shot, 100   th trace tau-p finished!
+194  shot, 100   th trace tau-p finished!
+196  shot, 150   th trace tau-p finished!
+193  shot, 150   th trace tau-p finished!
+191  shot, 150   th trace tau-p finished!
+194  shot, 150   th trace tau-p finished!
+196  shot, 200   th trace tau-p finished!
+195   th shot tau-p finished!
+193  shot, 200   th trace tau-p finished!
+192   th shot tau-p finished!
+191  shot, 200   th trace tau-p finished!
+190   th shot tau-p finished!
+194  shot, 200   th trace tau-p finished!
+193   th shot tau-p finished!
+200  shot, 50   th trace tau-p finished!
+197  shot, 50   th trace tau-p finished!
+195  shot, 50   th trace tau-p finished!
+198  shot, 50   th trace tau-p finished!
+200  shot, 100   th trace tau-p finished!
+197  shot, 100   th trace tau-p finished!
+195  shot, 100   th trace tau-p finished!
+198  shot, 100   th trace tau-p finished!
+200  shot, 150   th trace tau-p finished!
+197  shot, 150   th trace tau-p finished!
+195  shot, 150   th trace tau-p finished!
+198  shot, 150   th trace tau-p finished!
+200  shot, 200   th trace tau-p finished!
+199   th shot tau-p finished!
+195  shot, 200   th trace tau-p finished!
+194   th shot tau-p finished!
+197  shot, 200   th trace tau-p finished!
+196   th shot tau-p finished!
+198  shot, 200   th trace tau-p finished!
+197   th shot tau-p finished!
+199  shot, 50   th trace tau-p finished!
+199  shot, 100   th trace tau-p finished!
+199  shot, 150   th trace tau-p finished!
+199  shot, 200   th trace tau-p finished!
+198   th shot tau-p finished!
+all done!
+all done!
+all done!
+all done!

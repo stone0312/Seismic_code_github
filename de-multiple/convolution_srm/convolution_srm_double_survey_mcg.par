@@ -1,0 +1,17 @@
+/data1/swq/sparse_primary/complex/sr0m/csg_100_shots_pre_sr0.dat
+/data1/swq/sparse_primary/complex/sr0m/csg_100_shots_pre_sr0_cp.dat
+/data1/swq/sparse_USMG/srme_csg_100_shots_pre_sr0.dat
+/data1/swq/sparse_USMG/mcg_csg_100_shots_pre_sr0.dat
+100
+100
+1000
+0.5
+0.0
+150.0
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

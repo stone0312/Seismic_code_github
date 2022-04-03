@@ -1,0 +1,13 @@
+/data1/swq/simple_orig_shot.bin
+/data1/swq/simple_pri_shot.bin
+/data1/swq/simple_mul_model.bin
+400
+5000
+
+
+
+fna of initial data
+fna of substracted data
+fna of comparing result
+no. of traces to be substracted for comparision
+lt

@@ -1,0 +1,240 @@
+Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.datFna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.datFna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.datFna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , /data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , /data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 0.5ms
+
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 0.5ms
+minimum and maximum frequency to be calculated are====5 , 100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 0.5ms
+minimum and maximum frequency to be calculated are====lt and dt are====2000 , 0.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 290.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 1000.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 1000.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100Hz
+0.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100Hz
+60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100Hz
+0Hz , 29Hz , 31Hz , 100Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Hz , 31Hz , 100Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Totally 112 Frequency Slices Needed to be Calculated...
+Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Totally 112 Frequency Slices Needed to be Calculated...
+Totally 112 Frequency Slices Needed to be Calculated...
+5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+Fna of CSG Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CSG Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Primary Real is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of Initial Primary Imaginary is====/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of CRG Real is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+Fna of CRG Imaginary is====/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+Fna of Initial Multiple Real is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+Fna of Initial Multiple Imaginary is====/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+Fna of Forward Prediction is====/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated Weights is====/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Estimated multiples is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of Difference between estimated multiples and true multiples is====/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+Fna of New Estimated multiples for the forward problem of primary estimation is====/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+Fna of New Estimated primary is====/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+No. of Shots is====100
+No. of Traces per Shot is====100
+lt and dt are====2000 , 0.5ms
+minimum and maximum frequency to be calculated are====5 , 60
+MCG Aperture is====25
+Frequency Slope is====0Hz , 29Hz , 31Hz , 100Hz
+Totally 112 Frequency Slices Needed to be Calculated...
+    50 Shot, 19 Frequency Slice, Amplitude====3.10095
+    50 Shot, 20 Frequency Slice, Amplitude====3.66956
+    50 Shot, 12 Frequency Slice, Amplitude====2.77415
+    50 Shot, 15 Frequency Slice, Amplitude====2.06656
+    50 Shot, 14 Frequency Slice, Amplitude====2.44373
+    50 Shot, 18 Frequency Slice, Amplitude====2.4444
+    50 Shot, 11 Frequency Slice, Amplitude====2.46223
+    50 Shot, 17 Frequency Slice, Amplitude====1.98441
+    50 Shot, 13 Frequency Slice, Amplitude====2.75172
+    50 Shot, 16 Frequency Slice, Amplitude====1.86265
+    50 Shot, 14 Frequency Slice Multiple Prediction Done...
+    50 Shot, 13 Frequency Slice Multiple Prediction Done...
+    50 Shot, 19 Frequency Slice Multiple Prediction Done...
+    50 Shot, 12 Frequency Slice Multiple Prediction Done...
+    50 Shot, 11 Frequency Slice Multiple Prediction Done...
+    50 Shot, 18 Frequency Slice Multiple Prediction Done...
+    50 Shot, 15 Frequency Slice Multiple Prediction Done...
+    50 Shot, 16 Frequency Slice Multiple Prediction Done...
+    50 Shot, 20 Frequency Slice Multiple Prediction Done...
+    50 Shot, 17 Frequency Slice Multiple Prediction Done...
+    50 Shot, 14 Frequency Slice, Amplitude ATB====0.000383175
+    50 Shot, 12 Frequency Slice, Amplitude ATB====0.0005379
+    50 Shot, 18 Frequency Slice, Amplitude ATB====0.000290938
+    50 Shot, 19 Frequency Slice, Amplitude ATB====0.000283207
+    50 Shot, 13 Frequency Slice, Amplitude ATB====0.000485184
+    50 Shot, 11 Frequency Slice, Amplitude ATB====0.000491832
+    50 Shot, 15 Frequency Slice, Amplitude ATB====0.000318266
+    50 Shot, 16 Frequency Slice, Amplitude ATB====0.00029505
+    50 Shot, 17 Frequency Slice, Amplitude ATB====0.000286235
+    50 Shot, 20 Frequency Slice, Amplitude ATB====0.000240838

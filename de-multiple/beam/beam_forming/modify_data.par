@@ -1,0 +1,16 @@
+/data1/swq/beam_forming/orig_1st_shot_tp.dat
+/data1/swq/beam_forming/orig_1st_shot_tp_new.dat
+/data1/swq/beam_forming/orig_1st_shot_tp_modify.dat
+500
+61
+5000
+-20
+
+
+
+fna of input
+fna of output
+ntrace per shot
+lt,including the length of head
+shot_start
+shot_end

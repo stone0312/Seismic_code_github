@@ -1,0 +1,60 @@
+/data2/swq/zj_slope_break_data/2d_mod/200shots_slope_sr0.dat
+/data2/swq/zj_slope_break_data/2d_mod/50th_shot_slope_wlrm_dz1m.dat
+/data2/swq/zj_slope_break_data/2d_mod/water_layer_depth_200shot_dz1m.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_slope_real.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_slope_imag.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_fft_predicted_model_real_positive_dz1m.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_fft_predicted_model_imag_positive_dz1m.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_fft_predicted_model_real_all_fre_dz1m.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_fft_predicted_model_imag_all_fre_dz1m.dat
+200
+5.0
+1.0
+200
+200
+4000
+0.5
+5.0
+5.0
+0.0
+80.0
+1500.0
+500
+50
+90.0
+500
+200
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+/data1/swq/Denoise_Shot55_nodif_cut.dat
+/data1/swq/demul_Denoise_Shot55_nodif_cut.dat
+/data1/swq/acf_Denoise_Shot55_nodif_cut.dat
+100
+4000
+4000
+20
+0.01
+
+fna of input
+fna of final output
+fna of autocorrelation of initial input data
+ntrace
+lt
+prediction operator length
+prediction lag
+baizao factor
+
+****in the program,the prediction operator length is equal to the length of the singal,that is, we form only one Toeplitz equation per trace, instead of sectioning per trace or autocorrelation trace into several windows. 

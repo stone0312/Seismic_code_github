@@ -1,0 +1,30 @@
+/data2/swq/zj_slope_break_data/2d_mod/200shots_slope_sr0_csg.dat
+/data2/swq/zj_slope_break_data/2d_mod/crg_green_function_slope_dz5m.dat
+/data2/swq/zj_slope_break_data/2d_mod/p_domain_wlrm.dat
+200
+5.0
+4000
+0.0005
+1500.0
+15
+10
+80.0
+0.2
+2.0 10.0 110.0 120.0
+
+
+
+
+fn1: input CSG
+fn2: input CRG of Green's Function
+fn3: output WLRM to be predicted
+nx: No. of traces per shot, nx should be the same as No. of shots
+dx (m)
+lt
+dt (s)
+v: velocity of water
+np_h: half of the number of ray parameter minus 1, ie. np_h=(np-1)/2
+nx_h: half of the number of width of local window minus 1, ie. nx_h=(nx-1)/2
+theta_max
+threshold
+f1,f2,f3,f4 (hz)

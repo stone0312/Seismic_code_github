@@ -1,0 +1,40 @@
+/nas9/11lins/tongji/mwd/p06_1022_RAMUR.dat
+/nas9/11lins/tongji/mwd/wlrm_prediction_bou10.dat
+1919
+160
+383
+400.0
+25.0
+1792
+4.0
+0.0
+120.0
+1500.0
+10
+10
+85.0
+84
+45.0
+
+
+fn1:fna of input shot gather
+fn2:fna of output shot gather
+no. of all shots
+no. of shots per line
+no. of receiver per line
+dx
+dy
+lt
+dt(ms)
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary in x direction
+half of width of boundary in y direction
+dip_max
+distance between the line and the boundary
+depth of water
+
+
+
+

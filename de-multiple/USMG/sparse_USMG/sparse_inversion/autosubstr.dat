@@ -1,0 +1,23 @@
+*JOB    DONGHAI DONGHAI
+*CALL   DSIN
+LABEL   mer_slope
+FILEID  0000400508e00bc1.000000.00000031
+PKEYLST
+6047    6047
+*IF
+GROUP   seqno   1       120     120     120
+*CALL   HDRMATH
+DEFINE  multno
+HCADD   multno  0       multno
+*RESET
+*IF
+GROUP   seqno   121     120     1       240
+*CALL   HDRMATH
+DEFINE  multno
+HCADD   multno  1       multno
+*RESET
+*CALL   SMACMS  chan            PONLY
+WINDOW                  100     50
+*CALL   DSOUT   OVERWRT         FLT16
+LABEL   smacms_slope
+*END

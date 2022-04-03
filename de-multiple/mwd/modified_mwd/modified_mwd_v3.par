@@ -1,0 +1,41 @@
+/data2/swq/2d_modeling_data/orig_500shots.dat
+/data2/swq/2d_modeling_data/shot1000_green_function_all_frequency_new.dat
+/data2/swq/2d_modeling_data/water_layer_depth.dat
+/data2/swq/2d_modeling_data/fft_orig_shots_ltt_real.dat
+/data2/swq/2d_modeling_data/fft_orig_shots_ltt_imag.dat
+500
+5.0
+5.0
+500
+500
+5000
+1.0
+12.5
+12.5
+0.0
+200.0
+1500.0
+1000
+400
+
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+width of hamming window for frequency domain
+width of gaussian window for wave-number domain

@@ -1,0 +1,1 @@
+/proj/TongJi/mpi127_ifort_icc/bin/mpif90 -o 10_beam_RLSI_tau_p_mpi.e 10_beam_RLSI_tau_p_mpi.f -O3 -I/users/test1/application/fftw_ifort_icc/include -L/users/test1/application/fftw_ifort_icc/lib -lm -lfftw3f

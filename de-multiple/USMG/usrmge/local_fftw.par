@@ -1,0 +1,21 @@
+/data2/swq/usrmge/fk_deghost/100th_shot_30hz_deghosting_lamda1.dat
+/data2/swq/usrmge/fk_deghost/100th_shot_30hz_deghosting_lamda1_local_amp.dat
+1
+201
+10000
+1
+100
+1600
+2100
+
+
+
+fna of input
+fna of output
+no. of shots
+no. of traces per shot
+lt
+the shot to be fft
+the trace to be fft
+time start
+time end

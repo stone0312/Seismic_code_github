@@ -1,0 +1,70 @@
+/ccstg48/QK13-14/cfd_segy/data/donghai/csg_donghai_488shots_reconstruct_cut.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_upwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_upwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_downwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_downwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_redatumming_upwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_redatumming_upwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_redatumming_downwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_source_deghosting_redatumming_downwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_source_deghosting_upwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_source_deghosting_downwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_source_deghosting_redatumming_upwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_source_deghosting_redatumming_downwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_receiver_deghosting_upwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_receiver_deghosting_upwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_receiver_deghosting_downwave_l1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xf_receiver_deghosting_downwave_l1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_receiver_deghosting_upwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/xt_receiver_deghosting_downwave_l1.dat
+488
+488
+4000
+2
+50.0
+12.5
+7.0
+10.0
+1500.0
+89.0
+2000
+1000
+150.0
+0.0
+1
+
+Fna of input shot gather
+Fna of upward wavefields after source-side deghosting real parts
+Fna of upward wavefields after source-side deghosting imaginary parts
+Fna of downward wavefields after source-side deghosting real parts
+Fna of downward wavefields after source-side deghosting imaginary parts
+Fna of upward wavefields after source-side deghosting and redatumming real parts
+Fna of upward wavefields after source-side deghosting and redatumming imaginary parts
+Fna of downward wavefields after source-side deghosting and redatumming real parts
+Fna of downward wavefields after source-side deghosting and redatumming imaginary parts
+Fna of upward wavefields after source-side deghosting
+Fna of downward wavefields after source-side deghosting
+Fna of upward wavefields after source-side deghosting and redatumming
+Fna of downward wavefields after source-side deghosting and redatumming
+Fna of upward wavefields after receiver-side deghosting real parts
+Fna of upward wavefields after receiver-side deghosting imaginary parts
+Fna of downward wavefields after receiver-side deghosting real parts
+Fna of downward wavefields after receiver-side deghosting imaginary parts
+Fna of upward wavefields after receiver-side deghosting
+Fna of downward wavefields after receiver-side deghosting
+No. of shots
+No. of traces per shot
+lt
+dt
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+

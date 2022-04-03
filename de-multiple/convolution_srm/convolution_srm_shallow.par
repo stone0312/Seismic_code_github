@@ -1,0 +1,16 @@
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_srme_near_offset_conventional.dat
+200
+200
+2000
+0.5
+0.0
+120.0
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

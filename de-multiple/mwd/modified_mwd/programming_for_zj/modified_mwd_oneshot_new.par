@@ -1,0 +1,54 @@
+/nas9/11lins/tongji/mwd/shallow_field_data/shot800to1039_raw.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/850th_shot_wlrm.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/water_layer_depth_80.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/shot800to1039_raw_real.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/shot800to1039_raw_imag.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/850th_fft_predicted_model_real_positive.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/850th_fft_predicted_model_imag_positive.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/850th_fft_predicted_model_real_all.dat
+/nas9/11lins/tongji/mwd/shallow_field_data/850th_fft_predicted_model_imag_all.dat
+240
+5
+2
+240
+240
+4096
+2.0
+25.0
+25.0
+0.0
+70.0
+1500.0
+1000
+50
+90.0
+1000
+400
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects
+

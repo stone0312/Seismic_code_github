@@ -1,0 +1,31 @@
+/data/swq/shallow_mod_for_paper/data_for_sci/ls_tp_orig_syn_trace50_new.dat
+/data/swq/shallow_mod_for_paper/data_for_sci/Optimized_trace20_shot25_mcg_p_wlrm_lstp.dat
+/data/swq/shallow_mod_for_paper/data_for_sci/original_stack_trace20_shot25_mcg_p_wlrm_lstp.dat
+/data/swq/shallow_mod_for_paper/data_for_sci/optimized_stack_trace20_shot25_mcg_p_wlrm_lstp.dat
+150
+2000
+5
+100
+100
+0.40
+0.10
+
+
+
+
+
+
+
+
+
+fn1:fna of input MCG
+fn2:fna of output MCG
+fn3:fna of results out of original stack
+fn4:fna of results out of stacking from optimized MCG
+nr
+lt 
+no. of win
+no. of theta
+times of realization during Bootstrap
+theta_max
+theta_min

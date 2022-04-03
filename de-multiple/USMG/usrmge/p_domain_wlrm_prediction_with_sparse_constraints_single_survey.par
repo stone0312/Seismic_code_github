@@ -1,0 +1,41 @@
+/data200/swq/zj_slope_break_data/slope_csg_6000to6123_new.dat
+/data200/swq/zj_slope_break_data/slope_crg_6000to6123_new.dat
+/data200/swq/zj_slope_break_data/p_domain_wlrm.dat
+/data200/swq/zj_slope_break_data/csg_tau_p_time_domain.dat
+/data200/swq/zj_slope_break_data/crg_tau_p_time_domain.dat
+/data200/swq/zj_slope_break_data/csg_tau_p_frequency_domain_real.dat
+/data200/swq/zj_slope_break_data/csg_tau_p_frequency_domain_imag.dat
+/data200/swq/zj_slope_break_data/crg_tau_p_frequency_domain_real.dat
+/data200/swq/zj_slope_break_data/crg_tau_p_frequency_domain_imag.dat
+/data200/swq/zj_slope_break_data/csg_inverse_tau_p_time_domain.dat
+/data200/swq/zj_slope_break_data/crg_inverse_tau_p_time_domain.dat
+/data200/swq/zj_slope_break_data/mcg_p_wlrm.dat
+123
+30.0
+5000
+0.002
+1500.0
+15
+10
+89.0
+0.2
+2.0 10.0 110.0 120.0
+100
+100
+
+
+
+
+fn1: input CSG
+fn2: input CRG of Green's Function
+fn3: output WLRM to be predicted
+nx: No. of traces per shot, nx should be the same as No. of shots
+dx (m)
+lt
+dt (s)
+v: velocity of water
+np_h: half of the number of ray parameter minus 1, ie. np_h=(np-1)/2
+nx_h: half of the number of width of local window minus 1, ie. nx_h=(nx-1)/2
+theta_max
+threshold
+f1,f2,f3,f4 (hz)

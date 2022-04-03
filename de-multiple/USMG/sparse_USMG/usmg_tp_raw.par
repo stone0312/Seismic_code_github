@@ -1,0 +1,32 @@
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/csg_100_shots_pre_sr5m_wb75m_ftp_up_l01_real.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/csg_100_shots_pre_sr5m_wb75m_ftp_up_l01_imag.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/crg_100_shots_pre_sr5m_wb75m_ftp_down_l01_real.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/crg_100_shots_pre_sr5m_wb75m_ftp_down_l01_imag.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/usmg_100_shots_prediction_sr5m_l01.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/tp_mcg_sr5m_shot10_trace50_l01.dat
+/data1/swq/sparse_USMG/4layer_usmg_test_new/wb75m/mcg_sr5m_shot10_trace50_l01.dat
+100
+100
+15
+2000
+0.5
+0.0
+120.0
+0.4
+0.6
+10
+50
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold

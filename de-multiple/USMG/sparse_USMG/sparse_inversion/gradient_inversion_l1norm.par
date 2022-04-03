@@ -1,0 +1,14 @@
+nx	151
+nz	76
+npair	10201
+dx	40.0
+dz	40.0
+NiterMax	300
+lambda	0.1
+niu	50
+epsmin	1E-12
+fntres	/mnt/data1/fb/datatmp/Gaussian_anomaly/rytov_traveltime_resd_Iteration_00001.measure.dat
+fnwavepath	/mnt/data1/fb/datatmp/Gaussian_anomaly/gradient/rytov_final_wavepath_iter_00001.dat
+fnHessian	./diag_hessian.dat
+fnGrad	./gradient.dat
+fnVelInv	./vpert_inv.dat

@@ -1,0 +1,18 @@
+/data1/swq/srme_data/fft_orig_shots_lt_real.dat
+/data1/swq/srme_data/fft_orig_shots_lt_imag.dat
+/data1/swq/srme_data/check_read.dat
+200
+200
+200
+4000
+
+
+
+
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of checked data 
+nx
+nshot
+ntrace, nshot should be equal to ntrace
+lt

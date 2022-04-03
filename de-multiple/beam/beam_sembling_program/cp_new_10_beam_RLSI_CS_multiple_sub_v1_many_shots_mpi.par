@@ -1,0 +1,25 @@
+/data1/swq/DP-data_shot1200.su
+/data1/swq/DP-MOD_shot1200.su
+/data1/swq/DP_sub_shot1200_thre01.su
+10.0
+2304 4.0
+2.0 10.0 90.0 100.0
+80.0
+1500.0
+15
+15
+1 100
+
+
+FN1
+FN2
+FN3
+DX
+LT, DT
+F1,F2,F3,F4
+THETA_MAX
+Vmin
+Nbeam_half
+NP_half
+NS_START, NS_END
+

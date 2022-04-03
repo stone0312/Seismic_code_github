@@ -1,0 +1,77 @@
+/data4/swq/complex/sr0m/shot200/200shot_pre_sr0m.dat
+/data4/swq/complex/sr0m/shot200/200shot_srme_sr0m.dat
+/data4/swq/complex/sr0m/shot200/200shot_orig_ftp_np3.dat
+/data4/swq/complex/sr0m/shot200/200shot_orig_itp.dat
+/data4/swq/complex/sr0m/shot200/200shot_orig_sem.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_ftp_np3.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_itp.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_sem.dat
+/data4/swq/complex/sr0m/shot200/200shot_constraints_sem.dat
+/data4/swq/complex/sr0m/shot200/200shot_initial_primary_p0_tp.dat
+/data4/swq/complex/sr0m/shot200/200shot_initial_multiple_p0_tp.dat
+/data4/swq/complex/sr0m/shot200/200shot_initial_primary_p0_t.dat
+/data4/swq/complex/sr0m/shot200/200shot_initial_multiple_p0_t.dat
+/data4/swq/complex/sr0m/shot200/200shot_constraints_sem_smoothing.dat
+/data4/swq/complex/sr0m/shot200/200shot_primary_tp.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_tp.dat
+/data4/swq/complex/sr0m/shot200/200shot_primary_t.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_t.dat
+/data4/swq/complex/sr0m/shot200/200shot_primary_weights.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_weights.dat
+/data4/swq/complex/sr0m/shot200/200shot_primary_snapshot.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_snapshot.dat
+/data4/swq/complex/sr0m/shot200/200shot_primary_snapshot_iteration.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_snapshot_iteration.dat
+/data4/swq/complex/sr0m/shot200/200shot_orig_ftp_raw.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_ftp_raw.dat
+/data4/swq/complex/sr0m/shot200/200shot_multiple_ftp_envelop.dat
+1
+401
+4000
+15
+7
+85
+-85
+0.0
+300
+0.4
+5.0
+1500
+0.2
+0.2
+50
+0.1
+6
+4
+1
+0.7
+2.0
+0.5
+50
+3
+100
+100
+0
+30
+370
+1
+1
+
+fna of input initial data
+fna of input multiple model
+fna of forward initial tau-p
+fna of inverse initial tau-p
+fna of initial semblance
+fna of forward multiple model tau-p
+fna of inverse multiple model tau-p
+fna of  multiple model semblance
+fna of  semblance constraints after Butterworth Filtering
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

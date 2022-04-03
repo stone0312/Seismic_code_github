@@ -1,0 +1,57 @@
+/home/swq/usrmge/200shot_up_csg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_up_csg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_down_csg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_down_csg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_up_crg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_up_crg_dual_sensor_imag.dat
+/home/swq/usrmge/200shot_down_crg_dual_sensor_real.dat
+/home/swq/usrmge/200shot_down_crg_dual_sensor_imag.dat
+/home/swq/usrmge/srm_shot50_dual_sensor_qualitive_mcg.dat
+/home/swq/usrmge/srm_shot50_real_tmp1.dat
+/home/swq/usrmge/srm_shot50_imag_tmp1.dat
+/home/swq/usrmge/MCG_shot50_real_tmp1.dat
+/home/swq/usrmge/MCG_shot50_imag_tmp1.dat
+/home/swq/usrmge/MCG_shot50_dual_sensor_qualitive.dat
+/home/swq/usrmge/MCG_shot50_trace50_dual_sensor_qualitive.dat
+/home/swq/usrmge/srm_shot50_trace50_dual_sensor_qualitive.dat
+200
+200
+6000
+0.5
+80.0
+0.0
+50
+50
+0.3333
+0.6667
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+fn100: fna of MCG for a certain trace
+fn1000:fna of srm of a certain trace
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

@@ -1,0 +1,56 @@
+/ccstg48/QK13-14/cfd_segy/data/131_new/xt_receiver_deghosting_upwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/xt_receiver_deghosting_downwave_l1.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/wlrm_plus_ghost_pre_168_1.dat
+168
+168
+2500
+2
+25.0
+12.5
+4.0
+5.0
+1500.0
+89.0
+2000
+1000
+150.0
+0.0
+1
+11.0
+24
+
+Fna of input shot gather
+Fna of upward wavefields after source-side deghosting real parts
+Fna of upward wavefields after source-side deghosting imaginary parts
+Fna of downward wavefields after source-side deghosting real parts
+Fna of downward wavefields after source-side deghosting imaginary parts
+Fna of upward wavefields after source-side deghosting and redatumming real parts
+Fna of upward wavefields after source-side deghosting and redatumming imaginary parts
+Fna of downward wavefields after source-side deghosting and redatumming real parts
+Fna of downward wavefields after source-side deghosting and redatumming imaginary parts
+Fna of upward wavefields after source-side deghosting
+Fna of downward wavefields after source-side deghosting
+Fna of upward wavefields after source-side deghosting and redatumming
+Fna of downward wavefields after source-side deghosting and redatumming
+Fna of upward wavefields after receiver-side deghosting real parts
+Fna of upward wavefields after receiver-side deghosting imaginary parts
+Fna of downward wavefields after receiver-side deghosting real parts
+Fna of downward wavefields after receiver-side deghosting imaginary parts
+Fna of upward wavefields after receiver-side deghosting
+Fna of downward wavefields after receiver-side deghosting
+No. of shots
+No. of traces per shot
+lt
+dt
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+

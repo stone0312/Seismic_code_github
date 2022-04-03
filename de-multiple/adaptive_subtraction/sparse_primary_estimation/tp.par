@@ -1,0 +1,30 @@
+/data1/swq/sparse_USMG/4layer_usmg_test/csg_100_shots_pre_shot10_normlize.dat
+/data1/swq/sparse_USMG/4layer_usmg_test/csg_100_shots_pre_shot10_normlize_raw_ftp.dat
+/data1/swq/sparse_USMG/4layer_usmg_test/csg_100_shots_pre_shot10_normlize_raw_itp.dat
+/data1/swq/sparse_USMG/4layer_usmg_test/csg_100_shots_pre_shot10_normlize_raw_sem.dat
+1
+100
+1000
+15
+15
+85
+-85
+0.5
+5.0
+1500
+0.1
+500
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

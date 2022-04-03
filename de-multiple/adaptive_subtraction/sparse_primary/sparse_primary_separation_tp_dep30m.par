@@ -1,0 +1,72 @@
+/data1/swq/sparse_primary/dep30m/shot50/shot50_dep30m.dat
+/data1/swq/sparse_primary/dep30m/shot50/shot50_multiple_dep30m.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_orig_ftp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_orig_itp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_orig_sem.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_ftp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_itp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_sem.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_constraints_sem.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_initial_primary_p0_tp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_initial_multiple_p0_tp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_initial_primary_p0_t.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_initial_multiple_p0_t.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_constraints_sem_smoothing.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_primary_tp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_tp.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_primary_t.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_t.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_primary_weights.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_weights.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_primary_snapshot.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_snapshot.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_primary_snapshot_iteration.dat
+/data1/swq/sparse_primary/dep30m/shot50/trace1to100_multiple_snapshot_iteration.dat
+1
+100
+1000
+15
+6
+85
+-85
+0.0
+300
+0.5
+5.0
+1500
+0.4
+0.2
+50
+0.1
+6
+0
+0.7
+2.0
+0.5
+3
+3
+30
+15
+0
+25
+75
+
+
+fna of input initial data
+fna of input multiple model
+fna of forward initial tau-p
+fna of inverse initial tau-p
+fna of initial semblance
+fna of forward multiple model tau-p
+fna of inverse multiple model tau-p
+fna of  multiple model semblance
+fna of  semblance constraints after Butterworth Filtering
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

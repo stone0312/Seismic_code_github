@@ -1,0 +1,54 @@
+/data2/swq/data_for_mwd_test/200shot_shallow_orig.dat
+/data2/swq/data_for_mwd_test/1st_shot_wlrm_boundary500_dx5_dz1025m_60hz.dat
+/data2/swq/data_for_mwd_test/water_layer_depth_80.dat
+/data2/swq/data_for_mwd_test/200shot_shallow_orig_real_new.dat
+/data2/swq/data_for_mwd_test/200shot_shallow_orig_imag_new.dat
+/data2/swq/data_for_mwd_test/1st_fft_predicted_model_real_v11_positive_field_data_denoise_norm_boundary500_dz1025m_80hz.dat
+/data2/swq/data_for_mwd_test/1st_fft_predicted_model_imag_v11_positive_field_data_denoise_norm_boundary500_dz1025m_80hz.dat
+/data2/swq/data_for_mwd_test/1st_fft_predicted_model_real_v11_all_field_data_denoise_norm_boundary500_dz1025m_80hz.dat
+/data2/swq/data_for_mwd_test/1st_fft_predicted_model_imag_v11_all_field_data_denoise_norm_boundary500_dz1025m_80hz.dat
+200
+5
+1.25
+200
+200
+1500
+0.5
+5
+5
+0.0
+60.0
+1500.0
+500
+1
+90.0
+500
+20
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects
+

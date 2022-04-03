@@ -1,0 +1,9 @@
+vtruefile	/home/fb/rtm2d_modelingonly/Model/Marmousi_model/velocity/mar_vel_FULL_737_250
+vobsfile	/home/fb/rtm2d_modelingonly/Model/Marmousi_model/velocity/NULL
+vinvfile	./mar_true.dct_denoise.dat
+nx	737
+nz	250
+nitermax	100
+lambda	0.1
+niu	20
+epsmin	9E-11

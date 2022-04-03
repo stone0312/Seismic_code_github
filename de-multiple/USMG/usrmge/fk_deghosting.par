@@ -1,0 +1,37 @@
+/home/swq/usrmge/200shot_sr100_crg.dat
+/home/swq/usrmge/sourceside_up_200shot_30hz_lamda1.dat
+/home/swq/usrmge/sourceside_down_200shot_30hz_lamda1.dat
+200
+200
+6000
+0.5
+0.0
+100.0
+5.0
+5.0
+5.0
+5.0
+5.0
+1
+0.0
+100.0
+1500.0
+
+
+fna of input data with ghosts 
+fna of output deghosted data
+nshot
+ntrace
+lt
+dt
+sz
+rz
+dz
+dsx
+drx
+ds
+dr
+lamda
+fmin
+fmax
+velocity of water layer

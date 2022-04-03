@@ -1,0 +1,53 @@
+/ccstg48/QK13-14/cfd_segy/data/131_new/csg_168_1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/csg_168_1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/csg_168_1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/csg_168_1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/crg_168_1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/crg_168_1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/crg_168_1_real.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/crg_168_1_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/srm_131_168shots_1.dat
+/ccstg48/QK13-14/cfd_segy/data/131_new/MCG_srm_131_168shots_1.dat
+168
+168
+25.0
+12.5
+2500
+2
+200.0
+0.0
+120
+5
+0
+1
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+nshot
+ntrace //nshot should be equal to ntrace
+ds
+dr
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

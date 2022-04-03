@@ -1,0 +1,10 @@
+vtruefile	/home/fb/data/angle_gather/cig300_radon.dat
+vobsfile	/home/fb/data/angle_gather/cig300_radon.dat
+vinvfile	/home/fb/data/angle_gather/cig300_ps_pn.inv.dat
+vresfile	/home/fb/data/angle_gather/cig300_ps_pn.res.dat
+nx	89
+nz	201
+nitermax	500
+lambda	0.001
+niu	50
+epsmin	9E-8

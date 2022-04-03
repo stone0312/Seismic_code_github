@@ -1,0 +1,9 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/vel_raw.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/NULL
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/vel.IDCT.dat
+nx	151
+nz	51
+nitermax	300
+lambda	0.01
+niu	70
+epsmin	9E-11

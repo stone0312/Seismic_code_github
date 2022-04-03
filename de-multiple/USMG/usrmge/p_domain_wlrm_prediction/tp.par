@@ -1,0 +1,32 @@
+/data1/swq/wlrim_prediction/crg_wl_green_function.dat
+/data1/swq/wlrim_prediction/crg_wl_green_function_ftp.dat
+/data1/swq/wlrim_prediction/crg_wl_green_function_itp.dat
+/data1/swq/wlrim_prediction/crg_wl_green_function_sem.dat
+200
+200
+4000
+15
+15
+85
+-85
+0.5
+5.0
+1500
+0.2
+0
+0
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

@@ -1,0 +1,40 @@
+/data2/swq/usrmge/fk_deghost/100th_shot_raw_pri_30hz.dat
+/data2/swq/usrmge/fk_deghost/100th_shot_30hz_ghost.dat
+1
+201
+10000
+0.5
+0.0
+100.0
+5.0
+5.0
+5.0
+5.0
+5.0
+1000
+500
+1
+0.0
+100.0
+1500.0
+
+
+fna of input data with ghosts 
+fna of output deghosted data
+nshot
+ntrace
+lt
+dt
+sz
+rz
+dz
+dsx
+drx
+ds
+dr
+bou
+wid
+lamda
+fmin
+fmax
+velocity of water layer

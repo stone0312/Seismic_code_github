@@ -1,0 +1,44 @@
+!*P-wave velocity filename*!
+./model/vp2d_2l.dat
+!*S-wave velocity filename*!
+./model/vs2d_2l.dat
+!*Density velocity filename*!
+./model/rho2d_2l.dat
+!*P-wave quality factor filename*!
+./model/qfp_2l.dat
+!*S-wave quality factor filename*!
+./model/qfs_2l.dat
+!*NO.1 shot record filename(tmp)*!
+./vz_tmp
+!*NO.2 shot record filename(all)*!
+./shot_vz
+!*NO.3 shot record filename(tmp)*!
+./vx_tmp
+!*NO.4 shot record filename(all)*!
+./shot_vx
+!*nshot(samples)*!
+1
+!*offset_min,offset_max*!
+0.0  50.0
+!*sx0,sz0,rz0(m)*!
+0.0 0.0 0.0
+!*dsx(m)*!
+10.0
+!*nx_v,nz_v(samples)*!
+401 401
+!*dx_v,dz_v(m)*!
+10.0 10.0
+!*nt(samples)*!
+2000
+!*dt(s)*!
+0.001
+!*f0(Hz)*!
+10
+!*pml_thick x left and right direction(m)*!
+200.0 200.0
+!*pml_thick z up and down direction(m)*!
+200.0 200.0
+!*order_2nd*!
+10
+!*order_1st*!
+9

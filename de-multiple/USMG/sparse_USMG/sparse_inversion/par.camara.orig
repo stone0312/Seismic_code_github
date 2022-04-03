@@ -1,0 +1,9 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/camaraman/X.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/camaraman/B.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/camaraman/inv.dat
+nx	256
+nz	256
+nitermax	200
+lambda	0.125
+niu	16.7
+epsmin	9E-14

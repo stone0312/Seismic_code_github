@@ -1,0 +1,57 @@
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000_real.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000_imag.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000_real.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000_imag.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000_real.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000_imag.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000_real.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000_imag.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_shot1_mcg_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_shot1_real_tmp_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_shot1_imag_tmp_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_MCG_shot1_real_tmp_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_MCG_shot1_imag_tmp_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_shot1_qualitive_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_MCG_shot1_trace50_0109.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/usrmg_sr_shot1_trace50_0109.dat
+200
+200
+2000
+0.5
+120.0
+0.0
+1
+100
+0.1
+0.9
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+fn100: fna of MCG for a certain trace
+fn1000:fna of srm of a certain trace
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

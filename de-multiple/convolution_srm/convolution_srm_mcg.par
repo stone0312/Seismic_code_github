@@ -1,0 +1,14 @@
+/data200/swq/2d_modeling_data/csg_500shots.dat
+/data200/swq/2d_modeling_data/crg_500shots.dat
+/data200/swq/2d_modeling_data/srme_500shots.dat
+/data200/swq/2d_modeling_data/mcg_500shots.dat
+500
+500
+5000
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

@@ -1,0 +1,49 @@
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/400_shots_green.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/400_shots_green_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/400_shots_green_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_pri_new.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_pri_new.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_pri_new_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_pri_new_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_pri_new_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_pri_new_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/1st_shot_wlrim_prediction_pri_new_opt.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/1st_shot_srm_prediction_pri_raw_new_opt.dat
+400
+400
+4000
+0.5
+5.0
+5.0
+0.0
+0.0
+1500.0
+89.0
+1000
+1000
+200.0
+0.0
+100.0
+0.4
+0.6
+
+
+
+Fna of input shot gather
+Fna of wlrm and ghost prediction
+No. of shots
+No. of traces per shot
+lt
+dt/ms
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+water bottom

@@ -1,0 +1,48 @@
+/data2/swq/orig_500shots.dat
+/data2/swq/water_layer_related_multiple_v10_boundary1000.dat
+/data2/swq/water_layer_depth.dat
+/data2/swq/fft_orig_shots_ltt_real.dat
+/data2/swq/fft_orig_shots_ltt_imag.dat
+/data2/swq/fft_predicted_model_real_v10_positive.dat
+/data2/swq/fft_predicted_model_imag_v10_positive.dat
+/data2/swq/fft_predicted_model_real_v11_all.dat
+/data2/swq/fft_predicted_model_imag_v11_all.dat
+479
+12.5
+12.5
+479
+479
+3000
+2.0
+12.5
+12.5
+0.0
+100.0
+1500.0
+1000
+
+
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary

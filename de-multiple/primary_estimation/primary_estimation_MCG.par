@@ -1,0 +1,33 @@
+/data4/swq/primary_estimation/50th_shot_weights_MCG5_f100hz_E5_pre_real.dat
+/data4/swq/primary_estimation/50th_shot_weights_MCG5_f100hz_E5_pre_imag.dat
+/data4/swq/primary_estimation/crg_100shot_pre_real.dat
+/data4/swq/primary_estimation/crg_100shot_pre_imag.dat
+/data4/swq/primary_estimation/csg_100shot_pre_real.dat
+/data4/swq/primary_estimation/csg_100shot_pre_imag.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward_MCG5_f100hz_E5_PE.dat
+/data4/swq/primary_estimation/50th_shot_primary_estimation_MCG5_f100hz_E5.dat
+100
+100
+2000
+0.5
+0.0
+100.0
+0.00001
+10000
+5
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold
+lamda
+normlization coe

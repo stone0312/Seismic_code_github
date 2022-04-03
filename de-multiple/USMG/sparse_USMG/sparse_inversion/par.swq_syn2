@@ -1,0 +1,12 @@
+vtruefile	/data1/swq/structure_tensor/2d_raw_ol.dat
+vobsfile	/data1/swq/structure_tensor/2d_raw_ol.dat
+vinvfile	/data1/swq/structure_tensor/2d_ol.inv.dat
+vresfile	/data1/swq/structure_tensor/2d_ol.res.dat
+faifile	        /data1/swq/structure_tensor/2d_multiple_orientation_w3_3p_new.dat
+nx	50
+nz	200
+nitermax	5000
+lambda	0.01
+niu	9E-5
+epsmin	9E-28
+type    l1

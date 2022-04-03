@@ -1,0 +1,48 @@
+/data2/swq/zj_data/479shot_raw.dat
+/data2/swq/zj_data/100th_shot_wlrm_zj_dz125m_impulse_taper01.dat
+/data2/swq/zj_data/water_layer_depth_72.dat
+/data2/swq/zj_data/479shot_raw_real.dat
+/data2/swq/zj_data/479shot_raw_imag.dat
+/data2/swq/zj_data/tt_100th_fft_predicted_model_real_positive_dz125m_impulse.dat
+/data2/swq/zj_data/tt_100th_fft_predicted_model_imag_positive_dz125m_impulse.dat
+/data2/swq/zj_data/tt_100th_fft_predicted_model_real_all_dz125m_100hz_impulse.dat
+/data2/swq/zj_data/tt_100th_fft_predicted_model_imag_all_dz125m_100hz_impulse.dat
+479
+1.25
+1.25
+479
+479
+3000
+2.0
+12.5
+12.5
+0.0
+80.0
+1500.0
+5000
+100
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted

@@ -1,0 +1,30 @@
+/data1/swq/srme_primary_est/crg_100shot_pri_extrapolation.dat
+/data1/swq/srme_primary_est/crg_100shot_pri_extrapolation_ftp1.dat
+/data1/swq/srme_primary_est/crg_100shot_pri_extrapolation_itp1.dat
+/data1/swq/srme_primary_est/crg_100shot_pri_extrapolation_sem1.dat
+100
+100
+2000
+15
+15
+85
+-85
+0.5
+5.0
+1500
+0.1
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

@@ -1,0 +1,30 @@
+/data4/swq/complex/sr0m/shot200/200shot_srme_sr0m.dat
+/data4/swq/complex/sr0m/shot200/200shot_srme_sr0m_ftp_raw.dat
+/data4/swq/complex/sr0m/shot200/200shot_srme_sr0m_itp_raw.dat
+/data4/swq/complex/sr0m/shot200/200shot_srme_sr0m_sem_raw.dat
+1
+401
+4000
+15
+15
+85
+-85
+0.4
+5.0
+1500
+0.2
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

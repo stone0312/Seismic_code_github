@@ -1,0 +1,51 @@
+/data200/swq/bohai_shallow_data/csg_1to100shots_real.dat
+/data200/swq/bohai_shallow_data/csg_1to100shots_imag.dat
+/data200/swq/bohai_shallow_data/csg_1to100shots_real.dat
+/data200/swq/bohai_shallow_data/csg_1to100shots_imag.dat
+/data200/swq/bohai_shallow_data/crg_water_layer_green_function_dep14m_real.dat
+/data200/swq/bohai_shallow_data/crg_water_layer_green_function_dep14m_imag.dat
+/data200/swq/bohai_shallow_data/crg_water_layer_green_function_dep14m_real.dat
+/data200/swq/bohai_shallow_data/crg_water_layer_green_function_dep14m_imag.dat
+/data200/swq/bohai_shallow_data/1to100shots_shallow_water_bohai_mwd_045055.dat
+/data200/swq/bohai_shallow_data/1to100shots_sr30m_real_tmp_045055.dat
+/data200/swq/bohai_shallow_data/1to100shots_sr30m_imag_tmp_045055.dat
+/data200/swq/bohai_shallow_data/MCG_1to100shots_shallow_water_bohai_mwd_045055.dat
+/data200/swq/bohai_shallow_data/MCG_1to100shots_sr30m_real_tmp_045055.dat
+/data200/swq/bohai_shallow_data/MCG_1to100shots_sr30m_imag_tmp_045055.dat
+100
+100
+4000
+1
+120.0
+0.0
+0.45
+0.55
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

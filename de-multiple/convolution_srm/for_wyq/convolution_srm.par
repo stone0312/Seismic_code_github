@@ -1,0 +1,16 @@
+/data/swq/shallow_water_mod_simple/wd_50m/shallow_200shots_sr0_missing_near_offset_100m.dat
+/data/swq/shallow_water_mod_simple/wd_50m/crg_shallow_200shots_sr0_missing_near_offset_100m.dat
+/data/swq/shallow_water_mod_simple/wd_50m/srme_shallow_200shots_sr0_near_offset_missing_100m.dat
+200
+200
+2000
+0.5
+0.0
+120.0
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

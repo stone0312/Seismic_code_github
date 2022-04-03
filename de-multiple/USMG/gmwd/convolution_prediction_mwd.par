@@ -1,0 +1,53 @@
+/ccstg48/QK13-14/cfd_segy/data/donghai/csg_donghai_488shots_reconstruct_cut_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/csg_donghai_488shots_reconstruct_cut_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/csg_donghai_488shots_reconstruct_cut_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/csg_donghai_488shots_reconstruct_cut_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/crg_donghai_green_function_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/crg_donghai_green_function_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/crg_donghai_green_function_real.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/crg_donghai_green_function_imag.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/mwd_donghai_488shots_reconstruct_cut.dat
+/ccstg48/QK13-14/cfd_segy/data/donghai/MCG_488shots_donghai_mwd_alloper_cut.dat
+488
+488
+50.0
+12.5
+4000
+2
+150.0
+0.0
+120
+5
+0
+1
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+nshot
+ntrace //nshot should be equal to ntrace
+ds
+dr
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

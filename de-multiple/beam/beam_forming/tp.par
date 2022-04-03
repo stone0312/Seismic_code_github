@@ -1,0 +1,31 @@
+/data1/swq/beam_forming/orig_1st_shot.dat
+/data1/swq/beam_forming/orig_1st_shot_ftp_np61_nx21_trace100_thre02.dat
+/data1/swq/beam_forming/orig_1st_shot_itp_np61_nx21_trace100_thre02.dat
+/data1/swq/beam_forming/orig_1st_shot_sem_thre02_np61_nx61.dat
+500
+5000
+61
+20
+85
+-85
+0.5
+5.0
+1500
+0.4
+0
+0
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

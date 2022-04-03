@@ -1,0 +1,32 @@
+/data4/swq/complex/sr5m/csg_401shot_pre_sr5m_ftp_up_l01_real.dat
+/data4/swq/complex/sr5m/csg_401shot_pre_sr5m_ftp_up_l01_imag.dat
+/data4/swq/complex/sr5m/crg_401shot_pre_sr5m_ftp_down_l01_real.dat
+/data4/swq/complex/sr5m/crg_401shot_pre_sr5m_ftp_down_l01_imag.dat
+/data4/swq/complex/sr5m/usmg_11shot_prediction_sr5m.dat
+/data4/swq/complex/sr5m/tp_mcg_sr5m_shot10_trace50_1.dat
+/data4/swq/complex/sr5m/mcg_sr5m_shot10_trace50_1.dat
+401
+401
+15
+4000
+0.4
+0.0
+150.0
+0.4
+0.6
+10
+50
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold

@@ -1,0 +1,11 @@
+vtruefile	/mnt/data1/fb/datatmp/fivelayermodel/gradient/grad_Iteration_00001.dat
+vobsfile	/mnt/data1/fb/datatmp/fivelayermodel/gradient/grad_Iteration_00001.dat
+vinvfile	/mnt/data1/fb/datatmp/fivelayermodel/gradient/grad_Iteration_00001.tvinv.dat
+vresfile	/mnt/data1/fb/datatmp/fivelayermodel/gradient/grad_Iteration_00001.tvres.dat
+nx	1401
+nz	601
+nitermax	400
+lambda	0.2
+niu	0.00001
+epsmin	9E-15
+type	l1

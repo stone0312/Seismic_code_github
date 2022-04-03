@@ -1,0 +1,11 @@
+vtruefile	/home/fb/rtm2d_modelingonly/scan_dip_angle_src_v1/data/update_Iteration_00026.image.dat
+vobsfile	/home/fb/rtm2d_modelingonly/scan_dip_angle_src_v1/data/update_Iteration_00026.image.dat
+vinvfile	/home/fb/rtm2d_modelingonly/scan_dip_angle_src_v1/data/update_Iteration_00026.image.inv.dat
+vresfile	/home/fb/rtm2d_modelingonly/scan_dip_angle_src_v1/data/update_Iteration_00026.image.res.dat
+nx	1401
+nz	601
+nitermax	400
+lambda	0.2
+niu	0.00001
+epsmin	9E-15
+type	l1

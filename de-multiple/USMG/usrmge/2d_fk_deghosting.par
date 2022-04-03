@@ -1,0 +1,36 @@
+/home/swq/usrmge/primary_ghost_100m.dat
+/home/swq/usrmge/2d_deghosting_100m.dat
+1
+200
+4000
+0.5
+0.0
+100.0
+5.0
+5.0
+5.0
+5.0
+5.0
+0.01
+0.0
+100.0
+1500.0
+
+
+fna of input data with ghosts 
+fna of output deghosted data
+nshot
+ntrace
+lt
+dt
+sz
+rz
+dz
+dsx
+drx
+ds
+dr
+lamda
+fmin
+fmax
+velocity of water layer

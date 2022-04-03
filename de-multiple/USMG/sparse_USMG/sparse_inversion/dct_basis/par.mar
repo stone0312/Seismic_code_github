@@ -1,0 +1,9 @@
+vtruefile	/home/fb/rtm2d_modelingonly/Model/Marmousi_model/velocity/mar_vel_FULL_737_250_smooth2_r1_20_r2_20
+vobsfile	/home/fb/rtm2d_modelingonly/Model/Marmousi_model/velocity/NULL
+vinvfile	./velsmooth20.IDCT.niu_50.dat
+nx	737
+nz	250
+nitermax	200
+lambda	0.1
+niu	50
+epsmin	9E-14

@@ -1,0 +1,53 @@
+/data200/swq/csg_122rdgu_cut_real.dat
+/data200/swq/csg_122rdgu_cut_imag.dat
+/data200/swq/csg_122rdgd_cut_real.dat
+/data200/swq/csg_122rdgd_cut_imag.dat
+/data200/swq/crg_122sdgue_cut_real.dat
+/data200/swq/crg_122sdgue_cut_imag.dat
+/data200/swq/crg_122sdgde_cut_real.dat
+/data200/swq/crg_122sdgde_cut_imag.dat
+/data200/swq/srmimg_122_cut_shot30to90.dat
+/data200/swq/MCG_usrmg_shot16_cut_srmimg.dat
+122
+122
+50.0
+50.0
+3072
+2
+150.0
+0.0
+15
+5
+0
+1
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+nshot
+ntrace //nshot should be equal to ntrace
+ds
+dr
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

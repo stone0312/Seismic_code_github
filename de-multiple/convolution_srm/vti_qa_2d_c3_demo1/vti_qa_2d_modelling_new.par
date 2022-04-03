@@ -1,0 +1,38 @@
+!*velocity filename*!
+/data2/swq/data_for_mwd_test/mwd_vel.dat
+!*epsilon filename*!
+/data2/swq/data_for_mwd_test/mwd_vel.dat
+!*delta filename*!
+/data2/swq/data_for_mwd_test/mwd_vel.dat
+!*NO.1 shot record filename(tmp)*!
+/data2/swq/data_for_mwd_test/orig_shot_tmp
+!*NO.2 shot record filename(all)*!
+/data2/swq/data_for_mwd_test/orig_shot
+!*nshot(samples)*!
+300
+!*offset_min,offset_max*!
+-1500  1495.0
+!*sx0,sz0,rz0(m)*!
+0.0 0.0 0.0
+!*dsx(m)*!
+5.0
+!*nx_v,nz_v(samples)*!
+300 300
+!*dx_v,dz_v(m)*!
+5.0 5.0
+!*nt(samples)*!
+10000
+!*dt(s)*!
+0.0005
+!*f0(Hz)*!
+30.0
+!*pml_thick x left and right direction(m)*!
+250.0 250.0
+!*pml_thick z up and down direction(m)*
+0.0 250.0
+!*fd_order_explicit*!
+10
+!*order_pml_1st*!
+9
+!*order_pml_2nd*!
+10

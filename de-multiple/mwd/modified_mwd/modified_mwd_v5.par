@@ -1,0 +1,40 @@
+/data1/swq/srme_data/orig_shots.dat
+/data1/swq/srme_data/water_layer_related_multiple.dat
+/data1/swq/srme_data/water_layer_depth.dat
+/data1/swq/srme_data/fft_orig_shots_ltt_real.dat
+/data1/swq/srme_data/fft_orig_shots_ltt_imag.dat
+200
+5.0
+5.0
+200
+200
+4000
+0.5
+5.0
+5.0
+0.0
+100.0
+1500.0
+300
+
+
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary

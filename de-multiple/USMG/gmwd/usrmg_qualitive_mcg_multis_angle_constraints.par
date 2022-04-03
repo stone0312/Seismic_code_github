@@ -1,0 +1,52 @@
+/data2/swq/zj_slope_break_data/2d_mod/200shots_csg_real.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_csg_imag.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_csg_real.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_csg_imag.dat
+/data2/swq/zj_slope_break_data/2d_mod/crg_green_function_slope_dz5m_real.dat
+/data2/swq/zj_slope_break_data/2d_mod/crg_green_function_slope_dz5m_imag.dat
+/data2/swq/zj_slope_break_data/2d_mod/crg_green_function_slope_dz5m_real.dat
+/data2/swq/zj_slope_break_data/2d_mod/crg_green_function_slope_dz5m_imag.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_srm_ac.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_sr30m_real_tmp.dat
+/data2/swq/zj_slope_break_data/2d_mod/200shots_sr30m_imag_tmp.dat
+/data2/swq/zj_slope_break_data/2d_mod/water_layer_depth_200shot_dz5m.dat
+200
+200
+5.0
+5.0
+5.0
+4000
+0.5
+120.0
+0.0
+0.01
+0.99
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+fn100: fna of MCG for a certain trace
+fn1000:fna of srm of a certain trace
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

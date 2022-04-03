@@ -1,0 +1,22 @@
+ ==========2D_VTI_qusi_acoustic_modelling began==========
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600        1398         700         698           1
+ shot is   1  myid=           0 nt=       10000 it=         201
+ shot is   1  myid=           0 nt=       10000 it=         402
+ shot is   1  myid=           0 nt=       10000 it=         603
+ shot is   1  myid=           0 nt=       10000 it=         804
+ shot is   1  myid=           0 nt=       10000 it=        1005
+ shot is   1  myid=           0 nt=       10000 it=        1206
+ shot is   1  myid=           0 nt=       10000 it=        1407
+ shot is   1  myid=           0 nt=       10000 it=        1608
+ shot is   1  myid=           0 nt=       10000 it=        1809
+ shot is   1  myid=           0 nt=       10000 it=        2010
+ shot is   1  myid=           0 nt=       10000 it=        2211
+ shot is   1  myid=           0 nt=       10000 it=        2412
+ shot is   1  myid=           0 nt=       10000 it=        2613
+ shot is   1  myid=           0 nt=       10000 it=        2814
+ shot is   1  myid=           0 nt=       10000 it=        3015
+ shot is   1  myid=           0 nt=       10000 it=        3216
+ shot is   1  myid=           0 nt=       10000 it=        3417
+ shot is   1  myid=           0 nt=       10000 it=        3618
+ shot is   1  myid=           0 nt=       10000 it=        3819

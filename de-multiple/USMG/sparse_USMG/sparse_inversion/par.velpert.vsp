@@ -1,0 +1,11 @@
+vtruefile	/home/fb/acousticWaveInversion2d/sutools/VEL_UPDATE_TEST.dat
+vobsfile	/home/fb/acousticWaveInversion2d/sutools/VEL_UPDATE_TEST.dat
+vinvfile	/home/fb/acousticWaveInversion2d/sutools/VEL_UPDATE_TEST.tvinv.dat
+vresfile	/home/fb/acousticWaveInversion2d/sutools/VEL_UPDATE_TEST.tvres.dat
+nx	500
+nz	250
+nitermax	200
+lambda	0.2
+niu	0.0001
+epsmin	9E-15
+type	l1

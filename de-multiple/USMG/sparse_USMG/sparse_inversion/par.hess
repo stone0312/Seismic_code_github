@@ -1,0 +1,11 @@
+vtruefile	/mnt/data1/fb/datatmp/hess_fb_iso/gradient/rtm_image_norm_iter_00001.dat
+vobsfile	/mnt/data1/fb/datatmp/hess_fb_iso/gradient/rtm_image_norm_iter_00001.dat
+vinvfile	/mnt/data1/fb/datatmp/hess_fb_iso/gradient/rtm_image_norm_iter_00001.inv.dat
+vresfile	/mnt/data1/fb/datatmp/hess_fb_iso/gradient/rtm_image_norm_iter_00001.res.dat
+nx	2500
+nz	1500
+nitermax	100
+lambda	0.1
+niu	0.00001
+epsmin	9E-25
+type	l1

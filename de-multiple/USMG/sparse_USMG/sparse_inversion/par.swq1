@@ -1,0 +1,11 @@
+vtruefile	/data1/swq/structure_tensor/orig_1st_shot.dat
+vobsfile	/data1/swq/structure_tensor/orig_1st_shot.dat
+vinvfile	/data1/swq/structure_tensor/1st_shot.inv.dat
+vresfile	/data1/swq/structure_tensor/1st_shot.res.dat
+nx	500
+nz	5000
+nitermax	4000
+lambda	0.1
+niu	1
+epsmin	9E-28
+type    l1

@@ -1,0 +1,36 @@
+/data1/swq/srme_primary_est/inverse_wavelet_real.dat
+/data1/swq/srme_primary_est/inverse_wavelet_imag.dat
+/data1/swq/srme_primary_est/crg_100shot_pre_real.dat
+/data1/swq/srme_primary_est/crg_100shot_pre_imag.dat
+/data1/swq/srme_primary_est/csg_100shot_mul_real.dat
+/data1/swq/srme_primary_est/csg_100shot_mul_imag.dat
+/data1/swq/srme_primary_est/primary_estimation_lamda4_n7_n5_200hz_constraint0010.dat
+/data1/swq/srme_primary_est/multiple_estimation_pre_true_wavelet_lamda4_n7_n5_200hz_constraint0010.dat
+/data1/swq/srme_primary_est/multiple_difference_pre_true_wavelet_lamda4_n7_n5_200hz_constraint0010.dat
+100
+100
+2000
+0.5
+0.0
+200.0
+0.0
+1.0
+0.0001
+1000
+7
+5
+3
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold

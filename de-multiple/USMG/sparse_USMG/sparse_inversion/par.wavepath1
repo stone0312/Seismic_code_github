@@ -1,0 +1,11 @@
+vtruefile	./wavepath_test1/wavepath_s.dat
+vobsfile	./wavepath_test1/wavepath_s.dat
+vinvfile	./wavepath_test1/wavepath_s.invnew.dat
+vresfile	./wavepath_test1/wavepath_s.resnew.dat
+nx	601
+nz	401
+nitermax	400
+lambda	0.05
+niu	0.0001
+epsmin	9E-10
+type	l1

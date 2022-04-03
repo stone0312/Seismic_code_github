@@ -1,0 +1,54 @@
+/data1/swq/srme/orig_shots.dat
+/data1/swq/srme/100th_shot_wlrm_bou500_wid500_impulse_80hz_new.dat
+/data1/swq/srme/water_layer_depth.dat
+/data1/swq/srme/fft_orig_shots_ltt_real.dat
+/data1/swq/srme/fft_orig_shots_ltt_imag.dat
+/data1/swq/srme/100th_fft_predicted_model_real_positive_2lt.dat
+/data1/swq/srme/100th_fft_predicted_model_imag_positive_2lt.dat
+/data1/swq/srme/100th_fft_predicted_model_real_all_2lt.dat
+/data1/swq/srme/100th_fft_predicted_model_imag_all_2lt.dat
+200
+5.0
+5.0
+200
+200
+4000
+0.5
+5.0
+5.0
+0.0
+80.0
+1500.0
+500
+100
+90.0
+500
+100
+
+
+fna of input shot gather
+fna of output shot gather
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of real part of fft of predicted model for positive frequencies
+fna of imaginary part of fft of predicted model for positive frequencies
+fna of real part of fft of predicted model for all positive frequencies
+fna of imaginary part of fft of predicted model for all frequencies
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects

@@ -1,0 +1,55 @@
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_csg_real.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_csg_imag.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_crg_real.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_crg_imag.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_srmg_positive_frequency_real.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_srmg_positive_frequency_imag.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_desrmg_positive_frequency_real.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_desrmg_positive_frequency_imag.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_srmg.dat
+/data2/swq/usrmge/depth_200m/usrmge1/200shot_desrmg.dat
+200
+200
+50.0
+50.0
+5.0
+5.0
+2000
+0.5
+0.0
+100.0
+0.3333
+0.6667
+500.0
+3000.0
+200
+0.1
+
+
+fna of real parts of csg
+fna of imaginary parts of csg
+fna of real parts of crg
+fna of imaginary parts of crg
+fna of real parts of srmg for positive frequency
+fna of imaginary parts of srmg for positive frequency
+fna of real parts of desrmg for positive frequency
+fna of imaginary parts of desrmg for positive frequency
+fna of final results of srmg 
+fna of final results of desrmg 
+ns
+nr
+zs
+zr
+dsx
+drx
+lt
+dt(ms)
+fmin
+fmax
+st_beg
+st_end
+depth of water
+velocity of water
+maximum time for iteration
+error for iteration
+

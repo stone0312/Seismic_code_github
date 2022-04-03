@@ -1,0 +1,48 @@
+/data200/swq/131_data/csg_1to100shots.dat
+/data200/swq/131_data/water_layer_green_function_dep11m.dat
+/data200/swq/131_data/shallow_water_depth11m.dat
+/data200/swq/131_data/fft_orig_shots_ltt_real.dat
+/data200/swq/131_data/fft_orig_shots_ltt_imag.dat
+/data200/swq/131_data/check_xf_backward_Green_real_shot200_impulse_100hz.dat
+/data200/swq/131_data/check_xf_backward_Green_imaginary_shot200_impulse_100hz.dat
+167
+12.5
+1.0
+167
+167
+2500
+2.0
+12.5
+12.5
+0.0
+200.0
+1500.0
+1000
+89.0
+1000
+100
+
+
+fna of input shot gather
+fna of output Green's Function for a certain shot
+fna of water layer depth
+fna of real part of fft of original data
+fna of imaginary part of fft of original data
+fna of backward Green'function of imaginary parts for shot1000 in kx-f domain
+fna of backward Green'function of imaginary parts for shot1000 in x-f domain
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water
+half boundary  
+dip_max
+width of taper for absorbing 
+length of taper for frequency 

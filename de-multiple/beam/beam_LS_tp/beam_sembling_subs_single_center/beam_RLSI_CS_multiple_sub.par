@@ -1,0 +1,25 @@
+/home/swq/shot200/shot200newnew.su
+/home/swq/shot200/mod-shot200new.su
+/data1/swq/sembling_subs_shot.su
+12.5
+2304 4.0
+2.0 10.0 90.0 100.0
+80.0
+1500.0
+15
+15
+1 100
+
+
+FN1
+FN2
+FN3
+DX
+LT, DT
+F1,F2,F3,F4
+THETA_MAX
+Vmin
+Nbeam_half
+NP_half
+NS_START, NS_END
+

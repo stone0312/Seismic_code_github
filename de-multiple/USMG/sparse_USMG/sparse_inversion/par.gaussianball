@@ -1,0 +1,10 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/vel_raw.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/vel_raw.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/inv.dat
+vresfile	/home/fb/rtm2d_modelingonly/sparse_inversion/res.dat
+nx	151
+nz	51
+nitermax	100
+lambda	0.1
+niu	50
+epsmin	9E-10

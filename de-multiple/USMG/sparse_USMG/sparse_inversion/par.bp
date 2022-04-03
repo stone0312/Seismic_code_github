@@ -1,0 +1,10 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/bp/vel_z12.5m_x12.5m_nz955_nx5395_exact.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/bp/vel_z12.5m_x12.5m_nz955_nx5395_exact.sn20.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/bp/vel_z12.5m_x12.5m_nz955_nx5395_inv.dat
+vresfile	/home/fb/rtm2d_modelingonly/sparse_inversion/bp/vel_z12.5m_x12.5m_nz955_nx5395_res.inv.dat
+nx	5395
+nz	955
+nitermax	100
+lambda	0.05
+niu	150
+epsmin	9E-10

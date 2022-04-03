@@ -1,0 +1,57 @@
+/data2/swq/zj_slope_break_data/slope_3679to3789to3908_depth.dat
+/data2/swq/zj_slope_break_data/green_function_real_tmp2.dat
+/data2/swq/zj_slope_break_data/green_function_imag_tmp2.dat
+/data2/swq/zj_slope_break_data/green_function_slope_field_data_120hz_bou1500.dat
+120
+30.0
+1.0
+120
+120
+5000
+2.0
+30.0
+30.0
+0.0
+120.0
+1500.0
+1500
+50
+85.0
+0
+50
+10
+0.3333
+0.6667
+
+
+
+fn3:fna of water layer depth
+fn6:fna of real part of fft of predicted model for positive frequencies
+fn7:fna of imaginary part of fft of predicted model for positive frequencies
+fn12(fn10):  fna of MCG
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects
+the trace to be outputed
+starting point for stacking
+ending point for stacking
+
+
+
+
+
+

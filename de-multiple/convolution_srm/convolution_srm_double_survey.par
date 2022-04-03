@@ -1,0 +1,16 @@
+/data/swq/shallow_mod_for_paper/200shots_sr0_wd100m_raw.dat
+/data/swq/shallow_mod_for_paper/200shots_sr0_wd100m_raw_cp.dat
+/data/swq/shallow_mod_for_paper/srme_shallow_200shots_sr0_conv_srme.dat
+200
+200
+1000
+0.5
+0.0
+120.0
+
+
+fna of input, .ie. original shot gather
+fna of output, .ie. predicted surface-related multiple model
+nshot
+no. of traces per shot
+lt

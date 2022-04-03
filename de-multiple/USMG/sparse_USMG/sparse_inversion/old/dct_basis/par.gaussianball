@@ -1,0 +1,9 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/gaussianball/vel_perturbation_gaussian_vmax800_nx1001_nz201_dx10m_dz10m.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/gaussianball/vel_true_nx1001_nz201_dx10m_dz10m.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/gaussianball/inv.dat
+nx	1001
+nz	201
+nitermax	300
+lambda	0.05
+niu	150
+epsmin	9E-11

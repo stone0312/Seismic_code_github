@@ -1,0 +1,19 @@
+/dell10/obc_test/p06_1022_RAMUR.dat
+/dell10/obc_test/3d_fft_real.dat
+/dell10/obc_test/3d_fft_imag.dat
+/dell10/obc_test/3d_ifft.dat
+1919
+160
+383
+1792
+84
+
+fna of input
+fna of output fft real
+fna of output fft imag
+fna of output ifft
+no. of shots
+no. of shots per line
+no. of traces per shot
+lt
+distance between the chosen reciver line and the first shot

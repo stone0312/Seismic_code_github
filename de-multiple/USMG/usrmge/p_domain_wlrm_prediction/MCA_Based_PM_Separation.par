@@ -1,0 +1,48 @@
+./raw_100m_shot100.dat
+./srme_100m_shot100.dat
+./sub_100m_shot100.dat
+./match_100m_shot100.dat
+1
+200
+4000
+5.0
+0.0005
+1500.0
+15
+15
+0.000001
+1000
+85.0
+-85.0
+0.1
+2.0 
+10.0 
+110.0 
+120.0
+4
+0.1
+0.00001
+100
+
+fn1: fna of original shot gather
+fn2: fna of predicted multiple
+fn3: fna of the subtracted result
+fn4: fna of the matched result
+no. of shots
+no. of traces per shot
+lt
+dx
+dt
+vmin
+nx_h
+np_h
+err
+maximum iterative times
+theta_max
+theta_min
+threshold for tau-p transform
+f1
+f2
+f3
+f4
+win_time

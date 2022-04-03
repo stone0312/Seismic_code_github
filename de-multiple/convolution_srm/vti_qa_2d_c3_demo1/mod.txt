@@ -1,0 +1,2879 @@
+ ==========2D_VTI_qusi_acoustic_modelling began==========
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is   1  myid=           0 nt=       10000 it=         201
+ shot is   1  myid=           0 nt=       10000 it=         402
+ shot is   1  myid=           0 nt=       10000 it=         603
+ shot is   1  myid=           0 nt=       10000 it=         804
+ shot is   1  myid=           0 nt=       10000 it=        1005
+ shot is   1  myid=           0 nt=       10000 it=        1206
+ shot is   1  myid=           0 nt=       10000 it=        1407
+ shot is   1  myid=           0 nt=       10000 it=        1608
+ shot is   1  myid=           0 nt=       10000 it=        1809
+ shot is   1  myid=           0 nt=       10000 it=        2010
+ shot is   1  myid=           0 nt=       10000 it=        2211
+ shot is   1  myid=           0 nt=       10000 it=        2412
+ shot is   1  myid=           0 nt=       10000 it=        2613
+ shot is   1  myid=           0 nt=       10000 it=        2814
+ shot is   1  myid=           0 nt=       10000 it=        3015
+ shot is   1  myid=           0 nt=       10000 it=        3216
+ shot is   1  myid=           0 nt=       10000 it=        3417
+ shot is   1  myid=           0 nt=       10000 it=        3618
+ shot is   1  myid=           0 nt=       10000 it=        3819
+ shot is   1  myid=           0 nt=       10000 it=        4020
+ shot is   1  myid=           0 nt=       10000 it=        4221
+ shot is   1  myid=           0 nt=       10000 it=        4422
+ shot is   1  myid=           0 nt=       10000 it=        4623
+ shot is   1  myid=           0 nt=       10000 it=        4824
+ shot is   1  myid=           0 nt=       10000 it=        5025
+ shot is   1  myid=           0 nt=       10000 it=        5226
+ shot is   1  myid=           0 nt=       10000 it=        5427
+ shot is   1  myid=           0 nt=       10000 it=        5628
+ shot is   1  myid=           0 nt=       10000 it=        5829
+ shot is   1  myid=           0 nt=       10000 it=        6030
+ shot is   1  myid=           0 nt=       10000 it=        6231
+ shot is   1  myid=           0 nt=       10000 it=        6432
+ shot is   1  myid=           0 nt=       10000 it=        6633
+ shot is   1  myid=           0 nt=       10000 it=        6834
+ shot is   1  myid=           0 nt=       10000 it=        7035
+ shot is   1  myid=           0 nt=       10000 it=        7236
+ shot is   1  myid=           0 nt=       10000 it=        7437
+ shot is   1  myid=           0 nt=       10000 it=        7638
+ shot is   1  myid=           0 nt=       10000 it=        7839
+ shot is   1  myid=           0 nt=       10000 it=        8040
+ shot is   1  myid=           0 nt=       10000 it=        8241
+ shot is   1  myid=           0 nt=       10000 it=        8442
+ shot is   1  myid=           0 nt=       10000 it=        8643
+ shot is   1  myid=           0 nt=       10000 it=        8844
+ shot  6  extrapolation finished,and now is writing disk
+ shot  6  is done
+ shot is   1  myid=           0 nt=       10000 it=        9045
+ shot is   1  myid=           0 nt=       10000 it=        9246
+ shot  7  extrapolation finished,and now is writing disk
+ shot  7  is done
+ shot  3  extrapolation finished,and now is writing disk
+ shot  3  is done
+ shot is   1  myid=           0 nt=       10000 it=        9447
+ shot is   1  myid=           0 nt=       10000 it=        9648
+ shot is   1  myid=           0 nt=       10000 it=        9849
+ shot  4  extrapolation finished,and now is writing disk
+ shot  4  is done
+ shot  5  extrapolation finished,and now is writing disk
+ shot  5  is done
+ shot is   1  myid=           0 nt=       10000 it=       10050
+ shot  1  extrapolation finished,and now is writing disk
+ shot  1  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot  2  extrapolation finished,and now is writing disk
+ shot  2  is done
+ shot is   9  myid=           0 nt=       10000 it=         201
+ shot is   9  myid=           0 nt=       10000 it=         402
+ shot is   9  myid=           0 nt=       10000 it=         603
+ shot is   9  myid=           0 nt=       10000 it=         804
+ shot  8  extrapolation finished,and now is writing disk
+ shot  8  is done
+ shot is   9  myid=           0 nt=       10000 it=        1005
+ shot is   9  myid=           0 nt=       10000 it=        1206
+ shot is   9  myid=           0 nt=       10000 it=        1407
+ shot is   9  myid=           0 nt=       10000 it=        1608
+ shot is   9  myid=           0 nt=       10000 it=        1809
+ shot is   9  myid=           0 nt=       10000 it=        2010
+ shot is   9  myid=           0 nt=       10000 it=        2211
+ shot is   9  myid=           0 nt=       10000 it=        2412
+ shot is   9  myid=           0 nt=       10000 it=        2613
+ shot is   9  myid=           0 nt=       10000 it=        2814
+ shot is   9  myid=           0 nt=       10000 it=        3015
+ shot is   9  myid=           0 nt=       10000 it=        3216
+ shot is   9  myid=           0 nt=       10000 it=        3417
+ shot is   9  myid=           0 nt=       10000 it=        3618
+ shot is   9  myid=           0 nt=       10000 it=        3819
+ shot is   9  myid=           0 nt=       10000 it=        4020
+ shot is   9  myid=           0 nt=       10000 it=        4221
+ shot is   9  myid=           0 nt=       10000 it=        4422
+ shot is   9  myid=           0 nt=       10000 it=        4623
+ shot is   9  myid=           0 nt=       10000 it=        4824
+ shot is   9  myid=           0 nt=       10000 it=        5025
+ shot is   9  myid=           0 nt=       10000 it=        5226
+ shot is   9  myid=           0 nt=       10000 it=        5427
+ shot is   9  myid=           0 nt=       10000 it=        5628
+ shot is   9  myid=           0 nt=       10000 it=        5829
+ shot  11  extrapolation finished,and now is writing disk
+ shot  11  is done
+ shot  14  extrapolation finished,and now is writing disk
+ shot  14  is done
+ shot is   9  myid=           0 nt=       10000 it=        6030
+ shot is   9  myid=           0 nt=       10000 it=        6231
+ shot is   9  myid=           0 nt=       10000 it=        6432
+ shot  12  extrapolation finished,and now is writing disk
+ shot  12  is done
+ shot is   9  myid=           0 nt=       10000 it=        6633
+ shot is   9  myid=           0 nt=       10000 it=        6834
+ shot is   9  myid=           0 nt=       10000 it=        7035
+ shot is   9  myid=           0 nt=       10000 it=        7236
+ shot is   9  myid=           0 nt=       10000 it=        7437
+ shot  15  extrapolation finished,and now is writing disk
+ shot  15  is done
+ shot  13  extrapolation finished,and now is writing disk
+ shot  13  is done
+ shot is   9  myid=           0 nt=       10000 it=        7638
+ shot is   9  myid=           0 nt=       10000 it=        7839
+ shot is   9  myid=           0 nt=       10000 it=        8040
+ shot is   9  myid=           0 nt=       10000 it=        8241
+ shot  10  extrapolation finished,and now is writing disk
+ shot  10  is done
+ shot is   9  myid=           0 nt=       10000 it=        8442
+ shot is   9  myid=           0 nt=       10000 it=        8643
+ shot is   9  myid=           0 nt=       10000 it=        8844
+ shot is   9  myid=           0 nt=       10000 it=        9045
+ shot is   9  myid=           0 nt=       10000 it=        9246
+ shot is   9  myid=           0 nt=       10000 it=        9447
+ shot is   9  myid=           0 nt=       10000 it=        9648
+ shot is   9  myid=           0 nt=       10000 it=        9849
+ shot is   9  myid=           0 nt=       10000 it=       10050
+ shot  9  extrapolation finished,and now is writing disk
+ shot  9  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot  16  extrapolation finished,and now is writing disk
+ shot  16  is done
+ shot is  17  myid=           0 nt=       10000 it=         201
+ shot is  17  myid=           0 nt=       10000 it=         402
+ shot is  17  myid=           0 nt=       10000 it=         603
+ shot is  17  myid=           0 nt=       10000 it=         804
+ shot is  17  myid=           0 nt=       10000 it=        1005
+ shot is  17  myid=           0 nt=       10000 it=        1206
+ shot is  17  myid=           0 nt=       10000 it=        1407
+ shot is  17  myid=           0 nt=       10000 it=        1608
+ shot is  17  myid=           0 nt=       10000 it=        1809
+ shot is  17  myid=           0 nt=       10000 it=        2010
+ shot is  17  myid=           0 nt=       10000 it=        2211
+ shot is  17  myid=           0 nt=       10000 it=        2412
+ shot is  17  myid=           0 nt=       10000 it=        2613
+ shot is  17  myid=           0 nt=       10000 it=        2814
+ shot is  17  myid=           0 nt=       10000 it=        3015
+ shot is  17  myid=           0 nt=       10000 it=        3216
+ shot is  17  myid=           0 nt=       10000 it=        3417
+ shot is  17  myid=           0 nt=       10000 it=        3618
+ shot is  17  myid=           0 nt=       10000 it=        3819
+ shot is  17  myid=           0 nt=       10000 it=        4020
+ shot  20  extrapolation finished,and now is writing disk
+ shot  20  is done
+ shot is  17  myid=           0 nt=       10000 it=        4221
+ shot is  17  myid=           0 nt=       10000 it=        4422
+ shot  22  extrapolation finished,and now is writing disk
+ shot  22  is done
+ shot is  17  myid=           0 nt=       10000 it=        4623
+ shot  19  extrapolation finished,and now is writing disk
+ shot  19  is done
+ shot is  17  myid=           0 nt=       10000 it=        4824
+ shot is  17  myid=           0 nt=       10000 it=        5025
+ shot is  17  myid=           0 nt=       10000 it=        5226
+ shot is  17  myid=           0 nt=       10000 it=        5427
+ shot is  17  myid=           0 nt=       10000 it=        5628
+ shot is  17  myid=           0 nt=       10000 it=        5829
+ shot  18  extrapolation finished,and now is writing disk
+ shot  18  is done
+ shot is  17  myid=           0 nt=       10000 it=        6030
+ shot is  17  myid=           0 nt=       10000 it=        6231
+ shot  23  extrapolation finished,and now is writing disk
+ shot  23  is done
+ shot  21  extrapolation finished,and now is writing disk
+ shot  21  is done
+ shot is  17  myid=           0 nt=       10000 it=        6432
+ shot is  17  myid=           0 nt=       10000 it=        6633
+ shot is  17  myid=           0 nt=       10000 it=        6834
+ shot is  17  myid=           0 nt=       10000 it=        7035
+ shot is  17  myid=           0 nt=       10000 it=        7236
+ shot is  17  myid=           0 nt=       10000 it=        7437
+ shot is  17  myid=           0 nt=       10000 it=        7638
+ shot is  17  myid=           0 nt=       10000 it=        7839
+ shot is  17  myid=           0 nt=       10000 it=        8040
+ shot is  17  myid=           0 nt=       10000 it=        8241
+ shot is  17  myid=           0 nt=       10000 it=        8442
+ shot is  17  myid=           0 nt=       10000 it=        8643
+ shot is  17  myid=           0 nt=       10000 it=        8844
+ shot  24  extrapolation finished,and now is writing disk
+ shot  24  is done
+ shot is  17  myid=           0 nt=       10000 it=        9045
+ shot is  17  myid=           0 nt=       10000 it=        9246
+ shot is  17  myid=           0 nt=       10000 it=        9447
+ shot is  17  myid=           0 nt=       10000 it=        9648
+ shot is  17  myid=           0 nt=       10000 it=        9849
+ shot is  17  myid=           0 nt=       10000 it=       10050
+ shot  17  extrapolation finished,and now is writing disk
+ shot  17  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  25  myid=           0 nt=       10000 it=         201
+ shot is  25  myid=           0 nt=       10000 it=         402
+ shot is  25  myid=           0 nt=       10000 it=         603
+ shot is  25  myid=           0 nt=       10000 it=         804
+ shot is  25  myid=           0 nt=       10000 it=        1005
+ shot is  25  myid=           0 nt=       10000 it=        1206
+ shot is  25  myid=           0 nt=       10000 it=        1407
+ shot is  25  myid=           0 nt=       10000 it=        1608
+ shot is  25  myid=           0 nt=       10000 it=        1809
+ shot is  25  myid=           0 nt=       10000 it=        2010
+ shot is  25  myid=           0 nt=       10000 it=        2211
+ shot is  25  myid=           0 nt=       10000 it=        2412
+ shot is  25  myid=           0 nt=       10000 it=        2613
+ shot is  25  myid=           0 nt=       10000 it=        2814
+ shot is  25  myid=           0 nt=       10000 it=        3015
+ shot is  25  myid=           0 nt=       10000 it=        3216
+ shot is  25  myid=           0 nt=       10000 it=        3417
+ shot  28  extrapolation finished,and now is writing disk
+ shot  28  is done
+ shot is  25  myid=           0 nt=       10000 it=        3618
+ shot is  25  myid=           0 nt=       10000 it=        3819
+ shot is  25  myid=           0 nt=       10000 it=        4020
+ shot  30  extrapolation finished,and now is writing disk
+ shot  30  is done
+ shot is  25  myid=           0 nt=       10000 it=        4221
+ shot  27  extrapolation finished,and now is writing disk
+ shot  27  is done
+ shot is  25  myid=           0 nt=       10000 it=        4422
+ shot is  25  myid=           0 nt=       10000 it=        4623
+ shot is  25  myid=           0 nt=       10000 it=        4824
+ shot is  25  myid=           0 nt=       10000 it=        5025
+ shot is  25  myid=           0 nt=       10000 it=        5226
+ shot is  25  myid=           0 nt=       10000 it=        5427
+ shot is  25  myid=           0 nt=       10000 it=        5628
+ shot is  25  myid=           0 nt=       10000 it=        5829
+ shot is  25  myid=           0 nt=       10000 it=        6030
+ shot is  25  myid=           0 nt=       10000 it=        6231
+ shot is  25  myid=           0 nt=       10000 it=        6432
+ shot is  25  myid=           0 nt=       10000 it=        6633
+ shot is  25  myid=           0 nt=       10000 it=        6834
+ shot is  25  myid=           0 nt=       10000 it=        7035
+ shot  26  extrapolation finished,and now is writing disk
+ shot  26  is done
+ shot is  25  myid=           0 nt=       10000 it=        7236
+ shot  31  extrapolation finished,and now is writing disk
+ shot  31  is done
+ shot is  25  myid=           0 nt=       10000 it=        7437
+ shot is  25  myid=           0 nt=       10000 it=        7638
+ shot  29  extrapolation finished,and now is writing disk
+ shot  29  is done
+ shot is  25  myid=           0 nt=       10000 it=        7839
+ shot is  25  myid=           0 nt=       10000 it=        8040
+ shot is  25  myid=           0 nt=       10000 it=        8241
+ shot is  25  myid=           0 nt=       10000 it=        8442
+ shot is  25  myid=           0 nt=       10000 it=        8643
+ shot is  25  myid=           0 nt=       10000 it=        8844
+ shot  32  extrapolation finished,and now is writing disk
+ shot  32  is done
+ shot is  25  myid=           0 nt=       10000 it=        9045
+ shot is  25  myid=           0 nt=       10000 it=        9246
+ shot is  25  myid=           0 nt=       10000 it=        9447
+ shot is  25  myid=           0 nt=       10000 it=        9648
+ shot is  25  myid=           0 nt=       10000 it=        9849
+ shot is  25  myid=           0 nt=       10000 it=       10050
+ shot  25  extrapolation finished,and now is writing disk
+ shot  25  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  33  myid=           0 nt=       10000 it=         201
+ shot is  33  myid=           0 nt=       10000 it=         402
+ shot is  33  myid=           0 nt=       10000 it=         603
+ shot is  33  myid=           0 nt=       10000 it=         804
+ shot is  33  myid=           0 nt=       10000 it=        1005
+ shot is  33  myid=           0 nt=       10000 it=        1206
+ shot is  33  myid=           0 nt=       10000 it=        1407
+ shot is  33  myid=           0 nt=       10000 it=        1608
+ shot is  33  myid=           0 nt=       10000 it=        1809
+ shot is  33  myid=           0 nt=       10000 it=        2010
+ shot is  33  myid=           0 nt=       10000 it=        2211
+ shot is  33  myid=           0 nt=       10000 it=        2412
+ shot is  33  myid=           0 nt=       10000 it=        2613
+ shot is  33  myid=           0 nt=       10000 it=        2814
+ shot is  33  myid=           0 nt=       10000 it=        3015
+ shot  36  extrapolation finished,and now is writing disk
+ shot is  33  myid=           0 nt=       10000 it=        3216
+ shot  36  is done
+ shot is  33  myid=           0 nt=       10000 it=        3417
+ shot is  33  myid=           0 nt=       10000 it=        3618
+ shot is  33  myid=           0 nt=       10000 it=        3819
+ shot is  33  myid=           0 nt=       10000 it=        4020
+ shot is  33  myid=           0 nt=       10000 it=        4221
+ shot is  33  myid=           0 nt=       10000 it=        4422
+ shot is  33  myid=           0 nt=       10000 it=        4623
+ shot is  33  myid=           0 nt=       10000 it=        4824
+ shot is  33  myid=           0 nt=       10000 it=        5025
+ shot  38  extrapolation finished,and now is writing disk
+ shot  38  is done
+ shot is  33  myid=           0 nt=       10000 it=        5226
+ shot is  33  myid=           0 nt=       10000 it=        5427
+ shot is  33  myid=           0 nt=       10000 it=        5628
+ shot  35  extrapolation finished,and now is writing disk
+ shot  35  is done
+ shot is  33  myid=           0 nt=       10000 it=        5829
+ shot is  33  myid=           0 nt=       10000 it=        6030
+ shot is  33  myid=           0 nt=       10000 it=        6231
+ shot is  33  myid=           0 nt=       10000 it=        6432
+ shot is  33  myid=           0 nt=       10000 it=        6633
+ shot is  33  myid=           0 nt=       10000 it=        6834
+ shot is  33  myid=           0 nt=       10000 it=        7035
+ shot  37  extrapolation finished,and now is writing disk
+ shot  37  is done
+ shot  39  extrapolation finished,and now is writing disk
+ shot  39  is done
+ shot is  33  myid=           0 nt=       10000 it=        7236
+ shot is  33  myid=           0 nt=       10000 it=        7437
+ shot  34  extrapolation finished,and now is writing disk
+ shot  34  is done
+ shot is  33  myid=           0 nt=       10000 it=        7638
+ shot is  33  myid=           0 nt=       10000 it=        7839
+ shot is  33  myid=           0 nt=       10000 it=        8040
+ shot  40  extrapolation finished,and now is writing disk
+ shot  40  is done
+ shot is  33  myid=           0 nt=       10000 it=        8241
+ shot is  33  myid=           0 nt=       10000 it=        8442
+ shot is  33  myid=           0 nt=       10000 it=        8643
+ shot is  33  myid=           0 nt=       10000 it=        8844
+ shot is  33  myid=           0 nt=       10000 it=        9045
+ shot is  33  myid=           0 nt=       10000 it=        9246
+ shot is  33  myid=           0 nt=       10000 it=        9447
+ shot is  33  myid=           0 nt=       10000 it=        9648
+ shot is  33  myid=           0 nt=       10000 it=        9849
+ shot is  33  myid=           0 nt=       10000 it=       10050
+ shot  33  extrapolation finished,and now is writing disk
+ shot  33  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  41  myid=           0 nt=       10000 it=         201
+ shot is  41  myid=           0 nt=       10000 it=         402
+ shot is  41  myid=           0 nt=       10000 it=         603
+ shot is  41  myid=           0 nt=       10000 it=         804
+ shot is  41  myid=           0 nt=       10000 it=        1005
+ shot is  41  myid=           0 nt=       10000 it=        1206
+ shot is  41  myid=           0 nt=       10000 it=        1407
+ shot is  41  myid=           0 nt=       10000 it=        1608
+ shot is  41  myid=           0 nt=       10000 it=        1809
+ shot is  41  myid=           0 nt=       10000 it=        2010
+ shot is  41  myid=           0 nt=       10000 it=        2211
+ shot  44  extrapolation finished,and now is writing disk
+ shot  44  is done
+ shot is  41  myid=           0 nt=       10000 it=        2412
+ shot is  41  myid=           0 nt=       10000 it=        2613
+ shot is  41  myid=           0 nt=       10000 it=        2814
+ shot is  41  myid=           0 nt=       10000 it=        3015
+ shot is  41  myid=           0 nt=       10000 it=        3216
+ shot is  41  myid=           0 nt=       10000 it=        3417
+ shot is  41  myid=           0 nt=       10000 it=        3618
+ shot is  41  myid=           0 nt=       10000 it=        3819
+ shot is  41  myid=           0 nt=       10000 it=        4020
+ shot is  41  myid=           0 nt=       10000 it=        4221
+ shot  43  extrapolation finished,and now is writing disk
+ shot  43  is done
+ shot is  41  myid=           0 nt=       10000 it=        4422
+ shot  46  extrapolation finished,and now is writing disk
+ shot  46  is done
+ shot is  41  myid=           0 nt=       10000 it=        4623
+ shot is  41  myid=           0 nt=       10000 it=        4824
+ shot is  41  myid=           0 nt=       10000 it=        5025
+ shot is  41  myid=           0 nt=       10000 it=        5226
+ shot is  41  myid=           0 nt=       10000 it=        5427
+ shot is  41  myid=           0 nt=       10000 it=        5628
+ shot  45  extrapolation finished,and now is writing disk
+ shot  45  is done
+ shot is  41  myid=           0 nt=       10000 it=        5829
+ shot is  41  myid=           0 nt=       10000 it=        6030
+ shot is  41  myid=           0 nt=       10000 it=        6231
+ shot  47  extrapolation finished,and now is writing disk
+ shot  47  is done
+ shot is  41  myid=           0 nt=       10000 it=        6432
+ shot is  41  myid=           0 nt=       10000 it=        6633
+ shot is  41  myid=           0 nt=       10000 it=        6834
+ shot  42  extrapolation finished,and now is writing disk
+ shot  42  is done
+ shot is  41  myid=           0 nt=       10000 it=        7035
+ shot is  41  myid=           0 nt=       10000 it=        7236
+ shot is  41  myid=           0 nt=       10000 it=        7437
+ shot  48  extrapolation finished,and now is writing disk
+ shot  48  is done
+ shot is  41  myid=           0 nt=       10000 it=        7638
+ shot is  41  myid=           0 nt=       10000 it=        7839
+ shot is  41  myid=           0 nt=       10000 it=        8040
+ shot is  41  myid=           0 nt=       10000 it=        8241
+ shot is  41  myid=           0 nt=       10000 it=        8442
+ shot is  41  myid=           0 nt=       10000 it=        8643
+ shot is  41  myid=           0 nt=       10000 it=        8844
+ shot is  41  myid=           0 nt=       10000 it=        9045
+ shot is  41  myid=           0 nt=       10000 it=        9246
+ shot is  41  myid=           0 nt=       10000 it=        9447
+ shot is  41  myid=           0 nt=       10000 it=        9648
+ shot is  41  myid=           0 nt=       10000 it=        9849
+ shot is  41  myid=           0 nt=       10000 it=       10050
+ shot  41  extrapolation finished,and now is writing disk
+ shot  41  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  49  myid=           0 nt=       10000 it=         201
+ shot is  49  myid=           0 nt=       10000 it=         402
+ shot is  49  myid=           0 nt=       10000 it=         603
+ shot is  49  myid=           0 nt=       10000 it=         804
+ shot is  49  myid=           0 nt=       10000 it=        1005
+ shot is  49  myid=           0 nt=       10000 it=        1206
+ shot is  49  myid=           0 nt=       10000 it=        1407
+ shot is  49  myid=           0 nt=       10000 it=        1608
+ shot is  49  myid=           0 nt=       10000 it=        1809
+ shot  52  extrapolation finished,and now is writing disk
+ shot  52  is done
+ shot is  49  myid=           0 nt=       10000 it=        2010
+ shot is  49  myid=           0 nt=       10000 it=        2211
+ shot is  49  myid=           0 nt=       10000 it=        2412
+ shot is  49  myid=           0 nt=       10000 it=        2613
+ shot is  49  myid=           0 nt=       10000 it=        2814
+ shot is  49  myid=           0 nt=       10000 it=        3015
+ shot is  49  myid=           0 nt=       10000 it=        3216
+ shot is  49  myid=           0 nt=       10000 it=        3417
+ shot is  49  myid=           0 nt=       10000 it=        3618
+ shot is  49  myid=           0 nt=       10000 it=        3819
+ shot  51  extrapolation finished,and now is writing disk
+ shot  51  is done
+ shot is  49  myid=           0 nt=       10000 it=        4020
+ shot is  49  myid=           0 nt=       10000 it=        4221
+ shot is  49  myid=           0 nt=       10000 it=        4422
+ shot is  49  myid=           0 nt=       10000 it=        4623
+ shot is  49  myid=           0 nt=       10000 it=        4824
+ shot  54  extrapolation finished,and now is writing disk
+ shot  54  is done
+ shot is  49  myid=           0 nt=       10000 it=        5025
+ shot is  49  myid=           0 nt=       10000 it=        5226
+ shot is  49  myid=           0 nt=       10000 it=        5427
+ shot is  49  myid=           0 nt=       10000 it=        5628
+ shot is  49  myid=           0 nt=       10000 it=        5829
+ shot is  49  myid=           0 nt=       10000 it=        6030
+ shot is  49  myid=           0 nt=       10000 it=        6231
+ shot  55  extrapolation finished,and now is writing disk
+ shot  55  is done
+ shot  53  extrapolation finished,and now is writing disk
+ shot  53  is done
+ shot is  49  myid=           0 nt=       10000 it=        6432
+ shot is  49  myid=           0 nt=       10000 it=        6633
+ shot is  49  myid=           0 nt=       10000 it=        6834
+ shot is  49  myid=           0 nt=       10000 it=        7035
+ shot is  49  myid=           0 nt=       10000 it=        7236
+ shot is  49  myid=           0 nt=       10000 it=        7437
+ shot is  49  myid=           0 nt=       10000 it=        7638
+ shot  56  extrapolation finished,and now is writing disk
+ shot  56  is done
+ shot is  49  myid=           0 nt=       10000 it=        7839
+ shot  50  extrapolation finished,and now is writing disk
+ shot  50  is done
+ shot is  49  myid=           0 nt=       10000 it=        8040
+ shot is  49  myid=           0 nt=       10000 it=        8241
+ shot is  49  myid=           0 nt=       10000 it=        8442
+ shot is  49  myid=           0 nt=       10000 it=        8643
+ shot is  49  myid=           0 nt=       10000 it=        8844
+ shot is  49  myid=           0 nt=       10000 it=        9045
+ shot is  49  myid=           0 nt=       10000 it=        9246
+ shot is  49  myid=           0 nt=       10000 it=        9447
+ shot is  49  myid=           0 nt=       10000 it=        9648
+ shot is  49  myid=           0 nt=       10000 it=        9849
+ shot is  49  myid=           0 nt=       10000 it=       10050
+ shot  49  extrapolation finished,and now is writing disk
+ shot  49  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot  60  extrapolation finished,and now is writing disk
+ shot  60  is done
+ shot is  57  myid=           0 nt=       10000 it=         201
+ shot is  57  myid=           0 nt=       10000 it=         402
+ shot is  57  myid=           0 nt=       10000 it=         603
+ shot is  57  myid=           0 nt=       10000 it=         804
+ shot is  57  myid=           0 nt=       10000 it=        1005
+ shot is  57  myid=           0 nt=       10000 it=        1206
+ shot is  57  myid=           0 nt=       10000 it=        1407
+ shot is  57  myid=           0 nt=       10000 it=        1608
+ shot is  57  myid=           0 nt=       10000 it=        1809
+ shot is  57  myid=           0 nt=       10000 it=        2010
+ shot is  57  myid=           0 nt=       10000 it=        2211
+ shot is  57  myid=           0 nt=       10000 it=        2412
+ shot is  57  myid=           0 nt=       10000 it=        2613
+ shot is  57  myid=           0 nt=       10000 it=        2814
+ shot  59  extrapolation finished,and now is writing disk
+ shot  59  is done
+ shot is  57  myid=           0 nt=       10000 it=        3015
+ shot is  57  myid=           0 nt=       10000 it=        3216
+ shot  62  extrapolation finished,and now is writing disk
+ shot  62  is done
+ shot is  57  myid=           0 nt=       10000 it=        3417
+ shot is  57  myid=           0 nt=       10000 it=        3618
+ shot is  57  myid=           0 nt=       10000 it=        3819
+ shot is  57  myid=           0 nt=       10000 it=        4020
+ shot is  57  myid=           0 nt=       10000 it=        4221
+ shot is  57  myid=           0 nt=       10000 it=        4422
+ shot is  57  myid=           0 nt=       10000 it=        4623
+ shot is  57  myid=           0 nt=       10000 it=        4824
+ shot is  57  myid=           0 nt=       10000 it=        5025
+ shot is  57  myid=           0 nt=       10000 it=        5226
+ shot  63  extrapolation finished,and now is writing disk
+ shot  63  is done
+ shot  61  extrapolation finished,and now is writing disk
+ shot  61  is done
+ shot is  57  myid=           0 nt=       10000 it=        5427
+ shot is  57  myid=           0 nt=       10000 it=        5628
+ shot is  57  myid=           0 nt=       10000 it=        5829
+ shot is  57  myid=           0 nt=       10000 it=        6030
+ shot is  57  myid=           0 nt=       10000 it=        6231
+ shot is  57  myid=           0 nt=       10000 it=        6432
+ shot is  57  myid=           0 nt=       10000 it=        6633
+ shot  64  extrapolation finished,and now is writing disk
+ shot  64  is done
+ shot is  57  myid=           0 nt=       10000 it=        6834
+ shot  58  extrapolation finished,and now is writing disk
+ shot  58  is done
+ shot is  57  myid=           0 nt=       10000 it=        7035
+ shot is  57  myid=           0 nt=       10000 it=        7236
+ shot is  57  myid=           0 nt=       10000 it=        7437
+ shot is  57  myid=           0 nt=       10000 it=        7638
+ shot is  57  myid=           0 nt=       10000 it=        7839
+ shot is  57  myid=           0 nt=       10000 it=        8040
+ shot is  57  myid=           0 nt=       10000 it=        8241
+ shot is  57  myid=           0 nt=       10000 it=        8442
+ shot is  57  myid=           0 nt=       10000 it=        8643
+ shot is  57  myid=           0 nt=       10000 it=        8844
+ shot is  57  myid=           0 nt=       10000 it=        9045
+ shot is  57  myid=           0 nt=       10000 it=        9246
+ shot is  57  myid=           0 nt=       10000 it=        9447
+ shot is  57  myid=           0 nt=       10000 it=        9648
+ shot  68  extrapolation finished,and now is writing disk
+ shot  68  is done
+ shot is  57  myid=           0 nt=       10000 it=        9849
+ shot is  57  myid=           0 nt=       10000 it=       10050
+ shot  57  extrapolation finished,and now is writing disk
+ shot  57  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  65  myid=           0 nt=       10000 it=         201
+ shot is  65  myid=           0 nt=       10000 it=         402
+ shot is  65  myid=           0 nt=       10000 it=         603
+ shot is  65  myid=           0 nt=       10000 it=         804
+ shot is  65  myid=           0 nt=       10000 it=        1005
+ shot is  65  myid=           0 nt=       10000 it=        1206
+ shot is  65  myid=           0 nt=       10000 it=        1407
+ shot is  65  myid=           0 nt=       10000 it=        1608
+ shot is  65  myid=           0 nt=       10000 it=        1809
+ shot is  65  myid=           0 nt=       10000 it=        2010
+ shot  67  extrapolation finished,and now is writing disk
+ shot  67  is done
+ shot is  65  myid=           0 nt=       10000 it=        2211
+ shot is  65  myid=           0 nt=       10000 it=        2412
+ shot is  65  myid=           0 nt=       10000 it=        2613
+ shot is  65  myid=           0 nt=       10000 it=        2814
+ shot is  65  myid=           0 nt=       10000 it=        3015
+ shot is  65  myid=           0 nt=       10000 it=        3216
+ shot is  65  myid=           0 nt=       10000 it=        3417
+ shot  70  extrapolation finished,and now is writing disk
+ shot  70  is done
+ shot is  65  myid=           0 nt=       10000 it=        3618
+ shot is  65  myid=           0 nt=       10000 it=        3819
+ shot is  65  myid=           0 nt=       10000 it=        4020
+ shot is  65  myid=           0 nt=       10000 it=        4221
+ shot is  65  myid=           0 nt=       10000 it=        4422
+ shot  71  extrapolation finished,and now is writing disk
+ shot  71  is done
+ shot  69  extrapolation finished,and now is writing disk
+ shot  69  is done
+ shot is  65  myid=           0 nt=       10000 it=        4623
+ shot is  65  myid=           0 nt=       10000 it=        4824
+ shot is  65  myid=           0 nt=       10000 it=        5025
+ shot is  65  myid=           0 nt=       10000 it=        5226
+ shot is  65  myid=           0 nt=       10000 it=        5427
+ shot is  65  myid=           0 nt=       10000 it=        5628
+ shot is  65  myid=           0 nt=       10000 it=        5829
+ shot is  65  myid=           0 nt=       10000 it=        6030
+ shot is  65  myid=           0 nt=       10000 it=        6231
+ shot  72  extrapolation finished,and now is writing disk
+ shot  72  is done
+ shot is  65  myid=           0 nt=       10000 it=        6432
+ shot is  65  myid=           0 nt=       10000 it=        6633
+ shot  66  extrapolation finished,and now is writing disk
+ shot  66  is done
+ shot is  65  myid=           0 nt=       10000 it=        6834
+ shot is  65  myid=           0 nt=       10000 it=        7035
+ shot is  65  myid=           0 nt=       10000 it=        7236
+ shot is  65  myid=           0 nt=       10000 it=        7437
+ shot is  65  myid=           0 nt=       10000 it=        7638
+ shot is  65  myid=           0 nt=       10000 it=        7839
+ shot is  65  myid=           0 nt=       10000 it=        8040
+ shot is  65  myid=           0 nt=       10000 it=        8241
+ shot is  65  myid=           0 nt=       10000 it=        8442
+ shot is  65  myid=           0 nt=       10000 it=        8643
+ shot is  65  myid=           0 nt=       10000 it=        8844
+ shot is  65  myid=           0 nt=       10000 it=        9045
+ shot is  65  myid=           0 nt=       10000 it=        9246
+ shot is  65  myid=           0 nt=       10000 it=        9447
+ shot is  65  myid=           0 nt=       10000 it=        9648
+ shot is  65  myid=           0 nt=       10000 it=        9849
+ shot is  65  myid=           0 nt=       10000 it=       10050
+ shot  65  extrapolation finished,and now is writing disk
+ shot  65  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  73  myid=           0 nt=       10000 it=         201
+ shot is  73  myid=           0 nt=       10000 it=         402
+ shot is  73  myid=           0 nt=       10000 it=         603
+ shot is  73  myid=           0 nt=       10000 it=         804
+ shot  76  extrapolation finished,and now is writing disk
+ shot  76  is done
+ shot is  73  myid=           0 nt=       10000 it=        1005
+ shot is  73  myid=           0 nt=       10000 it=        1206
+ shot is  73  myid=           0 nt=       10000 it=        1407
+ shot is  73  myid=           0 nt=       10000 it=        1608
+ shot is  73  myid=           0 nt=       10000 it=        1809
+ shot is  73  myid=           0 nt=       10000 it=        2010
+ shot is  73  myid=           0 nt=       10000 it=        2211
+ shot is  73  myid=           0 nt=       10000 it=        2412
+ shot is  73  myid=           0 nt=       10000 it=        2613
+ shot is  73  myid=           0 nt=       10000 it=        2814
+ shot is  73  myid=           0 nt=       10000 it=        3015
+ shot is  73  myid=           0 nt=       10000 it=        3216
+ shot is  73  myid=           0 nt=       10000 it=        3417
+ shot is  73  myid=           0 nt=       10000 it=        3618
+ shot is  73  myid=           0 nt=       10000 it=        3819
+ shot is  73  myid=           0 nt=       10000 it=        4020
+ shot is  73  myid=           0 nt=       10000 it=        4221
+ shot is  73  myid=           0 nt=       10000 it=        4422
+ shot  78  extrapolation finished,and now is writing disk
+ shot  78  is done
+ shot is  73  myid=           0 nt=       10000 it=        4623
+ shot is  73  myid=           0 nt=       10000 it=        4824
+ shot  79  extrapolation finished,and now is writing disk
+ shot  79  is done
+ shot is  73  myid=           0 nt=       10000 it=        5025
+ shot is  73  myid=           0 nt=       10000 it=        5226
+ shot  75  extrapolation finished,and now is writing disk
+ shot  75  is done
+ shot is  73  myid=           0 nt=       10000 it=        5427
+ shot  77  extrapolation finished,and now is writing disk
+ shot  77  is done
+ shot is  73  myid=           0 nt=       10000 it=        5628
+ shot is  73  myid=           0 nt=       10000 it=        5829
+ shot is  73  myid=           0 nt=       10000 it=        6030
+ shot is  73  myid=           0 nt=       10000 it=        6231
+ shot is  73  myid=           0 nt=       10000 it=        6432
+ shot is  73  myid=           0 nt=       10000 it=        6633
+ shot  74  extrapolation finished,and now is writing disk
+ shot  74  is done
+ shot is  73  myid=           0 nt=       10000 it=        6834
+ shot  80  extrapolation finished,and now is writing disk
+ shot  80  is done
+ shot is  73  myid=           0 nt=       10000 it=        7035
+ shot is  73  myid=           0 nt=       10000 it=        7236
+ shot is  73  myid=           0 nt=       10000 it=        7437
+ shot is  73  myid=           0 nt=       10000 it=        7638
+ shot is  73  myid=           0 nt=       10000 it=        7839
+ shot is  73  myid=           0 nt=       10000 it=        8040
+ shot is  73  myid=           0 nt=       10000 it=        8241
+ shot is  73  myid=           0 nt=       10000 it=        8442
+ shot is  73  myid=           0 nt=       10000 it=        8643
+ shot is  73  myid=           0 nt=       10000 it=        8844
+ shot is  73  myid=           0 nt=       10000 it=        9045
+ shot is  73  myid=           0 nt=       10000 it=        9246
+ shot is  73  myid=           0 nt=       10000 it=        9447
+ shot is  73  myid=           0 nt=       10000 it=        9648
+ shot  84  extrapolation finished,and now is writing disk
+ shot  84  is done
+ shot is  73  myid=           0 nt=       10000 it=        9849
+ shot is  73  myid=           0 nt=       10000 it=       10050
+ shot  73  extrapolation finished,and now is writing disk
+ shot  73  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  81  myid=           0 nt=       10000 it=         201
+ shot is  81  myid=           0 nt=       10000 it=         402
+ shot is  81  myid=           0 nt=       10000 it=         603
+ shot is  81  myid=           0 nt=       10000 it=         804
+ shot is  81  myid=           0 nt=       10000 it=        1005
+ shot is  81  myid=           0 nt=       10000 it=        1206
+ shot is  81  myid=           0 nt=       10000 it=        1407
+ shot is  81  myid=           0 nt=       10000 it=        1608
+ shot is  81  myid=           0 nt=       10000 it=        1809
+ shot is  81  myid=           0 nt=       10000 it=        2010
+ shot is  81  myid=           0 nt=       10000 it=        2211
+ shot is  81  myid=           0 nt=       10000 it=        2412
+ shot is  81  myid=           0 nt=       10000 it=        2613
+ shot  83  extrapolation finished,and now is writing disk
+ shot  83  is done
+ shot  86  extrapolation finished,and now is writing disk
+ shot  86  is done
+ shot is  81  myid=           0 nt=       10000 it=        2814
+ shot is  81  myid=           0 nt=       10000 it=        3015
+ shot is  81  myid=           0 nt=       10000 it=        3216
+ shot  85  extrapolation finished,and now is writing disk
+ shot  85  is done
+ shot is  81  myid=           0 nt=       10000 it=        3417
+ shot is  81  myid=           0 nt=       10000 it=        3618
+ shot is  81  myid=           0 nt=       10000 it=        3819
+ shot is  81  myid=           0 nt=       10000 it=        4020
+ shot is  81  myid=           0 nt=       10000 it=        4221
+ shot is  81  myid=           0 nt=       10000 it=        4422
+ shot is  81  myid=           0 nt=       10000 it=        4623
+ shot is  81  myid=           0 nt=       10000 it=        4824
+ shot is  81  myid=           0 nt=       10000 it=        5025
+ shot is  81  myid=           0 nt=       10000 it=        5226
+ shot  82  extrapolation finished,and now is writing disk
+ shot  87  extrapolation finished,and now is writing disk
+ shot  82  is done
+ shot  87  is done
+ shot is  81  myid=           0 nt=       10000 it=        5427
+ shot  88  extrapolation finished,and now is writing disk
+ shot  88  is done
+ shot is  81  myid=           0 nt=       10000 it=        5628
+ shot is  81  myid=           0 nt=       10000 it=        5829
+ shot is  81  myid=           0 nt=       10000 it=        6030
+ shot is  81  myid=           0 nt=       10000 it=        6231
+ shot is  81  myid=           0 nt=       10000 it=        6432
+ shot is  81  myid=           0 nt=       10000 it=        6633
+ shot is  81  myid=           0 nt=       10000 it=        6834
+ shot is  81  myid=           0 nt=       10000 it=        7035
+ shot is  81  myid=           0 nt=       10000 it=        7236
+ shot is  81  myid=           0 nt=       10000 it=        7437
+ shot is  81  myid=           0 nt=       10000 it=        7638
+ shot is  81  myid=           0 nt=       10000 it=        7839
+ shot is  81  myid=           0 nt=       10000 it=        8040
+ shot is  81  myid=           0 nt=       10000 it=        8241
+ shot is  81  myid=           0 nt=       10000 it=        8442
+ shot is  81  myid=           0 nt=       10000 it=        8643
+ shot is  81  myid=           0 nt=       10000 it=        8844
+ shot is  81  myid=           0 nt=       10000 it=        9045
+ shot is  81  myid=           0 nt=       10000 it=        9246
+ shot is  81  myid=           0 nt=       10000 it=        9447
+ shot is  81  myid=           0 nt=       10000 it=        9648
+ shot is  81  myid=           0 nt=       10000 it=        9849
+ shot  92  extrapolation finished,and now is writing disk
+ shot  92  is done
+ shot is  81  myid=           0 nt=       10000 it=       10050
+ shot  81  extrapolation finished,and now is writing disk
+ shot  81  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is  89  myid=           0 nt=       10000 it=         201
+ shot is  89  myid=           0 nt=       10000 it=         402
+ shot is  89  myid=           0 nt=       10000 it=         603
+ shot is  89  myid=           0 nt=       10000 it=         804
+ shot is  89  myid=           0 nt=       10000 it=        1005
+ shot is  89  myid=           0 nt=       10000 it=        1206
+ shot is  89  myid=           0 nt=       10000 it=        1407
+ shot is  89  myid=           0 nt=       10000 it=        1608
+ shot is  89  myid=           0 nt=       10000 it=        1809
+ shot is  89  myid=           0 nt=       10000 it=        2010
+ shot is  89  myid=           0 nt=       10000 it=        2211
+ shot is  89  myid=           0 nt=       10000 it=        2412
+ shot is  89  myid=           0 nt=       10000 it=        2613
+ shot  94  extrapolation finished,and now is writing disk
+ shot  94  is done
+ shot is  89  myid=           0 nt=       10000 it=        2814
+ shot is  89  myid=           0 nt=       10000 it=        3015
+ shot  93  extrapolation finished,and now is writing disk
+ shot  93  is done
+ shot is  89  myid=           0 nt=       10000 it=        3216
+ shot  91  extrapolation finished,and now is writing disk
+ shot  91  is done
+ shot is  89  myid=           0 nt=       10000 it=        3417
+ shot is  89  myid=           0 nt=       10000 it=        3618
+ shot is  89  myid=           0 nt=       10000 it=        3819
+ shot is  89  myid=           0 nt=       10000 it=        4020
+ shot is  89  myid=           0 nt=       10000 it=        4221
+ shot is  89  myid=           0 nt=       10000 it=        4422
+ shot is  89  myid=           0 nt=       10000 it=        4623
+ shot is  89  myid=           0 nt=       10000 it=        4824
+ shot is  89  myid=           0 nt=       10000 it=        5025
+ shot is  89  myid=           0 nt=       10000 it=        5226
+ shot  96  extrapolation finished,and now is writing disk
+ shot  96  is done
+ shot is  89  myid=           0 nt=       10000 it=        5427
+ shot  95  extrapolation finished,and now is writing disk
+ shot  95  is done
+ shot is  89  myid=           0 nt=       10000 it=        5628
+ shot is  89  myid=           0 nt=       10000 it=        5829
+ shot  90  extrapolation finished,and now is writing disk
+ shot  90  is done
+ shot is  89  myid=           0 nt=       10000 it=        6030
+ shot is  89  myid=           0 nt=       10000 it=        6231
+ shot is  89  myid=           0 nt=       10000 it=        6432
+ shot is  89  myid=           0 nt=       10000 it=        6633
+ shot is  89  myid=           0 nt=       10000 it=        6834
+ shot is  89  myid=           0 nt=       10000 it=        7035
+ shot is  89  myid=           0 nt=       10000 it=        7236
+ shot is  89  myid=           0 nt=       10000 it=        7437
+ shot is  89  myid=           0 nt=       10000 it=        7638
+ shot is  89  myid=           0 nt=       10000 it=        7839
+ shot is  89  myid=           0 nt=       10000 it=        8040
+ shot is  89  myid=           0 nt=       10000 it=        8241
+ shot is  89  myid=           0 nt=       10000 it=        8442
+ shot is  89  myid=           0 nt=       10000 it=        8643
+ shot is  89  myid=           0 nt=       10000 it=        8844
+ shot is  89  myid=           0 nt=       10000 it=        9045
+ shot is  89  myid=           0 nt=       10000 it=        9246
+ shot is  89  myid=           0 nt=       10000 it=        9447
+ shot is  89  myid=           0 nt=       10000 it=        9648
+ shot is  89  myid=           0 nt=       10000 it=        9849
+ shot is  89  myid=           0 nt=       10000 it=       10050
+ shot  89  extrapolation finished,and now is writing disk
+ shot  89  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot  100  extrapolation finished,and now is writing disk
+ shot  100  is done
+ shot is  97  myid=           0 nt=       10000 it=         201
+ shot is  97  myid=           0 nt=       10000 it=         402
+ shot is  97  myid=           0 nt=       10000 it=         603
+ shot  102  extrapolation finished,and now is writing disk
+ shot  102  is done
+ shot is  97  myid=           0 nt=       10000 it=         804
+ shot is  97  myid=           0 nt=       10000 it=        1005
+ shot is  97  myid=           0 nt=       10000 it=        1206
+ shot  101  extrapolation finished,and now is writing disk
+ shot  101  is done
+ shot is  97  myid=           0 nt=       10000 it=        1407
+ shot is  97  myid=           0 nt=       10000 it=        1608
+ shot is  97  myid=           0 nt=       10000 it=        1809
+ shot  99  extrapolation finished,and now is writing disk
+ shot  99  is done
+ shot is  97  myid=           0 nt=       10000 it=        2010
+ shot is  97  myid=           0 nt=       10000 it=        2211
+ shot is  97  myid=           0 nt=       10000 it=        2412
+ shot is  97  myid=           0 nt=       10000 it=        2613
+ shot is  97  myid=           0 nt=       10000 it=        2814
+ shot is  97  myid=           0 nt=       10000 it=        3015
+ shot is  97  myid=           0 nt=       10000 it=        3216
+ shot is  97  myid=           0 nt=       10000 it=        3417
+ shot is  97  myid=           0 nt=       10000 it=        3618
+ shot is  97  myid=           0 nt=       10000 it=        3819
+ shot is  97  myid=           0 nt=       10000 it=        4020
+ shot is  97  myid=           0 nt=       10000 it=        4221
+ shot  104  extrapolation finished,and now is writing disk
+ shot  104  is done
+ shot is  97  myid=           0 nt=       10000 it=        4422
+ shot  103  extrapolation finished,and now is writing disk
+ shot  103  is done
+ shot is  97  myid=           0 nt=       10000 it=        4623
+ shot is  97  myid=           0 nt=       10000 it=        4824
+ shot  98  extrapolation finished,and now is writing disk
+ shot  98  is done
+ shot is  97  myid=           0 nt=       10000 it=        5025
+ shot is  97  myid=           0 nt=       10000 it=        5226
+ shot is  97  myid=           0 nt=       10000 it=        5427
+ shot is  97  myid=           0 nt=       10000 it=        5628
+ shot is  97  myid=           0 nt=       10000 it=        5829
+ shot is  97  myid=           0 nt=       10000 it=        6030
+ shot is  97  myid=           0 nt=       10000 it=        6231
+ shot is  97  myid=           0 nt=       10000 it=        6432
+ shot is  97  myid=           0 nt=       10000 it=        6633
+ shot is  97  myid=           0 nt=       10000 it=        6834
+ shot is  97  myid=           0 nt=       10000 it=        7035
+ shot is  97  myid=           0 nt=       10000 it=        7236
+ shot is  97  myid=           0 nt=       10000 it=        7437
+ shot is  97  myid=           0 nt=       10000 it=        7638
+ shot is  97  myid=           0 nt=       10000 it=        7839
+ shot is  97  myid=           0 nt=       10000 it=        8040
+ shot is  97  myid=           0 nt=       10000 it=        8241
+ shot is  97  myid=           0 nt=       10000 it=        8442
+ shot is  97  myid=           0 nt=       10000 it=        8643
+ shot is  97  myid=           0 nt=       10000 it=        8844
+ shot is  97  myid=           0 nt=       10000 it=        9045
+ shot is  97  myid=           0 nt=       10000 it=        9246
+ shot  110  extrapolation finished,and now is writing disk
+ shot  110  is done
+ shot is  97  myid=           0 nt=       10000 it=        9447
+ shot  108  extrapolation finished,and now is writing disk
+ shot  108  is done
+ shot is  97  myid=           0 nt=       10000 it=        9648
+ shot is  97  myid=           0 nt=       10000 it=        9849
+ shot  109  extrapolation finished,and now is writing disk
+ shot  109  is done
+ shot is  97  myid=           0 nt=       10000 it=       10050
+ shot  97  extrapolation finished,and now is writing disk
+ shot  97  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 105  myid=           0 nt=       10000 it=         201
+ shot is 105  myid=           0 nt=       10000 it=         402
+ shot is 105  myid=           0 nt=       10000 it=         603
+ shot is 105  myid=           0 nt=       10000 it=         804
+ shot is 105  myid=           0 nt=       10000 it=        1005
+ shot is 105  myid=           0 nt=       10000 it=        1206
+ shot is 105  myid=           0 nt=       10000 it=        1407
+ shot  107  extrapolation finished,and now is writing disk
+ shot  107  is done
+ shot is 105  myid=           0 nt=       10000 it=        1608
+ shot is 105  myid=           0 nt=       10000 it=        1809
+ shot is 105  myid=           0 nt=       10000 it=        2010
+ shot is 105  myid=           0 nt=       10000 it=        2211
+ shot is 105  myid=           0 nt=       10000 it=        2412
+ shot is 105  myid=           0 nt=       10000 it=        2613
+ shot  112  extrapolation finished,and now is writing disk
+ shot  112  is done
+ shot is 105  myid=           0 nt=       10000 it=        2814
+ shot is 105  myid=           0 nt=       10000 it=        3015
+ shot is 105  myid=           0 nt=       10000 it=        3216
+ shot is 105  myid=           0 nt=       10000 it=        3417
+ shot is 105  myid=           0 nt=       10000 it=        3618
+ shot is 105  myid=           0 nt=       10000 it=        3819
+ shot is 105  myid=           0 nt=       10000 it=        4020
+ shot is 105  myid=           0 nt=       10000 it=        4221
+ shot is 105  myid=           0 nt=       10000 it=        4422
+ shot  106  extrapolation finished,and now is writing disk
+ shot  106  is done
+ shot  111  extrapolation finished,and now is writing disk
+ shot  111  is done
+ shot is 105  myid=           0 nt=       10000 it=        4623
+ shot is 105  myid=           0 nt=       10000 it=        4824
+ shot is 105  myid=           0 nt=       10000 it=        5025
+ shot is 105  myid=           0 nt=       10000 it=        5226
+ shot is 105  myid=           0 nt=       10000 it=        5427
+ shot is 105  myid=           0 nt=       10000 it=        5628
+ shot is 105  myid=           0 nt=       10000 it=        5829
+ shot is 105  myid=           0 nt=       10000 it=        6030
+ shot is 105  myid=           0 nt=       10000 it=        6231
+ shot is 105  myid=           0 nt=       10000 it=        6432
+ shot is 105  myid=           0 nt=       10000 it=        6633
+ shot is 105  myid=           0 nt=       10000 it=        6834
+ shot is 105  myid=           0 nt=       10000 it=        7035
+ shot is 105  myid=           0 nt=       10000 it=        7236
+ shot is 105  myid=           0 nt=       10000 it=        7437
+ shot is 105  myid=           0 nt=       10000 it=        7638
+ shot is 105  myid=           0 nt=       10000 it=        7839
+ shot is 105  myid=           0 nt=       10000 it=        8040
+ shot is 105  myid=           0 nt=       10000 it=        8241
+ shot is 105  myid=           0 nt=       10000 it=        8442
+ shot is 105  myid=           0 nt=       10000 it=        8643
+ shot  118  extrapolation finished,and now is writing disk
+ shot  118  is done
+ shot is 105  myid=           0 nt=       10000 it=        8844
+ shot is 105  myid=           0 nt=       10000 it=        9045
+ shot is 105  myid=           0 nt=       10000 it=        9246
+ shot is 105  myid=           0 nt=       10000 it=        9447
+ shot  116  extrapolation finished,and now is writing disk
+ shot  116  is done
+ shot is 105  myid=           0 nt=       10000 it=        9648
+ shot is 105  myid=           0 nt=       10000 it=        9849
+ shot is 105  myid=           0 nt=       10000 it=       10050
+ shot  105  extrapolation finished,and now is writing disk
+ shot  105  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 113  myid=           0 nt=       10000 it=         201
+ shot is 113  myid=           0 nt=       10000 it=         402
+ shot is 113  myid=           0 nt=       10000 it=         603
+ shot is 113  myid=           0 nt=       10000 it=         804
+ shot  117  extrapolation finished,and now is writing disk
+ shot  117  is done
+ shot is 113  myid=           0 nt=       10000 it=        1005
+ shot is 113  myid=           0 nt=       10000 it=        1206
+ shot is 113  myid=           0 nt=       10000 it=        1407
+ shot is 113  myid=           0 nt=       10000 it=        1608
+ shot  115  extrapolation finished,and now is writing disk
+ shot  115  is done
+ shot is 113  myid=           0 nt=       10000 it=        1809
+ shot  120  extrapolation finished,and now is writing disk
+ shot  120  is done
+ shot is 113  myid=           0 nt=       10000 it=        2010
+ shot is 113  myid=           0 nt=       10000 it=        2211
+ shot is 113  myid=           0 nt=       10000 it=        2412
+ shot is 113  myid=           0 nt=       10000 it=        2613
+ shot is 113  myid=           0 nt=       10000 it=        2814
+ shot is 113  myid=           0 nt=       10000 it=        3015
+ shot is 113  myid=           0 nt=       10000 it=        3216
+ shot is 113  myid=           0 nt=       10000 it=        3417
+ shot is 113  myid=           0 nt=       10000 it=        3618
+ shot is 113  myid=           0 nt=       10000 it=        3819
+ shot is 113  myid=           0 nt=       10000 it=        4020
+ shot is 113  myid=           0 nt=       10000 it=        4221
+ shot  119  extrapolation finished,and now is writing disk
+ shot  119  is done
+ shot is 113  myid=           0 nt=       10000 it=        4422
+ shot  114  extrapolation finished,and now is writing disk
+ shot  114  is done
+ shot is 113  myid=           0 nt=       10000 it=        4623
+ shot is 113  myid=           0 nt=       10000 it=        4824
+ shot is 113  myid=           0 nt=       10000 it=        5025
+ shot is 113  myid=           0 nt=       10000 it=        5226
+ shot is 113  myid=           0 nt=       10000 it=        5427
+ shot is 113  myid=           0 nt=       10000 it=        5628
+ shot is 113  myid=           0 nt=       10000 it=        5829
+ shot is 113  myid=           0 nt=       10000 it=        6030
+ shot is 113  myid=           0 nt=       10000 it=        6231
+ shot is 113  myid=           0 nt=       10000 it=        6432
+ shot is 113  myid=           0 nt=       10000 it=        6633
+ shot is 113  myid=           0 nt=       10000 it=        6834
+ shot is 113  myid=           0 nt=       10000 it=        7035
+ shot is 113  myid=           0 nt=       10000 it=        7236
+ shot is 113  myid=           0 nt=       10000 it=        7437
+ shot is 113  myid=           0 nt=       10000 it=        7638
+ shot is 113  myid=           0 nt=       10000 it=        7839
+ shot  124  extrapolation finished,and now is writing disk
+ shot  124  is done
+ shot is 113  myid=           0 nt=       10000 it=        8040
+ shot is 113  myid=           0 nt=       10000 it=        8241
+ shot is 113  myid=           0 nt=       10000 it=        8442
+ shot is 113  myid=           0 nt=       10000 it=        8643
+ shot is 113  myid=           0 nt=       10000 it=        8844
+ shot is 113  myid=           0 nt=       10000 it=        9045
+ shot is 113  myid=           0 nt=       10000 it=        9246
+ shot  125  extrapolation finished,and now is writing disk
+ shot  125  is done
+ shot is 113  myid=           0 nt=       10000 it=        9447
+ shot  126  extrapolation finished,and now is writing disk
+ shot  126  is done
+ shot is 113  myid=           0 nt=       10000 it=        9648
+ shot is 113  myid=           0 nt=       10000 it=        9849
+ shot is 113  myid=           0 nt=       10000 it=       10050
+ shot  113  extrapolation finished,and now is writing disk
+ shot  113  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 121  myid=           0 nt=       10000 it=         201
+ shot is 121  myid=           0 nt=       10000 it=         402
+ shot is 121  myid=           0 nt=       10000 it=         603
+ shot is 121  myid=           0 nt=       10000 it=         804
+ shot  123  extrapolation finished,and now is writing disk
+ shot  123  is done
+ shot  128  extrapolation finished,and now is writing disk
+ shot  128  is done
+ shot is 121  myid=           0 nt=       10000 it=        1005
+ shot is 121  myid=           0 nt=       10000 it=        1206
+ shot is 121  myid=           0 nt=       10000 it=        1407
+ shot is 121  myid=           0 nt=       10000 it=        1608
+ shot is 121  myid=           0 nt=       10000 it=        1809
+ shot is 121  myid=           0 nt=       10000 it=        2010
+ shot is 121  myid=           0 nt=       10000 it=        2211
+ shot is 121  myid=           0 nt=       10000 it=        2412
+ shot is 121  myid=           0 nt=       10000 it=        2613
+ shot is 121  myid=           0 nt=       10000 it=        2814
+ shot is 121  myid=           0 nt=       10000 it=        3015
+ shot  127  extrapolation finished,and now is writing disk
+ shot  127  is done
+ shot is 121  myid=           0 nt=       10000 it=        3216
+ shot is 121  myid=           0 nt=       10000 it=        3417
+ shot is 121  myid=           0 nt=       10000 it=        3618
+ shot is 121  myid=           0 nt=       10000 it=        3819
+ shot is 121  myid=           0 nt=       10000 it=        4020
+ shot is 121  myid=           0 nt=       10000 it=        4221
+ shot is 121  myid=           0 nt=       10000 it=        4422
+ shot  122  extrapolation finished,and now is writing disk
+ shot  122  is done
+ shot is 121  myid=           0 nt=       10000 it=        4623
+ shot is 121  myid=           0 nt=       10000 it=        4824
+ shot is 121  myid=           0 nt=       10000 it=        5025
+ shot is 121  myid=           0 nt=       10000 it=        5226
+ shot is 121  myid=           0 nt=       10000 it=        5427
+ shot is 121  myid=           0 nt=       10000 it=        5628
+ shot is 121  myid=           0 nt=       10000 it=        5829
+ shot is 121  myid=           0 nt=       10000 it=        6030
+ shot is 121  myid=           0 nt=       10000 it=        6231
+ shot is 121  myid=           0 nt=       10000 it=        6432
+ shot is 121  myid=           0 nt=       10000 it=        6633
+ shot is 121  myid=           0 nt=       10000 it=        6834
+ shot is 121  myid=           0 nt=       10000 it=        7035
+ shot is 121  myid=           0 nt=       10000 it=        7236
+ shot  132  extrapolation finished,and now is writing disk
+ shot  132  is done
+ shot is 121  myid=           0 nt=       10000 it=        7437
+ shot is 121  myid=           0 nt=       10000 it=        7638
+ shot is 121  myid=           0 nt=       10000 it=        7839
+ shot is 121  myid=           0 nt=       10000 it=        8040
+ shot  134  extrapolation finished,and now is writing disk
+ shot  134  is done
+ shot is 121  myid=           0 nt=       10000 it=        8241
+ shot is 121  myid=           0 nt=       10000 it=        8442
+ shot  133  extrapolation finished,and now is writing disk
+ shot  133  is done
+ shot is 121  myid=           0 nt=       10000 it=        8643
+ shot is 121  myid=           0 nt=       10000 it=        8844
+ shot is 121  myid=           0 nt=       10000 it=        9045
+ shot is 121  myid=           0 nt=       10000 it=        9246
+ shot is 121  myid=           0 nt=       10000 it=        9447
+ shot is 121  myid=           0 nt=       10000 it=        9648
+ shot is 121  myid=           0 nt=       10000 it=        9849
+ shot is 121  myid=           0 nt=       10000 it=       10050
+ shot  121  extrapolation finished,and now is writing disk
+ shot  121  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 129  myid=           0 nt=       10000 it=         201
+ shot is 129  myid=           0 nt=       10000 it=         402
+ shot  136  extrapolation finished,and now is writing disk
+ shot  136  is done
+ shot is 129  myid=           0 nt=       10000 it=         603
+ shot is 129  myid=           0 nt=       10000 it=         804
+ shot  131  extrapolation finished,and now is writing disk
+ shot  131  is done
+ shot is 129  myid=           0 nt=       10000 it=        1005
+ shot is 129  myid=           0 nt=       10000 it=        1206
+ shot is 129  myid=           0 nt=       10000 it=        1407
+ shot is 129  myid=           0 nt=       10000 it=        1608
+ shot is 129  myid=           0 nt=       10000 it=        1809
+ shot is 129  myid=           0 nt=       10000 it=        2010
+ shot is 129  myid=           0 nt=       10000 it=        2211
+ shot is 129  myid=           0 nt=       10000 it=        2412
+ shot is 129  myid=           0 nt=       10000 it=        2613
+ shot  135  extrapolation finished,and now is writing disk
+ shot  135  is done
+ shot is 129  myid=           0 nt=       10000 it=        2814
+ shot is 129  myid=           0 nt=       10000 it=        3015
+ shot is 129  myid=           0 nt=       10000 it=        3216
+ shot is 129  myid=           0 nt=       10000 it=        3417
+ shot  130  extrapolation finished,and now is writing disk
+ shot  130  is done
+ shot is 129  myid=           0 nt=       10000 it=        3618
+ shot is 129  myid=           0 nt=       10000 it=        3819
+ shot is 129  myid=           0 nt=       10000 it=        4020
+ shot is 129  myid=           0 nt=       10000 it=        4221
+ shot is 129  myid=           0 nt=       10000 it=        4422
+ shot is 129  myid=           0 nt=       10000 it=        4623
+ shot is 129  myid=           0 nt=       10000 it=        4824
+ shot is 129  myid=           0 nt=       10000 it=        5025
+ shot is 129  myid=           0 nt=       10000 it=        5226
+ shot is 129  myid=           0 nt=       10000 it=        5427
+ shot is 129  myid=           0 nt=       10000 it=        5628
+ shot is 129  myid=           0 nt=       10000 it=        5829
+ shot is 129  myid=           0 nt=       10000 it=        6030
+ shot is 129  myid=           0 nt=       10000 it=        6231
+ shot is 129  myid=           0 nt=       10000 it=        6432
+ shot is 129  myid=           0 nt=       10000 it=        6633
+ shot is 129  myid=           0 nt=       10000 it=        6834
+ shot  140  extrapolation finished,and now is writing disk
+ shot  140  is done
+ shot is 129  myid=           0 nt=       10000 it=        7035
+ shot is 129  myid=           0 nt=       10000 it=        7236
+ shot is 129  myid=           0 nt=       10000 it=        7437
+ shot is 129  myid=           0 nt=       10000 it=        7638
+ shot is 129  myid=           0 nt=       10000 it=        7839
+ shot  142  extrapolation finished,and now is writing disk
+ shot  142  is done
+ shot is 129  myid=           0 nt=       10000 it=        8040
+ shot is 129  myid=           0 nt=       10000 it=        8241
+ shot  141  extrapolation finished,and now is writing disk
+ shot  141  is done
+ shot is 129  myid=           0 nt=       10000 it=        8442
+ shot is 129  myid=           0 nt=       10000 it=        8643
+ shot is 129  myid=           0 nt=       10000 it=        8844
+ shot is 129  myid=           0 nt=       10000 it=        9045
+ shot is 129  myid=           0 nt=       10000 it=        9246
+ shot is 129  myid=           0 nt=       10000 it=        9447
+ shot is 129  myid=           0 nt=       10000 it=        9648
+ shot is 129  myid=           0 nt=       10000 it=        9849
+ shot  144  extrapolation finished,and now is writing disk
+ shot  144  is done
+ shot is 129  myid=           0 nt=       10000 it=       10050
+ shot  129  extrapolation finished,and now is writing disk
+ shot  129  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 137  myid=           0 nt=       10000 it=         201
+ shot is 137  myid=           0 nt=       10000 it=         402
+ shot is 137  myid=           0 nt=       10000 it=         603
+ shot is 137  myid=           0 nt=       10000 it=         804
+ shot is 137  myid=           0 nt=       10000 it=        1005
+ shot  139  extrapolation finished,and now is writing disk
+ shot  139  is done
+ shot is 137  myid=           0 nt=       10000 it=        1206
+ shot is 137  myid=           0 nt=       10000 it=        1407
+ shot is 137  myid=           0 nt=       10000 it=        1608
+ shot is 137  myid=           0 nt=       10000 it=        1809
+ shot is 137  myid=           0 nt=       10000 it=        2010
+ shot is 137  myid=           0 nt=       10000 it=        2211
+ shot is 137  myid=           0 nt=       10000 it=        2412
+ shot is 137  myid=           0 nt=       10000 it=        2613
+ shot is 137  myid=           0 nt=       10000 it=        2814
+ shot is 137  myid=           0 nt=       10000 it=        3015
+ shot is 137  myid=           0 nt=       10000 it=        3216
+ shot is 137  myid=           0 nt=       10000 it=        3417
+ shot is 137  myid=           0 nt=       10000 it=        3618
+ shot is 137  myid=           0 nt=       10000 it=        3819
+ shot  143  extrapolation finished,and now is writing disk
+ shot  143  is done
+ shot is 137  myid=           0 nt=       10000 it=        4020
+ shot is 137  myid=           0 nt=       10000 it=        4221
+ shot is 137  myid=           0 nt=       10000 it=        4422
+ shot is 137  myid=           0 nt=       10000 it=        4623
+ shot is 137  myid=           0 nt=       10000 it=        4824
+ shot is 137  myid=           0 nt=       10000 it=        5025
+ shot is 137  myid=           0 nt=       10000 it=        5226
+ shot  138  extrapolation finished,and now is writing disk
+ shot  138  is done
+ shot is 137  myid=           0 nt=       10000 it=        5427
+ shot is 137  myid=           0 nt=       10000 it=        5628
+ shot is 137  myid=           0 nt=       10000 it=        5829
+ shot is 137  myid=           0 nt=       10000 it=        6030
+ shot is 137  myid=           0 nt=       10000 it=        6231
+ shot is 137  myid=           0 nt=       10000 it=        6432
+ shot  148  extrapolation finished,and now is writing disk
+ shot  148  is done
+ shot is 137  myid=           0 nt=       10000 it=        6633
+ shot is 137  myid=           0 nt=       10000 it=        6834
+ shot is 137  myid=           0 nt=       10000 it=        7035
+ shot is 137  myid=           0 nt=       10000 it=        7236
+ shot is 137  myid=           0 nt=       10000 it=        7437
+ shot is 137  myid=           0 nt=       10000 it=        7638
+ shot is 137  myid=           0 nt=       10000 it=        7839
+ shot  150  extrapolation finished,and now is writing disk
+ shot  150  is done
+ shot is 137  myid=           0 nt=       10000 it=        8040
+ shot is 137  myid=           0 nt=       10000 it=        8241
+ shot is 137  myid=           0 nt=       10000 it=        8442
+ shot is 137  myid=           0 nt=       10000 it=        8643
+ shot is 137  myid=           0 nt=       10000 it=        8844
+ shot  149  extrapolation finished,and now is writing disk
+ shot  149  is done
+ shot is 137  myid=           0 nt=       10000 it=        9045
+ shot is 137  myid=           0 nt=       10000 it=        9246
+ shot is 137  myid=           0 nt=       10000 it=        9447
+ shot is 137  myid=           0 nt=       10000 it=        9648
+ shot  152  extrapolation finished,and now is writing disk
+ shot  152  is done
+ shot is 137  myid=           0 nt=       10000 it=        9849
+ shot is 137  myid=           0 nt=       10000 it=       10050
+ shot  137  extrapolation finished,and now is writing disk
+ shot  137  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 145  myid=           0 nt=       10000 it=         201
+ shot is 145  myid=           0 nt=       10000 it=         402
+ shot is 145  myid=           0 nt=       10000 it=         603
+ shot is 145  myid=           0 nt=       10000 it=         804
+ shot  147  extrapolation finished,and now is writing disk
+ shot  147  is done
+ shot is 145  myid=           0 nt=       10000 it=        1005
+ shot is 145  myid=           0 nt=       10000 it=        1206
+ shot is 145  myid=           0 nt=       10000 it=        1407
+ shot is 145  myid=           0 nt=       10000 it=        1608
+ shot is 145  myid=           0 nt=       10000 it=        1809
+ shot is 145  myid=           0 nt=       10000 it=        2010
+ shot is 145  myid=           0 nt=       10000 it=        2211
+ shot is 145  myid=           0 nt=       10000 it=        2412
+ shot is 145  myid=           0 nt=       10000 it=        2613
+ shot is 145  myid=           0 nt=       10000 it=        2814
+ shot is 145  myid=           0 nt=       10000 it=        3015
+ shot is 145  myid=           0 nt=       10000 it=        3216
+ shot is 145  myid=           0 nt=       10000 it=        3417
+ shot is 145  myid=           0 nt=       10000 it=        3618
+ shot  151  extrapolation finished,and now is writing disk
+ shot  151  is done
+ shot is 145  myid=           0 nt=       10000 it=        3819
+ shot is 145  myid=           0 nt=       10000 it=        4020
+ shot is 145  myid=           0 nt=       10000 it=        4221
+ shot is 145  myid=           0 nt=       10000 it=        4422
+ shot is 145  myid=           0 nt=       10000 it=        4623
+ shot is 145  myid=           0 nt=       10000 it=        4824
+ shot is 145  myid=           0 nt=       10000 it=        5025
+ shot is 145  myid=           0 nt=       10000 it=        5226
+ shot is 145  myid=           0 nt=       10000 it=        5427
+ shot is 145  myid=           0 nt=       10000 it=        5628
+ shot  146  extrapolation finished,and now is writing disk
+ shot  146  is done
+ shot is 145  myid=           0 nt=       10000 it=        5829
+ shot is 145  myid=           0 nt=       10000 it=        6030
+ shot  156  extrapolation finished,and now is writing disk
+ shot  156  is done
+ shot is 145  myid=           0 nt=       10000 it=        6231
+ shot is 145  myid=           0 nt=       10000 it=        6432
+ shot is 145  myid=           0 nt=       10000 it=        6633
+ shot is 145  myid=           0 nt=       10000 it=        6834
+ shot is 145  myid=           0 nt=       10000 it=        7035
+ shot  158  extrapolation finished,and now is writing disk
+ shot  158  is done
+ shot is 145  myid=           0 nt=       10000 it=        7236
+ shot is 145  myid=           0 nt=       10000 it=        7437
+ shot is 145  myid=           0 nt=       10000 it=        7638
+ shot is 145  myid=           0 nt=       10000 it=        7839
+ shot is 145  myid=           0 nt=       10000 it=        8040
+ shot is 145  myid=           0 nt=       10000 it=        8241
+ shot is 145  myid=           0 nt=       10000 it=        8442
+ shot is 145  myid=           0 nt=       10000 it=        8643
+ shot  157  extrapolation finished,and now is writing disk
+ shot  157  is done
+ shot is 145  myid=           0 nt=       10000 it=        8844
+ shot is 145  myid=           0 nt=       10000 it=        9045
+ shot is 145  myid=           0 nt=       10000 it=        9246
+ shot is 145  myid=           0 nt=       10000 it=        9447
+ shot is 145  myid=           0 nt=       10000 it=        9648
+ shot  160  extrapolation finished,and now is writing disk
+ shot  160  is done
+ shot is 145  myid=           0 nt=       10000 it=        9849
+ shot is 145  myid=           0 nt=       10000 it=       10050
+ shot  145  extrapolation finished,and now is writing disk
+ shot  145  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 153  myid=           0 nt=       10000 it=         201
+ shot is 153  myid=           0 nt=       10000 it=         402
+ shot is 153  myid=           0 nt=       10000 it=         603
+ shot  155  extrapolation finished,and now is writing disk
+ shot  155  is done
+ shot is 153  myid=           0 nt=       10000 it=         804
+ shot is 153  myid=           0 nt=       10000 it=        1005
+ shot is 153  myid=           0 nt=       10000 it=        1206
+ shot is 153  myid=           0 nt=       10000 it=        1407
+ shot is 153  myid=           0 nt=       10000 it=        1608
+ shot is 153  myid=           0 nt=       10000 it=        1809
+ shot is 153  myid=           0 nt=       10000 it=        2010
+ shot is 153  myid=           0 nt=       10000 it=        2211
+ shot is 153  myid=           0 nt=       10000 it=        2412
+ shot is 153  myid=           0 nt=       10000 it=        2613
+ shot is 153  myid=           0 nt=       10000 it=        2814
+ shot is 153  myid=           0 nt=       10000 it=        3015
+ shot is 153  myid=           0 nt=       10000 it=        3216
+ shot is 153  myid=           0 nt=       10000 it=        3417
+ shot is 153  myid=           0 nt=       10000 it=        3618
+ shot is 153  myid=           0 nt=       10000 it=        3819
+ shot  159  extrapolation finished,and now is writing disk
+ shot  159  is done
+ shot is 153  myid=           0 nt=       10000 it=        4020
+ shot is 153  myid=           0 nt=       10000 it=        4221
+ shot is 153  myid=           0 nt=       10000 it=        4422
+ shot is 153  myid=           0 nt=       10000 it=        4623
+ shot is 153  myid=           0 nt=       10000 it=        4824
+ shot is 153  myid=           0 nt=       10000 it=        5025
+ shot is 153  myid=           0 nt=       10000 it=        5226
+ shot is 153  myid=           0 nt=       10000 it=        5427
+ shot is 153  myid=           0 nt=       10000 it=        5628
+ shot  164  extrapolation finished,and now is writing disk
+ shot  164  is done
+ shot  154  extrapolation finished,and now is writing disk
+ shot  154  is done
+ shot is 153  myid=           0 nt=       10000 it=        5829
+ shot is 153  myid=           0 nt=       10000 it=        6030
+ shot is 153  myid=           0 nt=       10000 it=        6231
+ shot is 153  myid=           0 nt=       10000 it=        6432
+ shot is 153  myid=           0 nt=       10000 it=        6633
+ shot  166  extrapolation finished,and now is writing disk
+ shot  166  is done
+ shot is 153  myid=           0 nt=       10000 it=        6834
+ shot is 153  myid=           0 nt=       10000 it=        7035
+ shot is 153  myid=           0 nt=       10000 it=        7236
+ shot is 153  myid=           0 nt=       10000 it=        7437
+ shot is 153  myid=           0 nt=       10000 it=        7638
+ shot  165  extrapolation finished,and now is writing disk
+ shot  165  is done
+ shot is 153  myid=           0 nt=       10000 it=        7839
+ shot is 153  myid=           0 nt=       10000 it=        8040
+ shot is 153  myid=           0 nt=       10000 it=        8241
+ shot is 153  myid=           0 nt=       10000 it=        8442
+ shot is 153  myid=           0 nt=       10000 it=        8643
+ shot is 153  myid=           0 nt=       10000 it=        8844
+ shot  168  extrapolation finished,and now is writing disk
+ shot  168  is done
+ shot is 153  myid=           0 nt=       10000 it=        9045
+ shot is 153  myid=           0 nt=       10000 it=        9246
+ shot is 153  myid=           0 nt=       10000 it=        9447
+ shot is 153  myid=           0 nt=       10000 it=        9648
+ shot is 153  myid=           0 nt=       10000 it=        9849
+ shot  163  extrapolation finished,and now is writing disk
+ shot  163  is done
+ shot is 153  myid=           0 nt=       10000 it=       10050
+ shot  153  extrapolation finished,and now is writing disk
+ shot  153  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 161  myid=           0 nt=       10000 it=         201
+ shot is 161  myid=           0 nt=       10000 it=         402
+ shot is 161  myid=           0 nt=       10000 it=         603
+ shot is 161  myid=           0 nt=       10000 it=         804
+ shot is 161  myid=           0 nt=       10000 it=        1005
+ shot is 161  myid=           0 nt=       10000 it=        1206
+ shot is 161  myid=           0 nt=       10000 it=        1407
+ shot is 161  myid=           0 nt=       10000 it=        1608
+ shot is 161  myid=           0 nt=       10000 it=        1809
+ shot is 161  myid=           0 nt=       10000 it=        2010
+ shot is 161  myid=           0 nt=       10000 it=        2211
+ shot is 161  myid=           0 nt=       10000 it=        2412
+ shot is 161  myid=           0 nt=       10000 it=        2613
+ shot is 161  myid=           0 nt=       10000 it=        2814
+ shot is 161  myid=           0 nt=       10000 it=        3015
+ shot is 161  myid=           0 nt=       10000 it=        3216
+ shot  167  extrapolation finished,and now is writing disk
+ shot  167  is done
+ shot is 161  myid=           0 nt=       10000 it=        3417
+ shot is 161  myid=           0 nt=       10000 it=        3618
+ shot is 161  myid=           0 nt=       10000 it=        3819
+ shot is 161  myid=           0 nt=       10000 it=        4020
+ shot is 161  myid=           0 nt=       10000 it=        4221
+ shot is 161  myid=           0 nt=       10000 it=        4422
+ shot is 161  myid=           0 nt=       10000 it=        4623
+ shot  162  extrapolation finished,and now is writing disk
+ shot  162  is done
+ shot is 161  myid=           0 nt=       10000 it=        4824
+ shot is 161  myid=           0 nt=       10000 it=        5025
+ shot  172  extrapolation finished,and now is writing disk
+ shot  172  is done
+ shot is 161  myid=           0 nt=       10000 it=        5226
+ shot is 161  myid=           0 nt=       10000 it=        5427
+ shot is 161  myid=           0 nt=       10000 it=        5628
+ shot  174  extrapolation finished,and now is writing disk
+ shot  174  is done
+ shot is 161  myid=           0 nt=       10000 it=        5829
+ shot is 161  myid=           0 nt=       10000 it=        6030
+ shot is 161  myid=           0 nt=       10000 it=        6231
+ shot is 161  myid=           0 nt=       10000 it=        6432
+ shot is 161  myid=           0 nt=       10000 it=        6633
+ shot is 161  myid=           0 nt=       10000 it=        6834
+ shot  173  extrapolation finished,and now is writing disk
+ shot  173  is done
+ shot is 161  myid=           0 nt=       10000 it=        7035
+ shot is 161  myid=           0 nt=       10000 it=        7236
+ shot is 161  myid=           0 nt=       10000 it=        7437
+ shot is 161  myid=           0 nt=       10000 it=        7638
+ shot is 161  myid=           0 nt=       10000 it=        7839
+ shot is 161  myid=           0 nt=       10000 it=        8040
+ shot is 161  myid=           0 nt=       10000 it=        8241
+ shot is 161  myid=           0 nt=       10000 it=        8442
+ shot is 161  myid=           0 nt=       10000 it=        8643
+ shot  176  extrapolation finished,and now is writing disk
+ shot  176  is done
+ shot is 161  myid=           0 nt=       10000 it=        8844
+ shot is 161  myid=           0 nt=       10000 it=        9045
+ shot is 161  myid=           0 nt=       10000 it=        9246
+ shot is 161  myid=           0 nt=       10000 it=        9447
+ shot is 161  myid=           0 nt=       10000 it=        9648
+ shot  171  extrapolation finished,and now is writing disk
+ shot is 161  myid=           0 nt=       10000 it=        9849
+ shot  171  is done
+ shot is 161  myid=           0 nt=       10000 it=       10050
+ shot  161  extrapolation finished,and now is writing disk
+ shot  161  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 169  myid=           0 nt=       10000 it=         201
+ shot is 169  myid=           0 nt=       10000 it=         402
+ shot is 169  myid=           0 nt=       10000 it=         603
+ shot is 169  myid=           0 nt=       10000 it=         804
+ shot is 169  myid=           0 nt=       10000 it=        1005
+ shot is 169  myid=           0 nt=       10000 it=        1206
+ shot is 169  myid=           0 nt=       10000 it=        1407
+ shot is 169  myid=           0 nt=       10000 it=        1608
+ shot is 169  myid=           0 nt=       10000 it=        1809
+ shot is 169  myid=           0 nt=       10000 it=        2010
+ shot is 169  myid=           0 nt=       10000 it=        2211
+ shot is 169  myid=           0 nt=       10000 it=        2412
+ shot is 169  myid=           0 nt=       10000 it=        2613
+ shot is 169  myid=           0 nt=       10000 it=        2814
+ shot is 169  myid=           0 nt=       10000 it=        3015
+ shot is 169  myid=           0 nt=       10000 it=        3216
+ shot is 169  myid=           0 nt=       10000 it=        3417
+ shot is 169  myid=           0 nt=       10000 it=        3618
+ shot  175  extrapolation finished,and now is writing disk
+ shot  175  is done
+ shot is 169  myid=           0 nt=       10000 it=        3819
+ shot is 169  myid=           0 nt=       10000 it=        4020
+ shot is 169  myid=           0 nt=       10000 it=        4221
+ shot is 169  myid=           0 nt=       10000 it=        4422
+ shot is 169  myid=           0 nt=       10000 it=        4623
+ shot  170  extrapolation finished,and now is writing disk
+ shot  170  is done
+ shot is 169  myid=           0 nt=       10000 it=        4824
+ shot is 169  myid=           0 nt=       10000 it=        5025
+ shot  180  extrapolation finished,and now is writing disk
+ shot  180  is done
+ shot is 169  myid=           0 nt=       10000 it=        5226
+ shot is 169  myid=           0 nt=       10000 it=        5427
+ shot is 169  myid=           0 nt=       10000 it=        5628
+ shot is 169  myid=           0 nt=       10000 it=        5829
+ shot  182  extrapolation finished,and now is writing disk
+ shot  182  is done
+ shot is 169  myid=           0 nt=       10000 it=        6030
+ shot is 169  myid=           0 nt=       10000 it=        6231
+ shot is 169  myid=           0 nt=       10000 it=        6432
+ shot is 169  myid=           0 nt=       10000 it=        6633
+ shot is 169  myid=           0 nt=       10000 it=        6834
+ shot is 169  myid=           0 nt=       10000 it=        7035
+ shot  181  extrapolation finished,and now is writing disk
+ shot  181  is done
+ shot is 169  myid=           0 nt=       10000 it=        7236
+ shot is 169  myid=           0 nt=       10000 it=        7437
+ shot is 169  myid=           0 nt=       10000 it=        7638
+ shot is 169  myid=           0 nt=       10000 it=        7839
+ shot is 169  myid=           0 nt=       10000 it=        8040
+ shot is 169  myid=           0 nt=       10000 it=        8241
+ shot is 169  myid=           0 nt=       10000 it=        8442
+ shot is 169  myid=           0 nt=       10000 it=        8643
+ shot is 169  myid=           0 nt=       10000 it=        8844
+ shot  184  extrapolation finished,and now is writing disk
+ shot  184  is done
+ shot is 169  myid=           0 nt=       10000 it=        9045
+ shot is 169  myid=           0 nt=       10000 it=        9246
+ shot is 169  myid=           0 nt=       10000 it=        9447
+ shot is 169  myid=           0 nt=       10000 it=        9648
+ shot  179  extrapolation finished,and now is writing disk
+ shot  179  is done
+ shot is 169  myid=           0 nt=       10000 it=        9849
+ shot is 169  myid=           0 nt=       10000 it=       10050
+ shot  169  extrapolation finished,and now is writing disk
+ shot  169  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 177  myid=           0 nt=       10000 it=         201
+ shot is 177  myid=           0 nt=       10000 it=         402
+ shot is 177  myid=           0 nt=       10000 it=         603
+ shot is 177  myid=           0 nt=       10000 it=         804
+ shot is 177  myid=           0 nt=       10000 it=        1005
+ shot is 177  myid=           0 nt=       10000 it=        1206
+ shot is 177  myid=           0 nt=       10000 it=        1407
+ shot is 177  myid=           0 nt=       10000 it=        1608
+ shot is 177  myid=           0 nt=       10000 it=        1809
+ shot is 177  myid=           0 nt=       10000 it=        2010
+ shot is 177  myid=           0 nt=       10000 it=        2211
+ shot is 177  myid=           0 nt=       10000 it=        2412
+ shot is 177  myid=           0 nt=       10000 it=        2613
+ shot is 177  myid=           0 nt=       10000 it=        2814
+ shot is 177  myid=           0 nt=       10000 it=        3015
+ shot is 177  myid=           0 nt=       10000 it=        3216
+ shot is 177  myid=           0 nt=       10000 it=        3417
+ shot is 177  myid=           0 nt=       10000 it=        3618
+ shot is 177  myid=           0 nt=       10000 it=        3819
+ shot is 177  myid=           0 nt=       10000 it=        4020
+ shot  183  extrapolation finished,and now is writing disk
+ shot  183  is done
+ shot is 177  myid=           0 nt=       10000 it=        4221
+ shot is 177  myid=           0 nt=       10000 it=        4422
+ shot  178  extrapolation finished,and now is writing disk
+ shot  178  is done
+ shot is 177  myid=           0 nt=       10000 it=        4623
+ shot is 177  myid=           0 nt=       10000 it=        4824
+ shot is 177  myid=           0 nt=       10000 it=        5025
+ shot  188  extrapolation finished,and now is writing disk
+ shot  188  is done
+ shot is 177  myid=           0 nt=       10000 it=        5226
+ shot is 177  myid=           0 nt=       10000 it=        5427
+ shot is 177  myid=           0 nt=       10000 it=        5628
+ shot is 177  myid=           0 nt=       10000 it=        5829
+ shot is 177  myid=           0 nt=       10000 it=        6030
+ shot  190  extrapolation finished,and now is writing disk
+ shot  190  is done
+ shot is 177  myid=           0 nt=       10000 it=        6231
+ shot is 177  myid=           0 nt=       10000 it=        6432
+ shot is 177  myid=           0 nt=       10000 it=        6633
+ shot is 177  myid=           0 nt=       10000 it=        6834
+ shot is 177  myid=           0 nt=       10000 it=        7035
+ shot is 177  myid=           0 nt=       10000 it=        7236
+ shot is 177  myid=           0 nt=       10000 it=        7437
+ shot is 177  myid=           0 nt=       10000 it=        7638
+ shot  189  extrapolation finished,and now is writing disk
+ shot  189  is done
+ shot is 177  myid=           0 nt=       10000 it=        7839
+ shot is 177  myid=           0 nt=       10000 it=        8040
+ shot is 177  myid=           0 nt=       10000 it=        8241
+ shot is 177  myid=           0 nt=       10000 it=        8442
+ shot is 177  myid=           0 nt=       10000 it=        8643
+ shot  192  extrapolation finished,and now is writing disk
+ shot  192  is done
+ shot is 177  myid=           0 nt=       10000 it=        8844
+ shot is 177  myid=           0 nt=       10000 it=        9045
+ shot is 177  myid=           0 nt=       10000 it=        9246
+ shot is 177  myid=           0 nt=       10000 it=        9447
+ shot is 177  myid=           0 nt=       10000 it=        9648
+ shot  187  extrapolation finished,and now is writing disk
+ shot  187  is done
+ shot is 177  myid=           0 nt=       10000 it=        9849
+ shot is 177  myid=           0 nt=       10000 it=       10050
+ shot  177  extrapolation finished,and now is writing disk
+ shot  177  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 185  myid=           0 nt=       10000 it=         201
+ shot is 185  myid=           0 nt=       10000 it=         402
+ shot is 185  myid=           0 nt=       10000 it=         603
+ shot is 185  myid=           0 nt=       10000 it=         804
+ shot is 185  myid=           0 nt=       10000 it=        1005
+ shot is 185  myid=           0 nt=       10000 it=        1206
+ shot is 185  myid=           0 nt=       10000 it=        1407
+ shot is 185  myid=           0 nt=       10000 it=        1608
+ shot is 185  myid=           0 nt=       10000 it=        1809
+ shot is 185  myid=           0 nt=       10000 it=        2010
+ shot is 185  myid=           0 nt=       10000 it=        2211
+ shot is 185  myid=           0 nt=       10000 it=        2412
+ shot is 185  myid=           0 nt=       10000 it=        2613
+ shot is 185  myid=           0 nt=       10000 it=        2814
+ shot is 185  myid=           0 nt=       10000 it=        3015
+ shot is 185  myid=           0 nt=       10000 it=        3216
+ shot is 185  myid=           0 nt=       10000 it=        3417
+ shot is 185  myid=           0 nt=       10000 it=        3618
+ shot is 185  myid=           0 nt=       10000 it=        3819
+ shot  186  extrapolation finished,and now is writing disk
+ shot  186  is done
+ shot  191  extrapolation finished,and now is writing disk
+ shot  191  is done
+ shot is 185  myid=           0 nt=       10000 it=        4020
+ shot is 185  myid=           0 nt=       10000 it=        4221
+ shot is 185  myid=           0 nt=       10000 it=        4422
+ shot is 185  myid=           0 nt=       10000 it=        4623
+ shot is 185  myid=           0 nt=       10000 it=        4824
+ shot is 185  myid=           0 nt=       10000 it=        5025
+ shot is 185  myid=           0 nt=       10000 it=        5226
+ shot  196  extrapolation finished,and now is writing disk
+ shot  196  is done
+ shot is 185  myid=           0 nt=       10000 it=        5427
+ shot is 185  myid=           0 nt=       10000 it=        5628
+ shot is 185  myid=           0 nt=       10000 it=        5829
+ shot is 185  myid=           0 nt=       10000 it=        6030
+ shot is 185  myid=           0 nt=       10000 it=        6231
+ shot is 185  myid=           0 nt=       10000 it=        6432
+ shot  198  extrapolation finished,and now is writing disk
+ shot  198  is done
+ shot is 185  myid=           0 nt=       10000 it=        6633
+ shot is 185  myid=           0 nt=       10000 it=        6834
+ shot is 185  myid=           0 nt=       10000 it=        7035
+ shot is 185  myid=           0 nt=       10000 it=        7236
+ shot is 185  myid=           0 nt=       10000 it=        7437
+ shot  197  extrapolation finished,and now is writing disk
+ shot  197  is done
+ shot is 185  myid=           0 nt=       10000 it=        7638
+ shot is 185  myid=           0 nt=       10000 it=        7839
+ shot is 185  myid=           0 nt=       10000 it=        8040
+ shot is 185  myid=           0 nt=       10000 it=        8241
+ shot is 185  myid=           0 nt=       10000 it=        8442
+ shot  200  extrapolation finished,and now is writing disk
+ shot  200  is done
+ shot is 185  myid=           0 nt=       10000 it=        8643
+ shot is 185  myid=           0 nt=       10000 it=        8844
+ shot is 185  myid=           0 nt=       10000 it=        9045
+ shot is 185  myid=           0 nt=       10000 it=        9246
+ shot is 185  myid=           0 nt=       10000 it=        9447
+ shot is 185  myid=           0 nt=       10000 it=        9648
+ shot  195  extrapolation finished,and now is writing disk
+ shot is 185  myid=           0 nt=       10000 it=        9849
+ shot  195  is done
+ shot is 185  myid=           0 nt=       10000 it=       10050
+ shot  185  extrapolation finished,and now is writing disk
+ shot  185  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 193  myid=           0 nt=       10000 it=         201
+ shot is 193  myid=           0 nt=       10000 it=         402
+ shot is 193  myid=           0 nt=       10000 it=         603
+ shot is 193  myid=           0 nt=       10000 it=         804
+ shot is 193  myid=           0 nt=       10000 it=        1005
+ shot is 193  myid=           0 nt=       10000 it=        1206
+ shot is 193  myid=           0 nt=       10000 it=        1407
+ shot is 193  myid=           0 nt=       10000 it=        1608
+ shot is 193  myid=           0 nt=       10000 it=        1809
+ shot is 193  myid=           0 nt=       10000 it=        2010
+ shot is 193  myid=           0 nt=       10000 it=        2211
+ shot is 193  myid=           0 nt=       10000 it=        2412
+ shot is 193  myid=           0 nt=       10000 it=        2613
+ shot is 193  myid=           0 nt=       10000 it=        2814
+ shot is 193  myid=           0 nt=       10000 it=        3015
+ shot is 193  myid=           0 nt=       10000 it=        3216
+ shot is 193  myid=           0 nt=       10000 it=        3417
+ shot is 193  myid=           0 nt=       10000 it=        3618
+ shot is 193  myid=           0 nt=       10000 it=        3819
+ shot is 193  myid=           0 nt=       10000 it=        4020
+ shot is 193  myid=           0 nt=       10000 it=        4221
+ shot is 193  myid=           0 nt=       10000 it=        4422
+ shot  194  extrapolation finished,and now is writing disk
+ shot  194  is done
+ shot  199  extrapolation finished,and now is writing disk
+ shot  199  is done
+ shot is 193  myid=           0 nt=       10000 it=        4623
+ shot is 193  myid=           0 nt=       10000 it=        4824
+ shot is 193  myid=           0 nt=       10000 it=        5025
+ shot is 193  myid=           0 nt=       10000 it=        5226
+ shot is 193  myid=           0 nt=       10000 it=        5427
+ shot is 193  myid=           0 nt=       10000 it=        5628
+ shot is 193  myid=           0 nt=       10000 it=        5829
+ shot is 193  myid=           0 nt=       10000 it=        6030
+ shot  204  extrapolation finished,and now is writing disk
+ shot  204  is done
+ shot is 193  myid=           0 nt=       10000 it=        6231
+ shot is 193  myid=           0 nt=       10000 it=        6432
+ shot is 193  myid=           0 nt=       10000 it=        6633
+ shot  206  extrapolation finished,and now is writing disk
+ shot  206  is done
+ shot is 193  myid=           0 nt=       10000 it=        6834
+ shot is 193  myid=           0 nt=       10000 it=        7035
+ shot is 193  myid=           0 nt=       10000 it=        7236
+ shot is 193  myid=           0 nt=       10000 it=        7437
+ shot is 193  myid=           0 nt=       10000 it=        7638
+ shot is 193  myid=           0 nt=       10000 it=        7839
+ shot  205  extrapolation finished,and now is writing disk
+ shot  205  is done
+ shot is 193  myid=           0 nt=       10000 it=        8040
+ shot is 193  myid=           0 nt=       10000 it=        8241
+ shot is 193  myid=           0 nt=       10000 it=        8442
+ shot is 193  myid=           0 nt=       10000 it=        8643
+ shot  208  extrapolation finished,and now is writing disk
+ shot  208  is done
+ shot is 193  myid=           0 nt=       10000 it=        8844
+ shot is 193  myid=           0 nt=       10000 it=        9045
+ shot is 193  myid=           0 nt=       10000 it=        9246
+ shot is 193  myid=           0 nt=       10000 it=        9447
+ shot is 193  myid=           0 nt=       10000 it=        9648
+ shot is 193  myid=           0 nt=       10000 it=        9849
+ shot is 193  myid=           0 nt=       10000 it=       10050
+ shot  193  extrapolation finished,and now is writing disk
+ shot  193  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot  203  extrapolation finished,and now is writing disk
+ shot  203  is done
+ shot is 201  myid=           0 nt=       10000 it=         201
+ shot is 201  myid=           0 nt=       10000 it=         402
+ shot is 201  myid=           0 nt=       10000 it=         603
+ shot is 201  myid=           0 nt=       10000 it=         804
+ shot is 201  myid=           0 nt=       10000 it=        1005
+ shot is 201  myid=           0 nt=       10000 it=        1206
+ shot is 201  myid=           0 nt=       10000 it=        1407
+ shot is 201  myid=           0 nt=       10000 it=        1608
+ shot is 201  myid=           0 nt=       10000 it=        1809
+ shot is 201  myid=           0 nt=       10000 it=        2010
+ shot is 201  myid=           0 nt=       10000 it=        2211
+ shot is 201  myid=           0 nt=       10000 it=        2412
+ shot is 201  myid=           0 nt=       10000 it=        2613
+ shot is 201  myid=           0 nt=       10000 it=        2814
+ shot is 201  myid=           0 nt=       10000 it=        3015
+ shot is 201  myid=           0 nt=       10000 it=        3216
+ shot is 201  myid=           0 nt=       10000 it=        3417
+ shot is 201  myid=           0 nt=       10000 it=        3618
+ shot is 201  myid=           0 nt=       10000 it=        3819
+ shot is 201  myid=           0 nt=       10000 it=        4020
+ shot is 201  myid=           0 nt=       10000 it=        4221
+ shot is 201  myid=           0 nt=       10000 it=        4422
+ shot  202  extrapolation finished,and now is writing disk
+ shot  202  is done
+ shot  207  extrapolation finished,and now is writing disk
+ shot  207  is done
+ shot is 201  myid=           0 nt=       10000 it=        4623
+ shot is 201  myid=           0 nt=       10000 it=        4824
+ shot is 201  myid=           0 nt=       10000 it=        5025
+ shot is 201  myid=           0 nt=       10000 it=        5226
+ shot is 201  myid=           0 nt=       10000 it=        5427
+ shot is 201  myid=           0 nt=       10000 it=        5628
+ shot  214  extrapolation finished,and now is writing disk
+ shot  214  is done
+ shot is 201  myid=           0 nt=       10000 it=        5829
+ shot  212  extrapolation finished,and now is writing disk
+ shot  212  is done
+ shot is 201  myid=           0 nt=       10000 it=        6030
+ shot is 201  myid=           0 nt=       10000 it=        6231
+ shot is 201  myid=           0 nt=       10000 it=        6432
+ shot is 201  myid=           0 nt=       10000 it=        6633
+ shot is 201  myid=           0 nt=       10000 it=        6834
+ shot is 201  myid=           0 nt=       10000 it=        7035
+ shot is 201  myid=           0 nt=       10000 it=        7236
+ shot is 201  myid=           0 nt=       10000 it=        7437
+ shot is 201  myid=           0 nt=       10000 it=        7638
+ shot is 201  myid=           0 nt=       10000 it=        7839
+ shot is 201  myid=           0 nt=       10000 it=        8040
+ shot  213  extrapolation finished,and now is writing disk
+ shot  213  is done
+ shot is 201  myid=           0 nt=       10000 it=        8241
+ shot is 201  myid=           0 nt=       10000 it=        8442
+ shot is 201  myid=           0 nt=       10000 it=        8643
+ shot  216  extrapolation finished,and now is writing disk
+ shot  216  is done
+ shot is 201  myid=           0 nt=       10000 it=        8844
+ shot is 201  myid=           0 nt=       10000 it=        9045
+ shot is 201  myid=           0 nt=       10000 it=        9246
+ shot is 201  myid=           0 nt=       10000 it=        9447
+ shot is 201  myid=           0 nt=       10000 it=        9648
+ shot is 201  myid=           0 nt=       10000 it=        9849
+ shot is 201  myid=           0 nt=       10000 it=       10050
+ shot  201  extrapolation finished,and now is writing disk
+ shot  201  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 209  myid=           0 nt=       10000 it=         201
+ shot is 209  myid=           0 nt=       10000 it=         402
+ shot  211  extrapolation finished,and now is writing disk
+ shot  211  is done
+ shot is 209  myid=           0 nt=       10000 it=         603
+ shot is 209  myid=           0 nt=       10000 it=         804
+ shot is 209  myid=           0 nt=       10000 it=        1005
+ shot is 209  myid=           0 nt=       10000 it=        1206
+ shot is 209  myid=           0 nt=       10000 it=        1407
+ shot is 209  myid=           0 nt=       10000 it=        1608
+ shot is 209  myid=           0 nt=       10000 it=        1809
+ shot is 209  myid=           0 nt=       10000 it=        2010
+ shot is 209  myid=           0 nt=       10000 it=        2211
+ shot is 209  myid=           0 nt=       10000 it=        2412
+ shot is 209  myid=           0 nt=       10000 it=        2613
+ shot is 209  myid=           0 nt=       10000 it=        2814
+ shot is 209  myid=           0 nt=       10000 it=        3015
+ shot is 209  myid=           0 nt=       10000 it=        3216
+ shot is 209  myid=           0 nt=       10000 it=        3417
+ shot is 209  myid=           0 nt=       10000 it=        3618
+ shot is 209  myid=           0 nt=       10000 it=        3819
+ shot is 209  myid=           0 nt=       10000 it=        4020
+ shot is 209  myid=           0 nt=       10000 it=        4221
+ shot is 209  myid=           0 nt=       10000 it=        4422
+ shot  215  extrapolation finished,and now is writing disk
+ shot  215  is done
+ shot is 209  myid=           0 nt=       10000 it=        4623
+ shot  210  extrapolation finished,and now is writing disk
+ shot  210  is done
+ shot is 209  myid=           0 nt=       10000 it=        4824
+ shot is 209  myid=           0 nt=       10000 it=        5025
+ shot is 209  myid=           0 nt=       10000 it=        5226
+ shot is 209  myid=           0 nt=       10000 it=        5427
+ shot is 209  myid=           0 nt=       10000 it=        5628
+ shot  222  extrapolation finished,and now is writing disk
+ shot  222  is done
+ shot is 209  myid=           0 nt=       10000 it=        5829
+ shot is 209  myid=           0 nt=       10000 it=        6030
+ shot is 209  myid=           0 nt=       10000 it=        6231
+ shot  220  extrapolation finished,and now is writing disk
+ shot  220  is done
+ shot is 209  myid=           0 nt=       10000 it=        6432
+ shot is 209  myid=           0 nt=       10000 it=        6633
+ shot is 209  myid=           0 nt=       10000 it=        6834
+ shot is 209  myid=           0 nt=       10000 it=        7035
+ shot is 209  myid=           0 nt=       10000 it=        7236
+ shot is 209  myid=           0 nt=       10000 it=        7437
+ shot is 209  myid=           0 nt=       10000 it=        7638
+ shot is 209  myid=           0 nt=       10000 it=        7839
+ shot is 209  myid=           0 nt=       10000 it=        8040
+ shot is 209  myid=           0 nt=       10000 it=        8241
+ shot  221  extrapolation finished,and now is writing disk
+ shot  221  is done
+ shot is 209  myid=           0 nt=       10000 it=        8442
+ shot is 209  myid=           0 nt=       10000 it=        8643
+ shot is 209  myid=           0 nt=       10000 it=        8844
+ shot is 209  myid=           0 nt=       10000 it=        9045
+ shot is 209  myid=           0 nt=       10000 it=        9246
+ shot  224  extrapolation finished,and now is writing disk
+ shot  224  is done
+ shot is 209  myid=           0 nt=       10000 it=        9447
+ shot is 209  myid=           0 nt=       10000 it=        9648
+ shot is 209  myid=           0 nt=       10000 it=        9849
+ shot is 209  myid=           0 nt=       10000 it=       10050
+ shot  209  extrapolation finished,and now is writing disk
+ shot  209  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 217  myid=           0 nt=       10000 it=         201
+ shot is 217  myid=           0 nt=       10000 it=         402
+ shot  219  extrapolation finished,and now is writing disk
+ shot  219  is done
+ shot is 217  myid=           0 nt=       10000 it=         603
+ shot is 217  myid=           0 nt=       10000 it=         804
+ shot is 217  myid=           0 nt=       10000 it=        1005
+ shot is 217  myid=           0 nt=       10000 it=        1206
+ shot is 217  myid=           0 nt=       10000 it=        1407
+ shot is 217  myid=           0 nt=       10000 it=        1608
+ shot is 217  myid=           0 nt=       10000 it=        1809
+ shot is 217  myid=           0 nt=       10000 it=        2010
+ shot is 217  myid=           0 nt=       10000 it=        2211
+ shot is 217  myid=           0 nt=       10000 it=        2412
+ shot is 217  myid=           0 nt=       10000 it=        2613
+ shot is 217  myid=           0 nt=       10000 it=        2814
+ shot is 217  myid=           0 nt=       10000 it=        3015
+ shot is 217  myid=           0 nt=       10000 it=        3216
+ shot is 217  myid=           0 nt=       10000 it=        3417
+ shot is 217  myid=           0 nt=       10000 it=        3618
+ shot is 217  myid=           0 nt=       10000 it=        3819
+ shot is 217  myid=           0 nt=       10000 it=        4020
+ shot is 217  myid=           0 nt=       10000 it=        4221
+ shot is 217  myid=           0 nt=       10000 it=        4422
+ shot  218  extrapolation finished,and now is writing disk
+ shot  218  is done
+ shot is 217  myid=           0 nt=       10000 it=        4623
+ shot  223  extrapolation finished,and now is writing disk
+ shot  223  is done
+ shot is 217  myid=           0 nt=       10000 it=        4824
+ shot is 217  myid=           0 nt=       10000 it=        5025
+ shot is 217  myid=           0 nt=       10000 it=        5226
+ shot is 217  myid=           0 nt=       10000 it=        5427
+ shot  230  extrapolation finished,and now is writing disk
+ shot  230  is done
+ shot is 217  myid=           0 nt=       10000 it=        5628
+ shot is 217  myid=           0 nt=       10000 it=        5829
+ shot is 217  myid=           0 nt=       10000 it=        6030
+ shot is 217  myid=           0 nt=       10000 it=        6231
+ shot is 217  myid=           0 nt=       10000 it=        6432
+ shot is 217  myid=           0 nt=       10000 it=        6633
+ shot is 217  myid=           0 nt=       10000 it=        6834
+ shot  228  extrapolation finished,and now is writing disk
+ shot  228  is done
+ shot is 217  myid=           0 nt=       10000 it=        7035
+ shot is 217  myid=           0 nt=       10000 it=        7236
+ shot is 217  myid=           0 nt=       10000 it=        7437
+ shot is 217  myid=           0 nt=       10000 it=        7638
+ shot is 217  myid=           0 nt=       10000 it=        7839
+ shot  229  extrapolation finished,and now is writing disk
+ shot  229  is done
+ shot is 217  myid=           0 nt=       10000 it=        8040
+ shot is 217  myid=           0 nt=       10000 it=        8241
+ shot is 217  myid=           0 nt=       10000 it=        8442
+ shot is 217  myid=           0 nt=       10000 it=        8643
+ shot is 217  myid=           0 nt=       10000 it=        8844
+ shot is 217  myid=           0 nt=       10000 it=        9045
+ shot  232  extrapolation finished,and now is writing disk
+ shot  232  is done
+ shot is 217  myid=           0 nt=       10000 it=        9246
+ shot is 217  myid=           0 nt=       10000 it=        9447
+ shot is 217  myid=           0 nt=       10000 it=        9648
+ shot is 217  myid=           0 nt=       10000 it=        9849
+ shot is 217  myid=           0 nt=       10000 it=       10050
+ shot  217  extrapolation finished,and now is writing disk
+ shot  217  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 225  myid=           0 nt=       10000 it=         201
+ shot is 225  myid=           0 nt=       10000 it=         402
+ shot is 225  myid=           0 nt=       10000 it=         603
+ shot  227  extrapolation finished,and now is writing disk
+ shot  227  is done
+ shot is 225  myid=           0 nt=       10000 it=         804
+ shot is 225  myid=           0 nt=       10000 it=        1005
+ shot is 225  myid=           0 nt=       10000 it=        1206
+ shot is 225  myid=           0 nt=       10000 it=        1407
+ shot is 225  myid=           0 nt=       10000 it=        1608
+ shot is 225  myid=           0 nt=       10000 it=        1809
+ shot is 225  myid=           0 nt=       10000 it=        2010
+ shot is 225  myid=           0 nt=       10000 it=        2211
+ shot is 225  myid=           0 nt=       10000 it=        2412
+ shot is 225  myid=           0 nt=       10000 it=        2613
+ shot is 225  myid=           0 nt=       10000 it=        2814
+ shot is 225  myid=           0 nt=       10000 it=        3015
+ shot is 225  myid=           0 nt=       10000 it=        3216
+ shot is 225  myid=           0 nt=       10000 it=        3417
+ shot is 225  myid=           0 nt=       10000 it=        3618
+ shot is 225  myid=           0 nt=       10000 it=        3819
+ shot is 225  myid=           0 nt=       10000 it=        4020
+ shot is 225  myid=           0 nt=       10000 it=        4221
+ shot  231  extrapolation finished,and now is writing disk
+ shot  231  is done
+ shot is 225  myid=           0 nt=       10000 it=        4422
+ shot  226  extrapolation finished,and now is writing disk
+ shot  226  is done
+ shot is 225  myid=           0 nt=       10000 it=        4623
+ shot is 225  myid=           0 nt=       10000 it=        4824
+ shot  238  extrapolation finished,and now is writing disk
+ shot  238  is done
+ shot is 225  myid=           0 nt=       10000 it=        5025
+ shot is 225  myid=           0 nt=       10000 it=        5226
+ shot is 225  myid=           0 nt=       10000 it=        5427
+ shot is 225  myid=           0 nt=       10000 it=        5628
+ shot is 225  myid=           0 nt=       10000 it=        5829
+ shot is 225  myid=           0 nt=       10000 it=        6030
+ shot is 225  myid=           0 nt=       10000 it=        6231
+ shot  236  extrapolation finished,and now is writing disk
+ shot  236  is done
+ shot is 225  myid=           0 nt=       10000 it=        6432
+ shot is 225  myid=           0 nt=       10000 it=        6633
+ shot is 225  myid=           0 nt=       10000 it=        6834
+ shot is 225  myid=           0 nt=       10000 it=        7035
+ shot is 225  myid=           0 nt=       10000 it=        7236
+ shot is 225  myid=           0 nt=       10000 it=        7437
+ shot  237  extrapolation finished,and now is writing disk
+ shot  237  is done
+ shot is 225  myid=           0 nt=       10000 it=        7638
+ shot is 225  myid=           0 nt=       10000 it=        7839
+ shot is 225  myid=           0 nt=       10000 it=        8040
+ shot is 225  myid=           0 nt=       10000 it=        8241
+ shot is 225  myid=           0 nt=       10000 it=        8442
+ shot is 225  myid=           0 nt=       10000 it=        8643
+ shot is 225  myid=           0 nt=       10000 it=        8844
+ shot  240  extrapolation finished,and now is writing disk
+ shot  240  is done
+ shot is 225  myid=           0 nt=       10000 it=        9045
+ shot is 225  myid=           0 nt=       10000 it=        9246
+ shot is 225  myid=           0 nt=       10000 it=        9447
+ shot is 225  myid=           0 nt=       10000 it=        9648
+ shot is 225  myid=           0 nt=       10000 it=        9849
+ shot is 225  myid=           0 nt=       10000 it=       10050
+ shot  225  extrapolation finished,and now is writing disk
+ shot  225  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 233  myid=           0 nt=       10000 it=         201
+ shot is 233  myid=           0 nt=       10000 it=         402
+ shot  235  extrapolation finished,and now is writing disk
+ shot  235  is done
+ shot is 233  myid=           0 nt=       10000 it=         603
+ shot is 233  myid=           0 nt=       10000 it=         804
+ shot is 233  myid=           0 nt=       10000 it=        1005
+ shot is 233  myid=           0 nt=       10000 it=        1206
+ shot is 233  myid=           0 nt=       10000 it=        1407
+ shot is 233  myid=           0 nt=       10000 it=        1608
+ shot is 233  myid=           0 nt=       10000 it=        1809
+ shot is 233  myid=           0 nt=       10000 it=        2010
+ shot is 233  myid=           0 nt=       10000 it=        2211
+ shot is 233  myid=           0 nt=       10000 it=        2412
+ shot is 233  myid=           0 nt=       10000 it=        2613
+ shot is 233  myid=           0 nt=       10000 it=        2814
+ shot is 233  myid=           0 nt=       10000 it=        3015
+ shot is 233  myid=           0 nt=       10000 it=        3216
+ shot is 233  myid=           0 nt=       10000 it=        3417
+ shot is 233  myid=           0 nt=       10000 it=        3618
+ shot  234  extrapolation finished,and now is writing disk
+ shot  234  is done
+ shot is 233  myid=           0 nt=       10000 it=        3819
+ shot  239  extrapolation finished,and now is writing disk
+ shot  239  is done
+ shot is 233  myid=           0 nt=       10000 it=        4020
+ shot is 233  myid=           0 nt=       10000 it=        4221
+ shot  246  extrapolation finished,and now is writing disk
+ shot  246  is done
+ shot is 233  myid=           0 nt=       10000 it=        4422
+ shot is 233  myid=           0 nt=       10000 it=        4623
+ shot is 233  myid=           0 nt=       10000 it=        4824
+ shot is 233  myid=           0 nt=       10000 it=        5025
+ shot is 233  myid=           0 nt=       10000 it=        5226
+ shot is 233  myid=           0 nt=       10000 it=        5427
+ shot is 233  myid=           0 nt=       10000 it=        5628
+ shot  244  extrapolation finished,and now is writing disk
+ shot  244  is done
+ shot is 233  myid=           0 nt=       10000 it=        5829
+ shot is 233  myid=           0 nt=       10000 it=        6030
+ shot is 233  myid=           0 nt=       10000 it=        6231
+ shot is 233  myid=           0 nt=       10000 it=        6432
+ shot  245  extrapolation finished,and now is writing disk
+ shot  245  is done
+ shot is 233  myid=           0 nt=       10000 it=        6633
+ shot is 233  myid=           0 nt=       10000 it=        6834
+ shot is 233  myid=           0 nt=       10000 it=        7035
+ shot is 233  myid=           0 nt=       10000 it=        7236
+ shot is 233  myid=           0 nt=       10000 it=        7437
+ shot is 233  myid=           0 nt=       10000 it=        7638
+ shot is 233  myid=           0 nt=       10000 it=        7839
+ shot is 233  myid=           0 nt=       10000 it=        8040
+ shot is 233  myid=           0 nt=       10000 it=        8241
+ shot is 233  myid=           0 nt=       10000 it=        8442
+ shot is 233  myid=           0 nt=       10000 it=        8643
+ shot is 233  myid=           0 nt=       10000 it=        8844
+ shot is 233  myid=           0 nt=       10000 it=        9045
+ shot is 233  myid=           0 nt=       10000 it=        9246
+ shot  248  extrapolation finished,and now is writing disk
+ shot  248  is done
+ shot is 233  myid=           0 nt=       10000 it=        9447
+ shot is 233  myid=           0 nt=       10000 it=        9648
+ shot is 233  myid=           0 nt=       10000 it=        9849
+ shot is 233  myid=           0 nt=       10000 it=       10050
+ shot  233  extrapolation finished,and now is writing disk
+ shot  233  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 241  myid=           0 nt=       10000 it=         201
+ shot  243  extrapolation finished,and now is writing disk
+ shot  243  is done
+ shot is 241  myid=           0 nt=       10000 it=         402
+ shot is 241  myid=           0 nt=       10000 it=         603
+ shot is 241  myid=           0 nt=       10000 it=         804
+ shot is 241  myid=           0 nt=       10000 it=        1005
+ shot is 241  myid=           0 nt=       10000 it=        1206
+ shot is 241  myid=           0 nt=       10000 it=        1407
+ shot is 241  myid=           0 nt=       10000 it=        1608
+ shot is 241  myid=           0 nt=       10000 it=        1809
+ shot is 241  myid=           0 nt=       10000 it=        2010
+ shot is 241  myid=           0 nt=       10000 it=        2211
+ shot is 241  myid=           0 nt=       10000 it=        2412
+ shot is 241  myid=           0 nt=       10000 it=        2613
+ shot is 241  myid=           0 nt=       10000 it=        2814
+ shot is 241  myid=           0 nt=       10000 it=        3015
+ shot is 241  myid=           0 nt=       10000 it=        3216
+ shot is 241  myid=           0 nt=       10000 it=        3417
+ shot is 241  myid=           0 nt=       10000 it=        3618
+ shot  242  extrapolation finished,and now is writing disk
+ shot  242  is done
+ shot is 241  myid=           0 nt=       10000 it=        3819
+ shot  254  extrapolation finished,and now is writing disk
+ shot  254  is done
+ shot  247  extrapolation finished,and now is writing disk
+ shot  247  is done
+ shot is 241  myid=           0 nt=       10000 it=        4020
+ shot is 241  myid=           0 nt=       10000 it=        4221
+ shot is 241  myid=           0 nt=       10000 it=        4422
+ shot is 241  myid=           0 nt=       10000 it=        4623
+ shot is 241  myid=           0 nt=       10000 it=        4824
+ shot is 241  myid=           0 nt=       10000 it=        5025
+ shot is 241  myid=           0 nt=       10000 it=        5226
+ shot is 241  myid=           0 nt=       10000 it=        5427
+ shot is 241  myid=           0 nt=       10000 it=        5628
+ shot is 241  myid=           0 nt=       10000 it=        5829
+ shot  252  extrapolation finished,and now is writing disk
+ shot  252  is done
+ shot is 241  myid=           0 nt=       10000 it=        6030
+ shot is 241  myid=           0 nt=       10000 it=        6231
+ shot  253  extrapolation finished,and now is writing disk
+ shot  253  is done
+ shot is 241  myid=           0 nt=       10000 it=        6432
+ shot is 241  myid=           0 nt=       10000 it=        6633
+ shot is 241  myid=           0 nt=       10000 it=        6834
+ shot is 241  myid=           0 nt=       10000 it=        7035
+ shot is 241  myid=           0 nt=       10000 it=        7236
+ shot is 241  myid=           0 nt=       10000 it=        7437
+ shot is 241  myid=           0 nt=       10000 it=        7638
+ shot is 241  myid=           0 nt=       10000 it=        7839
+ shot is 241  myid=           0 nt=       10000 it=        8040
+ shot is 241  myid=           0 nt=       10000 it=        8241
+ shot is 241  myid=           0 nt=       10000 it=        8442
+ shot is 241  myid=           0 nt=       10000 it=        8643
+ shot is 241  myid=           0 nt=       10000 it=        8844
+ shot is 241  myid=           0 nt=       10000 it=        9045
+ shot is 241  myid=           0 nt=       10000 it=        9246
+ shot  256  extrapolation finished,and now is writing disk
+ shot  256  is done
+ shot is 241  myid=           0 nt=       10000 it=        9447
+ shot is 241  myid=           0 nt=       10000 it=        9648
+ shot is 241  myid=           0 nt=       10000 it=        9849
+ shot is 241  myid=           0 nt=       10000 it=       10050
+ shot  241  extrapolation finished,and now is writing disk
+ shot  241  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 249  myid=           0 nt=       10000 it=         201
+ shot is 249  myid=           0 nt=       10000 it=         402
+ shot  251  extrapolation finished,and now is writing disk
+ shot  251  is done
+ shot is 249  myid=           0 nt=       10000 it=         603
+ shot is 249  myid=           0 nt=       10000 it=         804
+ shot is 249  myid=           0 nt=       10000 it=        1005
+ shot is 249  myid=           0 nt=       10000 it=        1206
+ shot is 249  myid=           0 nt=       10000 it=        1407
+ shot is 249  myid=           0 nt=       10000 it=        1608
+ shot is 249  myid=           0 nt=       10000 it=        1809
+ shot is 249  myid=           0 nt=       10000 it=        2010
+ shot is 249  myid=           0 nt=       10000 it=        2211
+ shot is 249  myid=           0 nt=       10000 it=        2412
+ shot is 249  myid=           0 nt=       10000 it=        2613
+ shot is 249  myid=           0 nt=       10000 it=        2814
+ shot is 249  myid=           0 nt=       10000 it=        3015
+ shot is 249  myid=           0 nt=       10000 it=        3216
+ shot is 249  myid=           0 nt=       10000 it=        3417
+ shot is 249  myid=           0 nt=       10000 it=        3618
+ shot  250  extrapolation finished,and now is writing disk
+ shot  250  is done
+ shot is 249  myid=           0 nt=       10000 it=        3819
+ shot  255  extrapolation finished,and now is writing disk
+ shot  255  is done
+ shot is 249  myid=           0 nt=       10000 it=        4020
+ shot is 249  myid=           0 nt=       10000 it=        4221
+ shot is 249  myid=           0 nt=       10000 it=        4422
+ shot  262  extrapolation finished,and now is writing disk
+ shot  262  is done
+ shot is 249  myid=           0 nt=       10000 it=        4623
+ shot is 249  myid=           0 nt=       10000 it=        4824
+ shot is 249  myid=           0 nt=       10000 it=        5025
+ shot is 249  myid=           0 nt=       10000 it=        5226
+ shot is 249  myid=           0 nt=       10000 it=        5427
+ shot is 249  myid=           0 nt=       10000 it=        5628
+ shot  260  extrapolation finished,and now is writing disk
+ shot  260  is done
+ shot is 249  myid=           0 nt=       10000 it=        5829
+ shot is 249  myid=           0 nt=       10000 it=        6030
+ shot is 249  myid=           0 nt=       10000 it=        6231
+ shot is 249  myid=           0 nt=       10000 it=        6432
+ shot is 249  myid=           0 nt=       10000 it=        6633
+ shot is 249  myid=           0 nt=       10000 it=        6834
+ shot is 249  myid=           0 nt=       10000 it=        7035
+ shot  261  extrapolation finished,and now is writing disk
+ shot  261  is done
+ shot is 249  myid=           0 nt=       10000 it=        7236
+ shot is 249  myid=           0 nt=       10000 it=        7437
+ shot is 249  myid=           0 nt=       10000 it=        7638
+ shot is 249  myid=           0 nt=       10000 it=        7839
+ shot is 249  myid=           0 nt=       10000 it=        8040
+ shot is 249  myid=           0 nt=       10000 it=        8241
+ shot is 249  myid=           0 nt=       10000 it=        8442
+ shot is 249  myid=           0 nt=       10000 it=        8643
+ shot is 249  myid=           0 nt=       10000 it=        8844
+ shot  264  extrapolation finished,and now is writing disk
+ shot  264  is done
+ shot is 249  myid=           0 nt=       10000 it=        9045
+ shot is 249  myid=           0 nt=       10000 it=        9246
+ shot is 249  myid=           0 nt=       10000 it=        9447
+ shot is 249  myid=           0 nt=       10000 it=        9648
+ shot is 249  myid=           0 nt=       10000 it=        9849
+ shot is 249  myid=           0 nt=       10000 it=       10050
+ shot  249  extrapolation finished,and now is writing disk
+ shot  249  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 257  myid=           0 nt=       10000 it=         201
+ shot  259  extrapolation finished,and now is writing disk
+ shot  259  is done
+ shot is 257  myid=           0 nt=       10000 it=         402
+ shot is 257  myid=           0 nt=       10000 it=         603
+ shot is 257  myid=           0 nt=       10000 it=         804
+ shot is 257  myid=           0 nt=       10000 it=        1005
+ shot is 257  myid=           0 nt=       10000 it=        1206
+ shot is 257  myid=           0 nt=       10000 it=        1407
+ shot is 257  myid=           0 nt=       10000 it=        1608
+ shot is 257  myid=           0 nt=       10000 it=        1809
+ shot is 257  myid=           0 nt=       10000 it=        2010
+ shot is 257  myid=           0 nt=       10000 it=        2211
+ shot is 257  myid=           0 nt=       10000 it=        2412
+ shot is 257  myid=           0 nt=       10000 it=        2613
+ shot is 257  myid=           0 nt=       10000 it=        2814
+ shot is 257  myid=           0 nt=       10000 it=        3015
+ shot is 257  myid=           0 nt=       10000 it=        3216
+ shot is 257  myid=           0 nt=       10000 it=        3417
+ shot is 257  myid=           0 nt=       10000 it=        3618
+ shot is 257  myid=           0 nt=       10000 it=        3819
+ shot is 257  myid=           0 nt=       10000 it=        4020
+ shot  258  extrapolation finished,and now is writing disk
+ shot  258  is done
+ shot is 257  myid=           0 nt=       10000 it=        4221
+ shot  263  extrapolation finished,and now is writing disk
+ shot  263  is done
+ shot is 257  myid=           0 nt=       10000 it=        4422
+ shot is 257  myid=           0 nt=       10000 it=        4623
+ shot is 257  myid=           0 nt=       10000 it=        4824
+ shot  270  extrapolation finished,and now is writing disk
+ shot  270  is done
+ shot is 257  myid=           0 nt=       10000 it=        5025
+ shot is 257  myid=           0 nt=       10000 it=        5226
+ shot is 257  myid=           0 nt=       10000 it=        5427
+ shot is 257  myid=           0 nt=       10000 it=        5628
+ shot  268  extrapolation finished,and now is writing disk
+ shot  268  is done
+ shot is 257  myid=           0 nt=       10000 it=        5829
+ shot is 257  myid=           0 nt=       10000 it=        6030
+ shot is 257  myid=           0 nt=       10000 it=        6231
+ shot is 257  myid=           0 nt=       10000 it=        6432
+ shot is 257  myid=           0 nt=       10000 it=        6633
+ shot is 257  myid=           0 nt=       10000 it=        6834
+ shot is 257  myid=           0 nt=       10000 it=        7035
+ shot is 257  myid=           0 nt=       10000 it=        7236
+ shot is 257  myid=           0 nt=       10000 it=        7437
+ shot is 257  myid=           0 nt=       10000 it=        7638
+ shot  269  extrapolation finished,and now is writing disk
+ shot  269  is done
+ shot is 257  myid=           0 nt=       10000 it=        7839
+ shot is 257  myid=           0 nt=       10000 it=        8040
+ shot is 257  myid=           0 nt=       10000 it=        8241
+ shot is 257  myid=           0 nt=       10000 it=        8442
+ shot is 257  myid=           0 nt=       10000 it=        8643
+ shot  272  extrapolation finished,and now is writing disk
+ shot  272  is done
+ shot is 257  myid=           0 nt=       10000 it=        8844
+ shot is 257  myid=           0 nt=       10000 it=        9045
+ shot is 257  myid=           0 nt=       10000 it=        9246
+ shot is 257  myid=           0 nt=       10000 it=        9447
+ shot is 257  myid=           0 nt=       10000 it=        9648
+ shot is 257  myid=           0 nt=       10000 it=        9849
+ shot is 257  myid=           0 nt=       10000 it=       10050
+ shot  257  extrapolation finished,and now is writing disk
+ shot  257  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 265  myid=           0 nt=       10000 it=         201
+ shot is 265  myid=           0 nt=       10000 it=         402
+ shot is 265  myid=           0 nt=       10000 it=         603
+ shot  267  extrapolation finished,and now is writing disk
+ shot  267  is done
+ shot is 265  myid=           0 nt=       10000 it=         804
+ shot is 265  myid=           0 nt=       10000 it=        1005
+ shot is 265  myid=           0 nt=       10000 it=        1206
+ shot is 265  myid=           0 nt=       10000 it=        1407
+ shot is 265  myid=           0 nt=       10000 it=        1608
+ shot is 265  myid=           0 nt=       10000 it=        1809
+ shot is 265  myid=           0 nt=       10000 it=        2010
+ shot is 265  myid=           0 nt=       10000 it=        2211
+ shot is 265  myid=           0 nt=       10000 it=        2412
+ shot is 265  myid=           0 nt=       10000 it=        2613
+ shot is 265  myid=           0 nt=       10000 it=        2814
+ shot is 265  myid=           0 nt=       10000 it=        3015
+ shot is 265  myid=           0 nt=       10000 it=        3216
+ shot is 265  myid=           0 nt=       10000 it=        3417
+ shot is 265  myid=           0 nt=       10000 it=        3618
+ shot is 265  myid=           0 nt=       10000 it=        3819
+ shot is 265  myid=           0 nt=       10000 it=        4020
+ shot is 265  myid=           0 nt=       10000 it=        4221
+ shot is 265  myid=           0 nt=       10000 it=        4422
+ shot  266  extrapolation finished,and now is writing disk
+ shot  266  is done
+ shot is 265  myid=           0 nt=       10000 it=        4623
+ shot is 265  myid=           0 nt=       10000 it=        4824
+ shot  271  extrapolation finished,and now is writing disk
+ shot  271  is done
+ shot is 265  myid=           0 nt=       10000 it=        5025
+ shot  278  extrapolation finished,and now is writing disk
+ shot  278  is done
+ shot is 265  myid=           0 nt=       10000 it=        5226
+ shot is 265  myid=           0 nt=       10000 it=        5427
+ shot is 265  myid=           0 nt=       10000 it=        5628
+ shot is 265  myid=           0 nt=       10000 it=        5829
+ shot is 265  myid=           0 nt=       10000 it=        6030
+ shot  276  extrapolation finished,and now is writing disk
+ shot  276  is done
+ shot is 265  myid=           0 nt=       10000 it=        6231
+ shot is 265  myid=           0 nt=       10000 it=        6432
+ shot is 265  myid=           0 nt=       10000 it=        6633
+ shot is 265  myid=           0 nt=       10000 it=        6834
+ shot is 265  myid=           0 nt=       10000 it=        7035
+ shot is 265  myid=           0 nt=       10000 it=        7236
+ shot is 265  myid=           0 nt=       10000 it=        7437
+ shot  277  extrapolation finished,and now is writing disk
+ shot  277  is done
+ shot is 265  myid=           0 nt=       10000 it=        7638
+ shot is 265  myid=           0 nt=       10000 it=        7839
+ shot is 265  myid=           0 nt=       10000 it=        8040
+ shot is 265  myid=           0 nt=       10000 it=        8241
+ shot is 265  myid=           0 nt=       10000 it=        8442
+ shot  280  extrapolation finished,and now is writing disk
+ shot  280  is done
+ shot is 265  myid=           0 nt=       10000 it=        8643
+ shot is 265  myid=           0 nt=       10000 it=        8844
+ shot is 265  myid=           0 nt=       10000 it=        9045
+ shot is 265  myid=           0 nt=       10000 it=        9246
+ shot is 265  myid=           0 nt=       10000 it=        9447
+ shot is 265  myid=           0 nt=       10000 it=        9648
+ shot is 265  myid=           0 nt=       10000 it=        9849
+ shot is 265  myid=           0 nt=       10000 it=       10050
+ shot  265  extrapolation finished,and now is writing disk
+ shot  265  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 273  myid=           0 nt=       10000 it=         201
+ shot is 273  myid=           0 nt=       10000 it=         402
+ shot is 273  myid=           0 nt=       10000 it=         603
+ shot  275  extrapolation finished,and now is writing disk
+ shot  275  is done
+ shot is 273  myid=           0 nt=       10000 it=         804
+ shot is 273  myid=           0 nt=       10000 it=        1005
+ shot is 273  myid=           0 nt=       10000 it=        1206
+ shot is 273  myid=           0 nt=       10000 it=        1407
+ shot is 273  myid=           0 nt=       10000 it=        1608
+ shot is 273  myid=           0 nt=       10000 it=        1809
+ shot is 273  myid=           0 nt=       10000 it=        2010
+ shot is 273  myid=           0 nt=       10000 it=        2211
+ shot is 273  myid=           0 nt=       10000 it=        2412
+ shot is 273  myid=           0 nt=       10000 it=        2613
+ shot is 273  myid=           0 nt=       10000 it=        2814
+ shot is 273  myid=           0 nt=       10000 it=        3015
+ shot is 273  myid=           0 nt=       10000 it=        3216
+ shot is 273  myid=           0 nt=       10000 it=        3417
+ shot is 273  myid=           0 nt=       10000 it=        3618
+ shot is 273  myid=           0 nt=       10000 it=        3819
+ shot is 273  myid=           0 nt=       10000 it=        4020
+ shot is 273  myid=           0 nt=       10000 it=        4221
+ shot is 273  myid=           0 nt=       10000 it=        4422
+ shot  279  extrapolation finished,and now is writing disk
+ shot  279  is done
+ shot is 273  myid=           0 nt=       10000 it=        4623
+ shot  274  extrapolation finished,and now is writing disk
+ shot  274  is done
+ shot is 273  myid=           0 nt=       10000 it=        4824
+ shot is 273  myid=           0 nt=       10000 it=        5025
+ shot is 273  myid=           0 nt=       10000 it=        5226
+ shot  286  extrapolation finished,and now is writing disk
+ shot  286  is done
+ shot is 273  myid=           0 nt=       10000 it=        5427
+ shot is 273  myid=           0 nt=       10000 it=        5628
+ shot is 273  myid=           0 nt=       10000 it=        5829
+ shot  284  extrapolation finished,and now is writing disk
+ shot  284  is done
+ shot is 273  myid=           0 nt=       10000 it=        6030
+ shot is 273  myid=           0 nt=       10000 it=        6231
+ shot is 273  myid=           0 nt=       10000 it=        6432
+ shot is 273  myid=           0 nt=       10000 it=        6633
+ shot is 273  myid=           0 nt=       10000 it=        6834
+ shot is 273  myid=           0 nt=       10000 it=        7035
+ shot  285  extrapolation finished,and now is writing disk
+ shot  285  is done
+ shot is 273  myid=           0 nt=       10000 it=        7236
+ shot is 273  myid=           0 nt=       10000 it=        7437
+ shot is 273  myid=           0 nt=       10000 it=        7638
+ shot is 273  myid=           0 nt=       10000 it=        7839
+ shot is 273  myid=           0 nt=       10000 it=        8040
+ shot is 273  myid=           0 nt=       10000 it=        8241
+ shot is 273  myid=           0 nt=       10000 it=        8442
+ shot is 273  myid=           0 nt=       10000 it=        8643
+ shot  288  extrapolation finished,and now is writing disk
+ shot  288  is done
+ shot is 273  myid=           0 nt=       10000 it=        8844
+ shot is 273  myid=           0 nt=       10000 it=        9045
+ shot is 273  myid=           0 nt=       10000 it=        9246
+ shot is 273  myid=           0 nt=       10000 it=        9447
+ shot is 273  myid=           0 nt=       10000 it=        9648
+ shot is 273  myid=           0 nt=       10000 it=        9849
+ shot is 273  myid=           0 nt=       10000 it=       10050
+ shot  273  extrapolation finished,and now is writing disk
+ shot  273  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 281  myid=           0 nt=       10000 it=         201
+ shot is 281  myid=           0 nt=       10000 it=         402
+ shot is 281  myid=           0 nt=       10000 it=         603
+ shot  283  extrapolation finished,and now is writing disk
+ shot  283  is done
+ shot is 281  myid=           0 nt=       10000 it=         804
+ shot is 281  myid=           0 nt=       10000 it=        1005
+ shot is 281  myid=           0 nt=       10000 it=        1206
+ shot is 281  myid=           0 nt=       10000 it=        1407
+ shot is 281  myid=           0 nt=       10000 it=        1608
+ shot is 281  myid=           0 nt=       10000 it=        1809
+ shot is 281  myid=           0 nt=       10000 it=        2010
+ shot is 281  myid=           0 nt=       10000 it=        2211
+ shot is 281  myid=           0 nt=       10000 it=        2412
+ shot is 281  myid=           0 nt=       10000 it=        2613
+ shot is 281  myid=           0 nt=       10000 it=        2814
+ shot is 281  myid=           0 nt=       10000 it=        3015
+ shot is 281  myid=           0 nt=       10000 it=        3216
+ shot is 281  myid=           0 nt=       10000 it=        3417
+ shot is 281  myid=           0 nt=       10000 it=        3618
+ shot is 281  myid=           0 nt=       10000 it=        3819
+ shot is 281  myid=           0 nt=       10000 it=        4020
+ shot is 281  myid=           0 nt=       10000 it=        4221
+ shot  282  extrapolation finished,and now is writing disk
+ shot  282  is done
+ shot is 281  myid=           0 nt=       10000 it=        4422
+ shot is 281  myid=           0 nt=       10000 it=        4623
+ shot  287  extrapolation finished,and now is writing disk
+ shot  287  is done
+ shot is 281  myid=           0 nt=       10000 it=        4824
+ shot  294  extrapolation finished,and now is writing disk
+ shot  294  is done
+ shot is 281  myid=           0 nt=       10000 it=        5025
+ shot is 281  myid=           0 nt=       10000 it=        5226
+ shot is 281  myid=           0 nt=       10000 it=        5427
+ shot is 281  myid=           0 nt=       10000 it=        5628
+ shot is 281  myid=           0 nt=       10000 it=        5829
+ shot  292  extrapolation finished,and now is writing disk
+ shot  292  is done
+ shot is 281  myid=           0 nt=       10000 it=        6030
+ shot is 281  myid=           0 nt=       10000 it=        6231
+ shot is 281  myid=           0 nt=       10000 it=        6432
+ shot is 281  myid=           0 nt=       10000 it=        6633
+ shot  293  extrapolation finished,and now is writing disk
+ shot  293  is done
+ shot is 281  myid=           0 nt=       10000 it=        6834
+ shot is 281  myid=           0 nt=       10000 it=        7035
+ shot is 281  myid=           0 nt=       10000 it=        7236
+ shot is 281  myid=           0 nt=       10000 it=        7437
+ shot is 281  myid=           0 nt=       10000 it=        7638
+ shot is 281  myid=           0 nt=       10000 it=        7839
+ shot  296  extrapolation finished,and now is writing disk
+ shot  296  is done
+ shot is 281  myid=           0 nt=       10000 it=        8040
+ shot is 281  myid=           0 nt=       10000 it=        8241
+ shot is 281  myid=           0 nt=       10000 it=        8442
+ shot is 281  myid=           0 nt=       10000 it=        8643
+ shot is 281  myid=           0 nt=       10000 it=        8844
+ shot is 281  myid=           0 nt=       10000 it=        9045
+ shot is 281  myid=           0 nt=       10000 it=        9246
+ shot is 281  myid=           0 nt=       10000 it=        9447
+ shot is 281  myid=           0 nt=       10000 it=        9648
+ shot is 281  myid=           0 nt=       10000 it=        9849
+ shot is 281  myid=           0 nt=       10000 it=       10050
+ shot  281  extrapolation finished,and now is writing disk
+ shot  281  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 289  myid=           0 nt=       10000 it=         201
+ shot is 289  myid=           0 nt=       10000 it=         402
+ shot is 289  myid=           0 nt=       10000 it=         603
+ shot  291  extrapolation finished,and now is writing disk
+ shot  291  is done
+ shot is 289  myid=           0 nt=       10000 it=         804
+ shot is 289  myid=           0 nt=       10000 it=        1005
+ shot is 289  myid=           0 nt=       10000 it=        1206
+ shot is 289  myid=           0 nt=       10000 it=        1407
+ shot is 289  myid=           0 nt=       10000 it=        1608
+ shot is 289  myid=           0 nt=       10000 it=        1809
+ shot is 289  myid=           0 nt=       10000 it=        2010
+ shot is 289  myid=           0 nt=       10000 it=        2211
+ shot is 289  myid=           0 nt=       10000 it=        2412
+ shot is 289  myid=           0 nt=       10000 it=        2613
+ shot is 289  myid=           0 nt=       10000 it=        2814
+ shot is 289  myid=           0 nt=       10000 it=        3015
+ shot is 289  myid=           0 nt=       10000 it=        3216
+ shot  290  extrapolation finished,and now is writing disk
+ shot  290  is done
+ shot is 289  myid=           0 nt=       10000 it=        3417
+ shot is 289  myid=           0 nt=       10000 it=        3618
+ shot is 289  myid=           0 nt=       10000 it=        3819
+ shot is 289  myid=           0 nt=       10000 it=        4020
+ shot is 289  myid=           0 nt=       10000 it=        4221
+ shot is 289  myid=           0 nt=       10000 it=        4422
+ shot is 289  myid=           0 nt=       10000 it=        4623
+ shot  295  extrapolation finished,and now is writing disk
+ shot  295  is done
+ shot is 289  myid=           0 nt=       10000 it=        4824
+ shot is 289  myid=           0 nt=       10000 it=        5025
+ shot is 289  myid=           0 nt=       10000 it=        5226
+ shot is 289  myid=           0 nt=       10000 it=        5427
+ shot is 289  myid=           0 nt=       10000 it=        5628
+ shot is 289  myid=           0 nt=       10000 it=        5829
+ shot  300  extrapolation finished,and now is writing disk
+ shot  300  is done
+ shot is 289  myid=           0 nt=       10000 it=        6030
+ shot is 289  myid=           0 nt=       10000 it=        6231
+ shot is 289  myid=           0 nt=       10000 it=        6432
+ shot is 289  myid=           0 nt=       10000 it=        6633
+ shot is 289  myid=           0 nt=       10000 it=        6834
+ shot is 289  myid=           0 nt=       10000 it=        7035
+ shot is 289  myid=           0 nt=       10000 it=        7236
+ shot is 289  myid=           0 nt=       10000 it=        7437
+ shot is 289  myid=           0 nt=       10000 it=        7638
+ shot is 289  myid=           0 nt=       10000 it=        7839
+ shot is 289  myid=           0 nt=       10000 it=        8040
+ shot is 289  myid=           0 nt=       10000 it=        8241
+ shot is 289  myid=           0 nt=       10000 it=        8442
+ shot is 289  myid=           0 nt=       10000 it=        8643
+ shot is 289  myid=           0 nt=       10000 it=        8844
+ shot is 289  myid=           0 nt=       10000 it=        9045
+ shot is 289  myid=           0 nt=       10000 it=        9246
+ shot is 289  myid=           0 nt=       10000 it=        9447
+ shot is 289  myid=           0 nt=       10000 it=        9648
+ shot is 289  myid=           0 nt=       10000 it=        9849
+ shot is 289  myid=           0 nt=       10000 it=       10050
+ shot  289  extrapolation finished,and now is writing disk
+ shot  289  is done
+ currshot_range,currshot_range_all,currshot_nsx,nz,nsz0
+         600         698         350         348           1
+ shot is 297  myid=           0 nt=       10000 it=         201
+ shot  299  extrapolation finished,and now is writing disk
+ shot  299  is done
+ shot is 297  myid=           0 nt=       10000 it=         402
+ shot is 297  myid=           0 nt=       10000 it=         603
+ shot is 297  myid=           0 nt=       10000 it=         804
+ shot is 297  myid=           0 nt=       10000 it=        1005
+ shot is 297  myid=           0 nt=       10000 it=        1206
+ shot is 297  myid=           0 nt=       10000 it=        1407
+ shot is 297  myid=           0 nt=       10000 it=        1608
+ shot is 297  myid=           0 nt=       10000 it=        1809
+ shot is 297  myid=           0 nt=       10000 it=        2010
+ shot is 297  myid=           0 nt=       10000 it=        2211
+ shot is 297  myid=           0 nt=       10000 it=        2412
+ shot is 297  myid=           0 nt=       10000 it=        2613
+ shot is 297  myid=           0 nt=       10000 it=        2814
+ shot is 297  myid=           0 nt=       10000 it=        3015
+ shot is 297  myid=           0 nt=       10000 it=        3216
+ shot is 297  myid=           0 nt=       10000 it=        3417
+ shot is 297  myid=           0 nt=       10000 it=        3618
+ shot is 297  myid=           0 nt=       10000 it=        3819
+ shot is 297  myid=           0 nt=       10000 it=        4020
+ shot is 297  myid=           0 nt=       10000 it=        4221
+ shot is 297  myid=           0 nt=       10000 it=        4422
+ shot  298  extrapolation finished,and now is writing disk
+ shot  298  is done
+ shot is 297  myid=           0 nt=       10000 it=        4623
+ shot is 297  myid=           0 nt=       10000 it=        4824
+ shot is 297  myid=           0 nt=       10000 it=        5025
+ shot is 297  myid=           0 nt=       10000 it=        5226
+ shot is 297  myid=           0 nt=       10000 it=        5427
+ shot is 297  myid=           0 nt=       10000 it=        5628
+ shot is 297  myid=           0 nt=       10000 it=        5829
+ shot is 297  myid=           0 nt=       10000 it=        6030
+ shot is 297  myid=           0 nt=       10000 it=        6231
+ shot is 297  myid=           0 nt=       10000 it=        6432
+ shot is 297  myid=           0 nt=       10000 it=        6633
+ shot is 297  myid=           0 nt=       10000 it=        6834
+ shot is 297  myid=           0 nt=       10000 it=        7035
+ shot is 297  myid=           0 nt=       10000 it=        7236
+ shot is 297  myid=           0 nt=       10000 it=        7437
+ shot is 297  myid=           0 nt=       10000 it=        7638
+ shot is 297  myid=           0 nt=       10000 it=        7839
+ shot is 297  myid=           0 nt=       10000 it=        8040
+ shot is 297  myid=           0 nt=       10000 it=        8241
+ shot is 297  myid=           0 nt=       10000 it=        8442
+ shot is 297  myid=           0 nt=       10000 it=        8643
+ shot is 297  myid=           0 nt=       10000 it=        8844
+ shot is 297  myid=           0 nt=       10000 it=        9045
+ shot is 297  myid=           0 nt=       10000 it=        9246
+ shot is 297  myid=           0 nt=       10000 it=        9447
+ shot is 297  myid=           0 nt=       10000 it=        9648
+ shot is 297  myid=           0 nt=       10000 it=        9849
+ shot is 297  myid=           0 nt=       10000 it=       10050
+ shot  297  extrapolation finished,and now is writing disk
+ shot  297  is done
+ Now merging shot_record files begins
+  /data2/swq/data_for_mwd_test/orig_shot_tmp1.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp2.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp3.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp4.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp5.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp6.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp7.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp8.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp9.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp10.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp11.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp12.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp13.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp14.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp15.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp16.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp17.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp18.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp19.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp20.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp21.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp22.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp23.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp24.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp25.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp26.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp27.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp28.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp29.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp30.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp31.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp32.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp33.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp34.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp35.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp36.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp37.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp38.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp39.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp40.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp41.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp42.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp43.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp44.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp45.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp46.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp47.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp48.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp49.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp50.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp51.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp52.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp53.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp54.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp55.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp56.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp57.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp58.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp59.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp60.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp61.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp62.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp63.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp64.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp65.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp66.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp67.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp68.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp69.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp70.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp71.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp72.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp73.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp74.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp75.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp76.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp77.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp78.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp79.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp80.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp81.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp82.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp83.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp84.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp85.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp86.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp87.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp88.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp89.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp90.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp91.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp92.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp93.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp94.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp95.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp96.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp97.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp98.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp99.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp100.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp101.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp102.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp103.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp104.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp105.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp106.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp107.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp108.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp109.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp110.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp111.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp112.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp113.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp114.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp115.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp116.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp117.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp118.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp119.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp120.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp121.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp122.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp123.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp124.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp125.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp126.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp127.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp128.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp129.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp130.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp131.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp132.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp133.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp134.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp135.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp136.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp137.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp138.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp139.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp140.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp141.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp142.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp143.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp144.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp145.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp146.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp147.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp148.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp149.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp150.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp151.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp152.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp153.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp154.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp155.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp156.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp157.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp158.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp159.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp160.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp161.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp162.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp163.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp164.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp165.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp166.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp167.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp168.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp169.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp170.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp171.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp172.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp173.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp174.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp175.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp176.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp177.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp178.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp179.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp180.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp181.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp182.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp183.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp184.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp185.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp186.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp187.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp188.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp189.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp190.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp191.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp192.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp193.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp194.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp195.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp196.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp197.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp198.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp199.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp200.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp201.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp202.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp203.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp204.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp205.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp206.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp207.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp208.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp209.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp210.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp211.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp212.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp213.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp214.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp215.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp216.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp217.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp218.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp219.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp220.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp221.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp222.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp223.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp224.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp225.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp226.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp227.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp228.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp229.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp230.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp231.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp232.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp233.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp234.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp235.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp236.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp237.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp238.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp239.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp240.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp241.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp242.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp243.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp244.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp245.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp246.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp247.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp248.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp249.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp250.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp251.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp252.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp253.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp254.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp255.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp256.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp257.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp258.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp259.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp260.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp261.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp262.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp263.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp264.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp265.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp266.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp267.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp268.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp269.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp270.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp271.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp272.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp273.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp274.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp275.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp276.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp277.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp278.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp279.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp280.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp281.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp282.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp283.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp284.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp285.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp286.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp287.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp288.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp289.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp290.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp291.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp292.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp293.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp294.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp295.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp296.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp297.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp298.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp299.su is bening merged
+  /data2/swq/data_for_mwd_test/orig_shot_tmp300.su is bening merged
+ ==========2D_VTI_qusi_acoustic_modelling end==========

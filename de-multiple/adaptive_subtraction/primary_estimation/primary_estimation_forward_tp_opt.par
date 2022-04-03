@@ -1,0 +1,27 @@
+/data1/swq/srme_primary_est/100shots_prediction_120hz_tp.dat
+/data1/swq/srme_primary_est/csg_100shot_pre_sem.dat
+/data1/swq/srme_primary_est/100shots_prediction_120hz_tp_opt.dat
+/data1/swq/srme_primary_est/100shots_prediction_120hz_tp_cons_opt.dat
+100
+100
+15
+2000
+0.001
+
+
+
+
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold

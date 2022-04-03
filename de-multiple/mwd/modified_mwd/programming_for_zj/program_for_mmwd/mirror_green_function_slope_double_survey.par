@@ -1,0 +1,67 @@
+/data2/swq/zj_shallow_field_data/result/field_shallow_water_layer_depth_150m.dat
+/data2/swq/zj_shallow_field_data/result/green_function_real_tmp.dat
+/data2/swq/zj_shallow_field_data/result/green_function_imag_tmp.dat
+/data2/swq/zj_shallow_field_data/result/green_function_slope_shallow_field_data_150m.dat
+248
+25.0
+1.0
+248
+248
+4096
+2.0
+25.0
+25.0
+0.0
+120.0
+1500.0
+1500
+50
+85.0
+0
+50
+10
+0.3333
+0.6667
+
+
+
+fn1:fna of input shot gather
+fn2:fna of output shot gather
+fn3:fna of water layer depth
+fn4:fna of real part of fft of original data
+fn5:fna of imaginary part of fft of original data
+fn6:fna of real part of fft of predicted model for positive frequencies
+fn7:fna of imaginary part of fft of predicted model for positive frequencies
+fn8:fna of real part of fft of predicted model for all positive frequencies
+fn9:fna of imaginary part of fft of predicted model for all frequencies
+fn10(fn8):   fna of the MCG of the real part
+fn11(fn9):   fna of the MCG of the imaginary part
+fn12(fn10):  fna of MCG
+fn13(fn100): fna of MCG for a certain trace
+fn14(fn1000):fna of srm of a certain trace
+nx
+dx
+dz
+nshot
+ntrace, nshot should be equal to ntrace
+lt
+dt(ms)
+dsx
+drx
+minimum frequency
+maximum frequency
+velocity of water 
+half of width of boundary
+No. of shot to be predicted
+dip_max
+width of taper for absorbing
+length of taper for gibbs effects
+the trace to be outputed
+starting point for stacking
+ending point for stacking
+
+
+
+
+
+

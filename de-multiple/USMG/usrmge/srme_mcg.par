@@ -1,0 +1,48 @@
+/data4/swq/2d_modeling_data/csg_500shots_real.dat
+/data4/swq/2d_modeling_data/csg_500shots_imag.dat
+/data4/swq/2d_modeling_data/csg_500shots_real.dat
+/data4/swq/2d_modeling_data/csg_500shots_imag.dat
+/data4/swq/2d_modeling_data/crg_500shots_real.dat
+/data4/swq/2d_modeling_data/crg_500shots_imag.dat
+/data4/swq/2d_modeling_data/crg_500shots_real.dat
+/data4/swq/2d_modeling_data/crg_500shots_imag.dat
+/data4/swq/2d_modeling_data/1st_shot_multiple_model_0406.dat
+/data4/swq/2d_modeling_data/1st_shot_multiple_model_0406_real.dat
+/data4/swq/2d_modeling_data/1st_shot_multiple_model_0406_imag.dat
+500
+500
+5000
+0.5
+150.0
+0.0
+0.4
+0.6
+
+
+
+
+
+fn1:   fna of real parts of upward wavefields of source side
+fn11:  fna of imaginary parts of upward wavefields of source side
+fn2:   fna of real parts of downward wavefields of source side
+fn22:  fna of imaginary parts of downward wavefields of source side
+fn3:   fna of real parts of upward wavefields of receiver side
+fn33:  fna of imaginary parts of upward wavefields of receiver side
+fn4:   fna of real parts of downward wavefields of receiver side
+fn44:  fna of imaginary parts of downward wavefields of receiver side
+fn5:   fna of the predicted srm
+fn6:   fna of the predicted srm of the real part
+fn7:   fna of the predicted srm of the imaginary part
+fn8:   fna of the MCG of the real part
+fn9:   fna of the MCG of the imaginary part
+fn10:  fna of MCG
+nshot
+ntrace //nshot should be equal to ntrace
+lt
+dt
+fmax
+fmin
+the number of shot for MCG outputing
+the trace to be outputed
+starting point for stacking
+ending point for stacking

@@ -1,0 +1,50 @@
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_green_ftp_sparse_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_green_ftp_sparse_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_pri_new_ftp_sparse_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_pri_new_ftp_sparse_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_pri_new_ftp_sparse_real.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_pri_new_ftp_sparse_imag.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/csg_400_shots_green_sem.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_green_sem.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/trace250_1st_shot_srm_prediction_pri_inner_mcg_optoperture_pconstraints_sparse.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/trace250_1st_shot_srm_prediction_pri_outer_mcg_optoperture_pconstraints_sparse.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/trace1to20_1st_shot_wlrim_prediction_pri_optoperture_pconstraints_sparse.dat
+400
+400
+4000
+0.5
+5.0
+5.0
+0.0
+0.0
+1500.0
+89.0
+1000
+1000
+200.0
+0.0
+100.0
+0.4
+0.6
+150
+15
+
+
+Fna of input shot gather
+Fna of wlrm and ghost prediction
+No. of shots
+No. of traces per shot
+lt
+dt/ms
+Source Interval
+Receiver Interval
+Source Depth
+Receiver Depth
+Water Velocity
+Maximum Theta
+Left Boundary
+Right Boundary
+Maximum Frequency
+Minimum Frequency
+Regulation Parameter 
+water bottom

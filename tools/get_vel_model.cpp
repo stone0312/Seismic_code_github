@@ -12,8 +12,8 @@
 #include<iostream>
 #include<math.h>
 
-#define nx 497
-#define nz 750
+#define nx 81
+#define nz 251
 
 using namespace std;
 
@@ -25,15 +25,27 @@ int main(int argc, char *argv[])
 	
 	for (i = 0; i < nx ; ++i) 
 	{
-		for (j = 0; j < nz; ++j) 
+		for (j = 0; j < 30; ++j) 
 		{
-			v[i][j]=1500+1.25*j;
+			v[i][j]=1500;
+		}
+		for (j = 30; j < 50; ++j) 
+		{
+			v[i][j]=2000;
+		}
+		for (j = 50; j < 70; ++j) 
+		{
+			v[i][j]=2500;
+		}
+		for (j = 70; j < nz; ++j) 
+		{
+			v[i][j]=3000;
 		}
 	}
 
 	ofstream ouF;
 
-	ouF.open("./vel_model.dat",ios :: binary);
+	ouF.open("./vel_model_ring.dat",ios :: binary);
 
 	for (i = 0; i < nx ; ++i) 
 	{

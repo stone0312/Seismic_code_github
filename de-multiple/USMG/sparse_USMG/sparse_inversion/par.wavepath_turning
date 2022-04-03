@@ -1,0 +1,11 @@
+vtruefile	/home/fb/rtm2d_modelingonly/sparse_inversion/wavepath_turning/wavepath.dat
+vobsfile	/home/fb/rtm2d_modelingonly/sparse_inversion/wavepath_turning/wavepath.dat
+vinvfile	/home/fb/rtm2d_modelingonly/sparse_inversion/wavepath_turning/wavepath.inv.dat
+vresfile	/home/fb/rtm2d_modelingonly/sparse_inversion/wavepath_turning/wavepath.res.dat
+nx	1001
+nz	501
+nitermax	100
+lambda	0.02
+niu	0.0001
+epsmin	9E-10
+type	l1

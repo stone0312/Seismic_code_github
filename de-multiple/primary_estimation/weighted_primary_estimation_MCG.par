@@ -1,0 +1,40 @@
+/data4/swq/primary_estimation/pe_upmg/csg_200shot_lt6000_pre_real.dat
+/data4/swq/primary_estimation/pe_upmg/csg_200shot_lt6000_pre_imag.dat
+/data4/swq/primary_estimation/pe_upmg/csg_up_200shot_lt6000_pri_real.dat
+/data4/swq/primary_estimation/pe_upmg/csg_up_200shot_lt6000_pri_imag.dat
+/data4/swq/primary_estimation/pe_upmg/crg_down_200shot_lt6000_pre_real.dat
+/data4/swq/primary_estimation/pe_upmg/crg_down_200shot_lt6000_pre_imag.dat
+/data4/swq/primary_estimation/pe_upmg/csg_200shot_lt6000_true_multiple_real.dat
+/data4/swq/primary_estimation/pe_upmg/csg_200shot_lt6000_true_multiple_imag.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_prediction_forward_MCG5_f5to100hz_E5_pri_filter.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_weights_MCG5_f5to100hz_E5_pri_filter.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_multiple_estimation_MCG5_f5to100hz_E5_pri_filter.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_multiple_difference_MCG5_f5to100hz_E5_pri_filter.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_multiple_estimation_MCG5_f5to100hz_E5_pri_forward_primary_estimation_filter.dat
+/data4/swq/primary_estimation/pe_upmg/100th_shot_MCG5_f5to100hz_E5_pri_primary_estimation_filter0595100.dat
+200
+200
+6000
+0.5
+5.0
+100.0
+0.00001
+10000
+5
+0.0 5.0 95.0 100.0
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold
+lamda
+normlization coe

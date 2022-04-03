@@ -1,0 +1,51 @@
+/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/csg_100shots_pre_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/csg_100shots_pri_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/csg_100shots_pri_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/crg_100shots_pre_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_real.dat
+/data4/swq/primary_estimation/csg_100shots_multiple_sr0m_ftp_raw_imag.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_multiple_difference_MCG25_f5to60hz_E2_pri_filter_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_forward_primary_estimation_filter_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi_real.dat
+/data4/swq/primary_estimation/50th_shot_prediction_forward_f5to60hz_E2_pri_filter_tp_mpi_imag.dat
+/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi_real.dat
+/data4/swq/primary_estimation/50th_shot_weights_MCG25_f5to60hz_E2_pri_filter_tp_mpi_imag.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi_real.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi_imag.dat
+/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi_real.dat
+/data4/swq/primary_estimation/50th_shot_MCG25_f5to60hz_E2_pri_primary_estimation_filter0252530_tp_mpi_imag.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi_new_real.dat
+/data4/swq/primary_estimation/50th_shot_multiple_estimation_MCG25_f5to60hz_E2_pri_filter_tp_mpi_new_imag.dat
+100
+100
+2000
+15
+0.5
+5.0
+60.0
+0.00001
+100
+25
+0.0 29.0 31.0 100.0
+
+fna of CSG Real
+fna of CSG Imaginary
+fna of CRG Real
+fna of CSG Imaginary
+fna of output forward prediction
+nshot
+no. of traces per shot
+lt
+dt/ms
+minimum frequency
+maximum frequency
+minimum threshold
+maximum threshold
+lamda
+normlization coe

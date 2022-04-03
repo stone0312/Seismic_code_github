@@ -1,0 +1,40 @@
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_200shots_pre2000_wl.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/200shots_pre2000_reconstruct_100m.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/p_domain_wlrm1.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_tau_p_time_domain_wl_primary2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/csg_tau_p_time_domain2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_tau_p_frequency_domain_real2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_tau_p_frequency_domain_imag2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/csg_tau_p_frequency_domain_real2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/csg_tau_p_frequency_domain_imag2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_inverse_tau_p_time_domain_wl_primary2.dat
+/data2/swq/shallow_water_mod_simple/wd_20m/singleside_survey/wd50m/crg_inverse_tau_p_time_domain2.dat
+399
+200
+5.0
+2000
+0.0005
+1500.0
+15
+10
+80.0
+0.2
+2.0 10.0 110.0 120.0
+
+
+
+
+fn1: input CSG
+fn2: input CRG of Green's Function
+fn3: output WLRM to be predicted
+ns: No. of  shots
+nr: No. of traces per shot,
+dx (m)
+lt
+dt (s)
+v: velocity of water
+np_h: half of the number of ray parameter minus 1, ie. np_h=(np-1)/2
+nx_h: half of the number of width of local window minus 1, ie. nx_h=(nx-1)/2
+theta_max
+threshold
+f1,f2,f3,f4 (hz)

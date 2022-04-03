@@ -1,0 +1,32 @@
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_green.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_green_ftp.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_green_itp.dat
+/data1/swq/wlrim_prediction/wlrim_prediction_complex/crg_400_shots_green_sem.dat
+400
+400
+4000
+15
+15
+85
+-85
+0.5
+5.0
+1500
+0.2
+0
+0
+100
+
+
+fna of initial data
+fna of forward tau-p
+fna of inverse tau-p
+ntrace
+lt
+dt:ms
+dx 
+np
+N:space length of local window
+theata_max
+theata_min
+velocity

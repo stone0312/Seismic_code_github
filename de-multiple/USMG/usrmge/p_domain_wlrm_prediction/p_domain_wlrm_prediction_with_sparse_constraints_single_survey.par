@@ -1,0 +1,41 @@
+/data/swq/zj_shallow_field_data/result/shot800to1047_orig_reconstruct_180m.dat
+/data/swq/zj_shallow_field_data/result/crg_green_function_slope_shallow_field_data_180m.dat
+/data/swq/zj_shallow_field_data/result/p_domain_wlrm_shallow_field.dat
+/data/swq/zj_shallow_field_data/result/crg_tau_p_time_domain.dat
+/data/swq/zj_shallow_field_data/result/crg_tau_p_time_domain.dat
+/data/swq/zj_shallow_field_data/result/shot800to1047_orig_tau_p_forward_real.dat
+/data/swq/zj_shallow_field_data/result/shot800to1047_orig_tau_p_forward_imag.dat
+/data/swq/zj_shallow_field_data/result/crg_green_shot800to1047_orig_tau_p_forward_real.dat
+/data/swq/zj_shallow_field_data/result/crg_green_shot800to1047_orig_tau_p_forward_imag.dat
+/data/swq/zj_shallow_field_data/result/csg_inverse_tau_p_time_domain.dat
+/data/swq/zj_shallow_field_data/result/crg_inverse_tau_p_time_domain.dat
+/data/swq/zj_shallow_field_data/result/mcg_p_wlrm_slope_shallow_200shots.dat
+248
+12.5
+4096
+0.002
+1500.0
+15
+15
+85.0
+0.2
+2.0 10.0 110.0 120.0
+100
+100
+
+
+
+
+fn1: input CSG
+fn2: input CRG of Green's Function
+fn3: output WLRM to be predicted
+nx: No. of traces per shot, nx should be the same as No. of shots
+dx (m)
+lt
+dt (s)
+v: velocity of water
+np_h: half of the number of ray parameter minus 1, ie. np_h=(np-1)/2
+nx_h: half of the number of width of local window minus 1, ie. nx_h=(nx-1)/2
+theta_max
+threshold
+f1,f2,f3,f4 (hz)
